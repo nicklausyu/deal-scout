@@ -1,65 +1,38 @@
 {
   "date": "2026-08-27",
   "items": [
-    {
-      "title": "UGG Euphoria Plush Faux Fur Throw Blanket (50\"x70\")",
-      "link": "https://www.amazon.com/UGG-Euphoria-Plush-Fur-Reversible/dp/B07WSGFX41",
-      "discount_pct": 46,
-      "category": "general"
-    },
-    {
-      "title": "BLUEAIR Mini Restful HEPA Purifier & Sunrise Alarm Clock",
-      "link": "https://electronics.woot.com/offers/blueair-hepa-purifier-sunrise-alarm-clock-5",
-      "discount_pct": 61,
-      "category": "general"
-    },
-    {
-      "title": "Samsung Galaxy Book6 16\" Copilot+ Laptop (Intel Core Ultra 7, 16GB/512GB)",
-      "link": "https://www.bestbuy.com/product/samsung-galaxy-book6-copilot-pc-16-ips-led-touch-screen-laptop-intel-core-ultra-7-16gb-memory-512gb-ssd-gray/JJGRF3H7ZX/sku/6670418",
-      "discount_pct": 45,
-      "category": "electronics"
-    },
-    {
-      "title": "Samsung 32\" Odyssey OLED G8 (G80SD) 4K UHD 240Hz Gaming Monitor",
-      "link": "https://www.bestbuy.com/product/samsung-32-odyssey-oled-g8-g80sd-4k-uhd-240hz-0-03ms-smart-gaming-monitor-with-hdr-silver/J3ZYG2TXQ5/sku/6573686",
-      "discount_pct": 38,
-      "category": "electronics"
-    },
-    {
-      "title": "Patagonia Men's Nano Puff Jacket (Web Specials)",
-      "link": "https://www.patagonia.com/shop/web-specials/mens/jackets-vests",
-      "discount_pct": 50,
-      "category": "Patagonia jacket"
-    },
-    {
-      "title": "Oru Bay Folding Kayak",
-      "link": "https://www.orukayak.com/collections/sale",
-      "discount_pct": 10,
-      "category": "kayak"
-    },
-    {
-      "title": "FunWater 10'6\" Inflatable Stand Up Paddle Board w/ Accessories",
-      "link": "https://www.amazon.com/FunWater-Inflatable-Ultra-Light-Paddleboard-Accessories/dp/B0DX5BWJ2W",
-      "discount_pct": 57,
-      "category": "paddleboard"
-    },
-    {
-      "title": "Apple AirPods Pro 3",
-      "link": "https://tech.yahoo.com/phones/deals/articles/airpods-pro-3-smash-190-121925037.html",
-      "discount_pct": 24,
-      "category": "Apple"
-    },
-    {
-      "title": "Apple Certified Refurbished 13\" MacBook Air (M5, 16GB/512GB)",
-      "link": "https://www.apple.com/shop/refurbished/mac/macbook-air",
-      "discount_pct": 15,
-      "category": "Apple"
-    },
-    {
-      "title": "Insta360 X3 5.7K 360 Action Camera",
-      "link": "https://www.neowin.net/deals/insta360-x3-action-camera-drops-down-to-lowest-price-yet-at-22999/",
-      "discount_pct": 23,
-      "category": "action camera"
-    }
+    {"title": "Homestyles Dolly Madison Mobile Kitchen Island Cart w/ Drop Leaf ($131.99, reg. $169.99)", "link": "https://www.dealnews.com/products/Homestyles/Homestyles-Dolly-Madison-Mobile-Kitchen-Island-Cart-w-Drop-Leaf/524635.html", "discount_pct": 22, "category": "general"},
+    {"title": "Nike Air Max Shoes Sale - Up to 44% Off", "link": "https://www.dealnews.com/s1186/Nike/", "discount_pct": 44, "category": "general"},
+    {"title": "Dick's Sporting Goods Sale - Up to 60% Off Apparel & Shoes", "link": "https://www.dealnews.com/Dicks-Sporting-Goods-Sale-Up-to-60-off-free-shipping-w-35/22100324.html", "discount_pct": 60, "category": "general"},
+    {"title": "Delaney Hotel, Orlando - Up to 47% Off via Expedia", "link": "https://www.expedia.com/lp/Orlando-Hotel-Deals", "discount_pct": 47, "category": "general"},
+    {"title": "Trip.com Flight Deals - Up to 30% Off Airfare", "link": "https://www.trip.com/hot/flight-deals/", "discount_pct": 30, "category": "general"},
+    {"title": "RYOBI ONE+ 18V Cordless 4-Tool Combo Kit ($199, reg. $249) - Home Depot Labor Day Sale", "link": "https://www.homedepot.com/p/RYOBI-ONE-18V-Cordless-4-Tool-Combo-Kit-with-Compact-Battery-4-0-Ah-Battery-and-Charger-PCL1400K2/317987600", "discount_pct": 20, "category": "general"},
+    {"title": "LEGO Friends Dog Treats Bakery 42677 ($17.99, reg. $29.99)", "link": "https://www.amazon.com/LEGO-Friends-Treats-Bakery-Building/dp/B0FMSC41B5", "discount_pct": 40, "category": "general"},
+    {"title": "LEGO ONE PIECE Battle at Arlong Park 75638 ($57.99, reg. $79.99)", "link": "https://www.amazon.com/LEGO-Battle-Arlong-Building-Blocks/dp/B0DRW4997B", "discount_pct": 28, "category": "general"},
+
+    {"title": "HP OmniBook 3 16\" 2K Touchscreen Laptop (AMD Ryzen 5, 16GB RAM, 256GB SSD)", "link": "https://www.bestbuy.com/product/hp-omnibook-3-16-2k-touchscreen-laptop-amd-ryzen-5-40-16gb-memory-256gb-ssd-glacier-silver/JJGWKLZ8PK", "discount_pct": 49, "category": "electronics"},
+    {"title": "Acer Swift 16 AI Copilot+ PC (Intel Core Ultra X7 358H, 16GB, 1TB)", "link": "https://www.bestbuy.com/product/acer-swift-16-ai-copilot-pc-16-3k-oled-touchscreen-laptop-intel-core-ultra-x7-358h-2026-16gb-memory-1tb-storage-basalt-gray/JJ8V8HLFX9", "discount_pct": 29, "category": "electronics"},
+    {"title": "Beats Studio Pro Wireless Noise Cancelling Over-Ear Headphones", "link": "https://www.bestbuy.com/product/beats-studio-pro-wireless-noise-cancelling-over-the-ear-headphones-black/JJ8ZHR9K2T", "discount_pct": 51, "category": "electronics"},
+    {"title": "Sennheiser MOMENTUM 4 Wireless Adaptive Noise Canceling Headphones", "link": "https://www.bestbuy.com/product/sennheiser-momentum-4-wireless-adaptive-noise-canceling-over-the-ear-headphones-brown/J3GW2LH66Z", "discount_pct": 17, "category": "electronics"},
+    {"title": "Samsung SSD 9100 PRO 2TB PCIe 5.0 NVMe Internal SSD", "link": "https://www.amazon.com/Samsung-9100-PCIe-5-0x4-700MB/dp/B0DX2DPJZ5", "discount_pct": 41, "category": "electronics"},
+    {"title": "Hisense 75\" Class QD6 Series Hi-QLED 4K UHD HDR Smart Fire TV (2025)", "link": "https://www.bestbuy.com/product/hisense-75-class-qd6-series-qled-4k-uhd-hdr-smart-fire-tv-2025/J3Z9Z42SR4", "discount_pct": 21, "category": "electronics"},
+    {"title": "MSI MAG 321UPXB QD-OLED 32\" 4K UHD 240Hz Gaming Monitor", "link": "https://www.bestbuy.com/product/msi-mag-321upxb-qd-oled-g-sync-compatible-32-qd-oled-uhd-240hz-0-03ms-gaming-monitor-with-display-hdr-tb400-dp-hdmi-usb-black/J3P7TXTKPR", "discount_pct": 18, "category": "electronics"},
+    {"title": "AOC 27\" QD-OLED QHD 240Hz Gaming Monitor (Q27G41ZDF)", "link": "https://www.bestbuy.com/product/aoc-27-qd-oled-qhd-240hz-g-sync-compatible-03ms-gaming-monitor-black/JX9GSKP9H6", "discount_pct": 26, "category": "electronics"},
+
+    {"title": "Patagonia Men's Nano Puff Insulated Jacket - 30% Off ($160, reg. $229)", "link": "https://www.patagonia.com/product/mens-nano-puff-insulated-jacket/84212.html", "discount_pct": 30, "category": "Patagonia jacket"},
+    {"title": "Patagonia Men's Diamond Quilted Bomber Insulated Hoody - 30% Off ($139, reg. $199)", "link": "https://www.patagonia.com/product/mens-diamond-quilted-bomber-insulated-hoody/27611.html", "discount_pct": 30, "category": "Patagonia jacket"},
+    {"title": "Oru Kayaks & Accessories - 20% Off at DICK'S Sporting Goods", "link": "https://www.dickssportinggoods.com/f/oru", "discount_pct": 20, "category": "kayak"},
+    {"title": "iROCKER Paddle Board Sale - SUPs from $159.99, up to 60% Off", "link": "https://irockersup.com/collections/sale", "discount_pct": null, "category": "paddleboard"},
+    {"title": "Apple 14-inch M5 Pro MacBook Pro 24GB/2TB - $400 Off ($2,799, reg. $3,199) at Best Buy", "link": "https://www.bestbuy.com/site/promo/macbook-pro-m5-pro-and-max", "discount_pct": 13, "category": "Apple"},
+    {"title": "AirPods Pro 3 - 25% Off", "link": "https://www.macrumors.com/guide/airpods-deals/", "discount_pct": 25, "category": "Apple"},
+    {"title": "GoPro HERO13 Black Action Camera - 26% Off ($319, reg. $429.99) at Amazon", "link": "https://www.digitaltrends.com/photography/gopro-hero13-black-action-camera-sale/", "discount_pct": 26, "category": "action camera"},
+    {"title": "Costco Dell 16\" Touchscreen Laptop (Core 7 150U, 16GB RAM, 1TB SSD) - $999, ~23% Off Back-to-School Deal", "link": "https://www.costco.com/p/-/dell-16-touchscreen-laptop-intel-core-7-150u-1920-x-1200-16gb-ram-1tb-ssd-windows-11/4000372292", "discount_pct": 23, "category": "Costco"},
+
+    {"title": "Igloo Playmate KoolTunes 14 QT Hardsided Cooler with Built-In Bluetooth Speakers", "link": "https://www.walmart.com/ip/IGLOO-Kool-Tunes-Playmate-Cooler-14-Quarts-26-Can-w-Bluetooth-Speakers-1811767/14998513254", "discount_pct": 50, "category": "Walmart"},
+    {"title": "Zebco Nitrous 100 Baitcast Reel", "link": "https://www.dickssportinggoods.com/p/zebco-nitrous-100-baitcast-reel-25zebufishntrs100rtak/25zebufishntrs100rtak", "discount_pct": 11, "category": "fishing"},
+    {"title": "Patagonia Men's Torrentshell 3L Rain Jacket - Rare Markdown", "link": "https://www.cnn.com/cnn-underscored/deals/patagonia-torrentshell-3l-rain-jacket-sale-2026-07-27", "discount_pct": 30, "category": "outdoors"},
+    {"title": "HOKA Speedgoat 6 GTX Trail-Running Shoes", "link": "https://www.zappos.com/p/mens-hoka-speedgoat-6-gtx/product/9958301", "discount_pct": 20, "category": "outdoors"},
+    {"title": "HOKA Speedgoat 6 Mid GTX Trail Shoes - Men's (Outer Orbit/Lettuce)", "link": "https://www.rei.com/product/235093/hoka-speedgoat-6-mid-gtx-trail-shoes-mens", "discount_pct": 25, "category": "REI"},
+    {"title": "Homall 10' x 8' ft Outdoor Metal Storage Shed with Sloping Roof and Double Lockable Door", "link": "https://www.walmart.com/ip/Homall-10-x-8-ft-Outdoor-Metal-Storage-Shed-with-Sloping-Roof-and-Double-Lockable-Door-for-Backyard-Brown/15132400933", "discount_pct": 49, "category": "outdoor shed"}
   ]
 }
