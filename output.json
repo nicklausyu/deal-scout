@@ -4,30 +4,177 @@
   "watchlist": {
     "Patagonia jacket": [
       {
-        "title": "Patagonia Women's Cord Fjord Flannel-Lined Jacket",
-        "link": "https://www.patagonia.com/product/womens-cord-fjord-flannel-lined-jacket/20335.html",
-        "original_price": 329.0,
-        "sale_price": 163.99,
+        "title": "Patagonia Men's Down Sweater Jacket",
+        "link": "https://www.patagonia.com/shop/web-specials/mens",
+        "original_price": 279.0,
+        "sale_price": 139.0,
         "discount_pct": 50
       },
       {
-        "title": "Patagonia Men's Better Sweater 1/4-Zip Fleece Pullover",
-        "link": "https://www.patagonia.com/product/mens-better-sweater-quarter-zip-fleece-pullover/25523.html",
-        "original_price": 139.0,
-        "sale_price": 68.99,
+        "title": "Patagonia Lonesome Mesa Parka - Women's",
+        "link": "https://www.rei.com/product/249067/patagonia-lonesome-mesa-parka-womens",
+        "original_price": 269.0,
+        "sale_price": 133.83,
         "discount_pct": 50
       }
     ],
-    "fishing": [
+    "kayak": [
       {
-        "title": "Okuma Snakehead Junky Rod",
-        "link": "https://okumafishingusa.com/products/snakehead-junky-rods",
-        "original_price": 104.99,
-        "sale_price": 52.49,
+        "title": "Quest Kayaks Clearance at Dick's Sporting Goods",
+        "link": "https://hip2save.com/deals/kayaks-dicks-sporting-goods/",
+        "original_price": 230.0,
+        "sale_price": 114.99,
         "discount_pct": 50
+      }
+    ],
+    "paddleboard": [
+      {
+        "title": "ISLE Outpost 10'6\" Stand Up Paddleboard with Paddle",
+        "link": "https://sherpers.com/isle-outpost-106-stand-up-paddleboard-with-paddle/",
+        "original_price": 1395.0,
+        "sale_price": 599.99,
+        "discount_pct": 57
+      }
+    ],
+    "Apple": [
+      {
+        "title": "Apple Watch SE (2nd Gen) GPS 40mm",
+        "link": "https://www.walmart.com/ip/Apple-Watch-SE-2nd-Gen-GPS-40mm-Smartwatch-with-Midnight-Aluminum-Case-and-Midnight-Sport-Band-M-L/11460007630",
+        "original_price": 279.0,
+        "sale_price": 129.0,
+        "discount_pct": 54
+      }
+    ],
+    "Costco": [
+      {
+        "title": "Bayside Colin 72\" Accent Console",
+        "link": "https://slickdeals.net/f/19238104-ymmv-bayside-colin-72-accent-console-299-97",
+        "original_price": 600.0,
+        "sale_price": 299.97,
+        "discount_pct": 50
+      }
+    ],
+    "outdoor shed": [
+      {
+        "title": "Asofer 5' x 3' Outdoor Metal Storage Shed",
+        "link": "https://www.walmart.com/ip/Asofer-5-x-3-Outdoor-Storage-Shed-on-Sale-Galvanized-Metal-Tool-Shed-with-Air-Vent-for-Backyard-Patio-Dark-Gray/9776561962",
+        "original_price": 160.0,
+        "sale_price": 75.0,
+        "discount_pct": 53
+      },
+      {
+        "title": "Walsunny Outdoor Portable Canopy Storage Shelter (6x6 ft)",
+        "link": "https://www.autoblog.com/deals/walsunny-outdoor-portable-storage-shelter-walmart-flash-sale-august-2026",
+        "original_price": 170.0,
+        "sale_price": 66.0,
+        "discount_pct": 61
+      },
+      {
+        "title": "Pabima 4-Foot by 6-Foot Resin Outdoor Storage Shed",
+        "link": "https://www.autoblog.com/deals/pabima-6-foot-by-4-foot-outdoor-storage-shed-walmart-sale",
+        "original_price": 580.0,
+        "sale_price": 280.0,
+        "discount_pct": 52
+      },
+      {
+        "title": "Asofer 8-Foot by 6-Foot Galvanized Metal Outdoor Storage Shed",
+        "link": "https://www.autoblog.com/deals/asofer-8-foot-by-6-foot-outdoor-storage-shed-summer-walmart-deals-2026",
+        "original_price": 409.0,
+        "sale_price": 185.0,
+        "discount_pct": 55
+      }
+    ],
+    "outdoors": [
+      {
+        "title": "Mapskey 2-Person Instant Pop-Up Camping Tent with Screen Porch",
+        "link": "https://www.walmart.com/ip/Mapskey-2-Person-Tent-for-Camping-Instant-Pop-Up-Camping-Tent-with-Screen-Porch-Family-Tent-for-Outdoor-Hiking-Traveling-with-Tote-Bag-Camp-Dome/17938650633",
+        "original_price": 80.0,
+        "sale_price": 40.0,
+        "discount_pct": 50
+      },
+      {
+        "title": "Quest Passage 100 Sit-On-Top Kayak",
+        "link": "https://www.dickssportinggoods.com/p/quest-passage-100-kayak-24queupssg100kykxpsk/24queupssg100kykxpsk",
+        "original_price": 400.0,
+        "sale_price": 199.98,
+        "discount_pct": 50
+      }
+    ],
+    "REI": [
+      {
+        "title": "Herschel Supply Co. Classic XL Pack",
+        "link": "https://www.rei.com/product/244720/herschel-supply-co-classic-xl-pack",
+        "original_price": 95.0,
+        "sale_price": 46.73,
+        "discount_pct": 51
+      },
+      {
+        "title": "Osprey Transporter Roll-Top Pack",
+        "link": "https://www.mensjournal.com/shopping/osprey-transporter-roll-top-pack-rei-sale",
+        "original_price": 165.0,
+        "sale_price": 70.0,
+        "discount_pct": 58
       }
     ]
   },
-  "electronics": [],
-  "general": []
+  "electronics": [
+    {
+      "title": "Verbatim Pocket 1TB Portable External SSD",
+      "link": "https://9to5toys.com/2026/08/19/tiny-1tb-portable-ssd-is-now-50-off-at-a-150-all-time-low/",
+      "original_price": 299.99,
+      "sale_price": 149.99,
+      "discount_pct": 50
+    },
+    {
+      "title": "LG 48\" B5 Series OLED 4K Smart TV (2025)",
+      "link": "https://www.bestbuy.com/product/lg-48-class-b5-series-oled-ai-4k-uhd-smart-webos-tv-2025/JJ8VPZTK9F/sku/6635292",
+      "original_price": 1299.99,
+      "sale_price": 649.99,
+      "discount_pct": 50
+    },
+    {
+      "title": "Samsung 27\" Odyssey QHD-OLED G6 Gaming Monitor (2026 Model)",
+      "link": "https://computers.woot.com/offers/new-samsung-27-odyssey-qhd-oled-g6-gaming-monitor-2026-model-1",
+      "original_price": 800.0,
+      "sale_price": 398.0,
+      "discount_pct": 50
+    },
+    {
+      "title": "Samsung 27\" Odyssey OLED G6 (G61SH) QHD 240Hz Gaming Monitor",
+      "link": "https://9to5toys.com/2026/08/21/woot-over-50-off-samsung-odyssey-workstation-monitors-with-deals-from-just-82/",
+      "original_price": 650.0,
+      "sale_price": 278.58,
+      "discount_pct": 57
+    },
+    {
+      "title": "Beats Studio Pro Wireless Noise Cancelling Headphones",
+      "link": "https://variety.com/shop/beats-headphones-deals-1235148439/",
+      "original_price": 349.99,
+      "sale_price": 149.0,
+      "discount_pct": 57
+    }
+  ],
+  "general": [
+    {
+      "title": "BELLA 21-Piece Kitchen Set with EverGood Ceramic Nonstick Cookware",
+      "link": "https://electronics.woot.com/offers/bella-21-piece-kitchen-set-with-evergood-2",
+      "original_price": 99.99,
+      "sale_price": 36.99,
+      "discount_pct": 63
+    },
+    {
+      "title": "Bloomhouse 12-Piece Ceramic Nonstick Cookware Set",
+      "link": "https://home.woot.com/offers/bloomhouse-12pc-ceramic-cookware-set",
+      "original_price": 292.86,
+      "sale_price": 102.89,
+      "discount_pct": 65
+    },
+    {
+      "title": "DKNY Sport Women's Activewear",
+      "link": "https://www.macys.com/shop/sale/by-category/womens/Brand/DKNY%20Sport?id=10066",
+      "original_price": 69.5,
+      "sale_price": 34.75,
+      "discount_pct": 50
+    }
+  ]
 }
