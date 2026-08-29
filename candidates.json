@@ -1,19 +1,21 @@
 {
-  "date": "2026-08-28",
+  "date": "2026-08-29",
   "items": [
-    {"title": "Dyson 360 Vis Nav Robot Vacuum (New)", "link": "https://home.woot.com/offers/new-dyson-360-vis-nav-robot-vacuum-11", "original_price": 999.99, "sale_price": 269.99, "category": "general"},
-    {"title": "adidas Men's/Women's Samba OG Shoes (Navy or Sand)", "link": "https://slickdeals.net/f/19181572-adidas-men-s-or-women-s-samba-og-shoes-navy-or-sand-49-99-free-shipping", "original_price": 99.99, "sale_price": 49.99, "category": "general"},
-    {"title": "Mountain Hardwear Men's Firefall Insulated Jacket", "link": "https://slickdeals.net/f/19833366-mountain-hardwear-men-s-firefall-insulated-jacket-blue-94-19-free-shipping", "original_price": 298.99, "sale_price": 94.19, "category": "general"},
-    {"title": "Columbia Men's Pitchtone Heavyweight Shirt Jacket", "link": "https://www.kohls.com/product/prd-6794777/mens-columbia-pitchtone-heavyweight-shirt-jacket.jsp", "original_price": 100.00, "sale_price": 37.50, "category": "general"},
-    {"title": "Verbatim Pocket SSD 1TB External Portable SSD (USB 3.2 Gen 2)", "link": "https://www.amazon.com/Verbatim-Pocket-External-Portable-Console/dp/B0DHH5FSZ6", "original_price": 299.99, "sale_price": 149.99, "category": "electronics"},
-    {"title": "Acer Nitro Gaming 31.5\" Curved WQHD 180Hz FreeSync Premium Gaming Monitor (EDB323QU)", "link": "https://www.bestbuy.com/site/acer-nitro-gaming-31-5-curved-wqhd-180hz-1ms-freesync-premium-gaming-monitor-displayport-hdmi-x2-black/6593333.p?skuId=6593333", "original_price": 459.99, "sale_price": 199.99, "category": "electronics"},
-    {"title": "Patagonia Nano Puff Insulated Jacket - Men's", "link": "https://www.rei.com/product/249151/patagonia-nano-puff-insulated-jacket-mens", "original_price": 229, "sale_price": 114, "category": "Patagonia jacket"},
-    {"title": "Patagonia Outdoor Everyday Marsupial Jacket - Men's", "link": "https://www.rei.com/product/C12895/patagonia-outdoor-everyday-marsupial-jacket-mens", "original_price": 159, "sale_price": 78.73, "category": "Patagonia jacket"},
-    {"title": "REI Co-op Campwell 6 Tent", "link": "https://www.rei.com/product/243613/rei-co-op-campwell-6-tent", "original_price": 329.00, "sale_price": 163.83, "category": "REI"},
-    {"title": "Okuma Custom Blue Spinning Rod Combo", "link": "https://www.dickssportinggoods.com/p/okuma-custom-blue-spinning-rod-combo-24okuucstmbl7fm40com/24okuucstmbl7fm40com", "original_price": 129.99, "sale_price": 64.99, "category": "fishing"},
-    {"title": "Asofer 6x4 FT Outdoor Storage Shed", "link": "https://www.walmart.com/ip/Asofer-Outdoor-Storage-Shed-6-x-4-FT-Lockable-Doors-Galvanized-Metal-Garden-Shed-for-Backyard-Garden-Patio/5829157064", "original_price": 240.00, "sale_price": 116.00, "category": "outdoor shed"},
-    {"title": "Asofer 8x6 FT Outdoor Storage Shed", "link": "https://www.walmart.com/ip/Asofer-8-x-6-FT-Outdoor-Storage-Shed-Clearance-Garden-Tool-Shed-for-Outsides-Yard-Patio-Gray/9780371548", "original_price": 409.00, "sale_price": 185.00, "category": "outdoor shed"},
-    {"title": "Asofer 6x4 FT Outdoor Storage Shed with Window", "link": "https://www.wayfair.com/storage-organization/pdp/asofer-outdoor-6-ft-w-x-4-ft-d-galvanized-steel-storage-shed-aofb1089.html", "original_price": 1000.00, "sale_price": 345.00, "category": "outdoor shed"},
-    {"title": "Asofer 8-Piece Patio Furniture Set", "link": "https://www.mensjournal.com/shopping/asofer-8-piece-patio-furniture-set-walmart-sale-august-2026", "original_price": 700.00, "sale_price": 190.00, "category": "Walmart"}
+    {"title": "DEWALT ATOMIC 20V MAX Cordless Brushless Oscillating Multi-Tool (Tool Only) DCS354B", "link": "https://www.homedepot.com/p/DEWALT-ATOMIC-20V-MAX-Cordless-Brushless-Oscillating-Multi-Tool-Tool-Only-DCS354B/308959619", "original_price": 179, "sale_price": 89, "category": "general"},
+    {"title": "adidas Samba OG Shoes", "link": "https://www.dickssportinggoods.com/p/adidas-samba-og-shoes-23adiasmbgwhtblkwmns/23adiasmbgwhtblkwmns", "original_price": 100, "sale_price": 47.97, "category": "general"},
+
+    {"title": "Beats Studio Pro Wireless Noise Cancelling Headphones (Black)", "link": "https://www.amazon.com/dp/B0C8PR4W22", "original_price": 350, "sale_price": 170, "category": "electronics"},
+    {"title": "Verbatim Pocket SSD 1TB Portable External SSD (USB 3.2 Gen 2)", "link": "https://www.amazon.com/Verbatim-Pocket-External-Portable-Console/dp/B0DHH9GF5B", "original_price": 299.99, "sale_price": 149.99, "category": "electronics"},
+    {"title": "LG 65\" Class G5 Series OLED evo AI 4K Smart TV (2025) - LG Partner Store", "link": "https://slickdeals.net/f/19384281-lg-partner-store-65-lg-g5-oled-evo-ai-4k-smart-tv-free-installation-1699-99", "original_price": 3399.99, "sale_price": 1699.99, "category": "electronics"},
+
+    {"title": "Patagonia Outdoor Everyday Marsupial Pullover Jacket (Men's)", "link": "https://www.rei.com/product/C12895/patagonia-outdoor-everyday-marsupial-jacket-mens", "original_price": 159.00, "sale_price": 78.73, "category": "Patagonia jacket"},
+    {"title": "Lifetime Wave 6 ft Youth Sit-On-Top Kayak with Paddle", "link": "https://www.walmart.com/ip/Lifetime-90097-6Ft-Wave-Youth-Kayak-W-Paddle-Blue/27969112", "original_price": 199.00, "sale_price": 99.00, "category": "kayak"},
+    {"title": "FunWater 11' Inflatable Stand Up Paddle Board w/ Paddle, Pump & Backpack", "link": "https://slickdeals.net/f/19868124-11-funwater-inflatable-stand-up-paddle-board-w-paddle-pump-backpack-accessories-classic-dark-blue-smiley-84-99-free-shipping", "original_price": 169.99, "sale_price": 84.99, "category": "paddleboard"},
+
+    {"title": "VIZIO 65\" Class Quantum 4K QLED HDR Smart TV (VQD65M-08)", "link": "https://www.walmart.com/ip/VIZIO-65-Class-Quantum-4K-QLED-HDR-Smart-TV-NEW-VQD65M-0804/7755265149", "original_price": 498.00, "sale_price": 196.80, "category": "Walmart"},
+    {"title": "Lofka 6' x 4' Outdoor Metal Storage Shed with Double Lockable Doors", "link": "https://www.autoblog.com/deals/lofka-6-foot-by-4-foot-outdoor-storage-shed-walmart-sale", "original_price": 700.00, "sale_price": 205.00, "category": "outdoor shed"},
+    {"title": "Asofer 6' x 4' Outdoor Metal Storage Shed", "link": "https://shopping.yahoo.com/home-garden/outdoor/articles/walmart-high-quality-outdoor-storage-213000828.html", "original_price": 500.00, "sale_price": 116.00, "category": "outdoor shed"},
+    {"title": "Big Agnes Wyoming Trail 2 Tent", "link": "https://www.rei.com/product/248548/big-agnes-wyoming-trail-2-tent", "original_price": 649.95, "sale_price": 324.93, "category": "REI"},
+    {"title": "REI Co-op Campwell 6 Tent", "link": "https://www.rei.com/product/243613/rei-co-op-campwell-6-tent", "original_price": 329.00, "sale_price": 163.83, "category": "REI"}
   ]
 }
