@@ -1,96 +1,119 @@
 {
-  "date": "2026-08-29",
+  "date": "2026-08-30",
   "steals": [
     {
-      "title": "Lofka 6' x 4' Outdoor Metal Storage Shed with Double Lockable Doors",
-      "link": "https://www.autoblog.com/deals/lofka-6-foot-by-4-foot-outdoor-storage-shed-walmart-sale",
-      "original_price": 700.0,
-      "sale_price": 205.0,
-      "discount_pct": 71
-    },
-    {
-      "title": "Asofer 6' x 4' Outdoor Metal Storage Shed",
-      "link": "https://shopping.yahoo.com/home-garden/outdoor/articles/walmart-high-quality-outdoor-storage-213000828.html",
-      "original_price": 500.0,
-      "sale_price": 116.0,
-      "discount_pct": 77
+      "title": "Bestway Hydro-Force 1-Person Ventura Elite Inflatable Kayak Set",
+      "link": "https://sport.woot.com/offers/bestway-hydro-force-1-person-kayak-set-9",
+      "original_price": 259.99,
+      "sale_price": 69.99,
+      "discount_pct": 73
     }
   ],
   "watchlist": {
-    "kayak": [
+    "Patagonia jacket": [
       {
-        "title": "Lifetime Wave 6 ft Youth Sit-On-Top Kayak with Paddle",
-        "link": "https://www.walmart.com/ip/Lifetime-90097-6Ft-Wave-Youth-Kayak-W-Paddle-Blue/27969112",
-        "original_price": 199.0,
-        "sale_price": 99.0,
+        "title": "Patagonia Lightweight Waxed Cotton Jacket",
+        "link": "https://www.patagonia.com/product/lightweight-waxed-cotton-jacket/26835.html",
+        "original_price": 369.0,
+        "sale_price": 183.99,
         "discount_pct": 50
       }
     ],
-    "paddleboard": [
+    "Apple": [
       {
-        "title": "FunWater 11' Inflatable Stand Up Paddle Board w/ Paddle, Pump & Backpack",
-        "link": "https://slickdeals.net/f/19868124-11-funwater-inflatable-stand-up-paddle-board-w-paddle-pump-backpack-accessories-classic-dark-blue-smiley-84-99-free-shipping",
-        "original_price": 169.99,
-        "sale_price": 84.99,
-        "discount_pct": 50
+        "title": "Beats Studio Pro Wireless Noise Cancelling Headphones",
+        "link": "https://www.amazon.com/dp/B0DDQKXDZF",
+        "original_price": 349.99,
+        "sale_price": 169.95,
+        "discount_pct": 51
       }
     ],
-    "Walmart": [
+    "Costco": [
       {
-        "title": "VIZIO 65\" Class Quantum 4K QLED HDR Smart TV (VQD65M-08)",
-        "link": "https://www.walmart.com/ip/VIZIO-65-Class-Quantum-4K-QLED-HDR-Smart-TV-NEW-VQD65M-0804/7755265149",
-        "original_price": 498.0,
-        "sale_price": 196.8,
-        "discount_pct": 60
+        "title": "Beats Studio Pro Bundle with AppleCare+",
+        "link": "https://www.costco.com/beats-studio-pro---wireless-bluetooth-noise-cancelling-headphones-with-applecare+-included.product.4000198839.html",
+        "original_price": 349.99,
+        "sale_price": 169.99,
+        "discount_pct": 51
+      }
+    ],
+    "outdoors": [
+      {
+        "title": "REI Co-op Trailmade Rain Jacket - Men's",
+        "link": "https://www.rei.com/product/235244/rei-co-op-trailmade-rain-jacket-mens",
+        "original_price": 69.95,
+        "sale_price": 34.83,
+        "discount_pct": 50
       }
     ],
     "REI": [
       {
-        "title": "Big Agnes Wyoming Trail 2 Tent",
-        "link": "https://www.rei.com/product/248548/big-agnes-wyoming-trail-2-tent",
-        "original_price": 649.95,
-        "sale_price": 324.93,
+        "title": "REI Co-op Campwell 6 Tent",
+        "link": "https://www.dealnews.com/REI-Co-op-Campwell-6-Tent-for-164-free-shipping/21900330.html",
+        "original_price": 329.0,
+        "sale_price": 164.0,
         "discount_pct": 50
       }
     ]
   },
   "electronics": [
     {
-      "title": "Beats Studio Pro Wireless Noise Cancelling Headphones (Black)",
-      "link": "https://www.amazon.com/dp/B0C8PR4W22",
-      "original_price": 350.0,
-      "sale_price": 170.0,
-      "discount_pct": 51
+      "title": "HP OmniBook 3 16\" Laptop (Ryzen AI 7 445, 16GB RAM, 512GB SSD)",
+      "link": "https://www.staples.com/hp-omnibook-3-16-next-gen-ai-pc-copilot-pc-amd-ryzen-ai-7-445-16gb-ram-512gb-ssd-19-hours-battery-windows-11-home/product_24684676",
+      "original_price": 1399.99,
+      "sale_price": 649.99,
+      "discount_pct": 54
     },
     {
-      "title": "Verbatim Pocket SSD 1TB Portable External SSD (USB 3.2 Gen 2)",
-      "link": "https://www.amazon.com/Verbatim-Pocket-External-Portable-Console/dp/B0DHH9GF5B",
-      "original_price": 299.99,
-      "sale_price": 149.99,
-      "discount_pct": 50
+      "title": "LG 48\" Class B5 Series OLED AI 4K UHD Smart webOS TV (2025)",
+      "link": "https://www.bestbuy.com/product/lg-48-class-b5-series-oled-ai-4k-uhd-smart-webos-tv-2025/JJ8VPZTK9F",
+      "original_price": 1299.99,
+      "sale_price": 599.99,
+      "discount_pct": 54
     },
     {
-      "title": "LG 65\" Class G5 Series OLED evo AI 4K Smart TV (2025) - LG Partner Store",
-      "link": "https://slickdeals.net/f/19384281-lg-partner-store-65-lg-g5-oled-evo-ai-4k-smart-tv-free-installation-1699-99",
-      "original_price": 3399.99,
-      "sale_price": 1699.99,
+      "title": "Beats Studio Pro ANC Wireless Headphones (Grade A Refurbished)",
+      "link": "https://electronics.woot.com/offers/beats-studio-pro-anc-wireless-headphones-grade-a-refurbished-4",
+      "original_price": 349.99,
+      "sale_price": 139.99,
+      "discount_pct": 60
+    },
+    {
+      "title": "Samsung Galaxy Buds3 FE True Wireless Earbuds",
+      "link": "https://www.dealnews.com/Home-Audio-Headphones-Sale-at-Woot-Up-to-75-off-free-shipping-w-Prime/21917776.html",
+      "original_price": 149.99,
+      "sale_price": 74.99,
       "discount_pct": 50
     }
   ],
   "general": [
     {
-      "title": "DEWALT ATOMIC 20V MAX Cordless Brushless Oscillating Multi-Tool (Tool Only) DCS354B",
-      "link": "https://www.homedepot.com/p/DEWALT-ATOMIC-20V-MAX-Cordless-Brushless-Oscillating-Multi-Tool-Tool-Only-DCS354B/308959619",
-      "original_price": 179.0,
-      "sale_price": 89.0,
+      "title": "Ninja Extended Life Premium Ceramic 9-Piece Cookware Set (CW99009)",
+      "link": "https://www.amazon.com/Ninja-Stovetops-Induction-Compatible-CW99009/dp/B0C7YKWGH2",
+      "original_price": 239.99,
+      "sale_price": 119.99,
       "discount_pct": 50
     },
     {
-      "title": "adidas Samba OG Shoes",
-      "link": "https://www.dickssportinggoods.com/p/adidas-samba-og-shoes-23adiasmbgwhtblkwmns/23adiasmbgwhtblkwmns",
-      "original_price": 100.0,
-      "sale_price": 47.97,
-      "discount_pct": 52
+      "title": "Milwaukee M18 18-Volt Lithium-Ion Cordless Combo Kit (6-Tool) 2697-26XC",
+      "link": "https://www.homedepot.com/p/Milwaukee-M18-18-Volt-Lithium-Ion-Cordless-Combo-Kit-6-Tool-with-2-Batteries-Charger-and-Tool-Bag-2697-26XC/338889620",
+      "original_price": 999.0,
+      "sale_price": 399.0,
+      "discount_pct": 60
+    },
+    {
+      "title": "Mountain Hardwear Stretchdown Hoody - Men's",
+      "link": "https://www.rei.com/product/235294/mountain-hardwear-stretchdown-hoody-mens",
+      "original_price": 350.0,
+      "sale_price": 174.83,
+      "discount_pct": 50
+    },
+    {
+      "title": "LEGO Bluey: Bluey's Family House Playset 11203",
+      "link": "https://www.target.com/p/lego-bluey-bluey-8217-s-family-house-playset-11203/-/A-94152694",
+      "original_price": 69.99,
+      "sale_price": 34.99,
+      "discount_pct": 50
     }
   ]
 }
