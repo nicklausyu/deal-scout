@@ -1,118 +1,185 @@
 {
-  "date": "2026-08-30",
+  "date": "2026-08-31",
   "steals": [
     {
-      "title": "Bestway Hydro-Force 1-Person Ventura Elite Inflatable Kayak Set",
-      "link": "https://sport.woot.com/offers/bestway-hydro-force-1-person-kayak-set-9",
-      "original_price": 259.99,
-      "sale_price": 69.99,
-      "discount_pct": 73
+      "title": "Okuma Sierra 7/8 Fly Reel",
+      "link": "https://www.dickssportinggoods.com/p/okuma-sierra-7-8-fly-reel-26okuufishqaafg0jsx9a/26okuufishqaafg0jsx9a",
+      "original_price": 59.99,
+      "sale_price": 14.98,
+      "discount_pct": 75
+    },
+    {
+      "title": "Acekool 6x8x6.4 FT Metal Outdoor Storage Shed with Sloped Roof, Lockable Doors, Air Vents, Rust-Resistant Panels",
+      "link": "https://www.target.com/p/acekool-6x8x6-4-ft-metal-outdoor-storage-shed-with-sloped-roof-lockable-doors-air-vents-rust-resistant-panels-for-backyard-patio/-/A-1005259481",
+      "original_price": 1435.0,
+      "sale_price": 431.0,
+      "discount_pct": 70
     }
   ],
   "watchlist": {
-    "Patagonia jacket": [
+    "patagonia jacket": [
       {
-        "title": "Patagonia Lightweight Waxed Cotton Jacket",
-        "link": "https://www.patagonia.com/product/lightweight-waxed-cotton-jacket/26835.html",
-        "original_price": 369.0,
-        "sale_price": 183.99,
+        "title": "Patagonia Men's Re-Tool Fleece Jacket",
+        "link": "https://www.patagonia.com/product/mens-re-tool-fleece-jacket/26435.html",
+        "original_price": 199.0,
+        "sale_price": 99.5,
+        "discount_pct": 50
+      },
+      {
+        "title": "Patagonia Men's Down Sweater Insulated Jacket",
+        "link": "https://www.patagonia.com/product/mens-down-sweater-insulated-jacket/84675.html",
+        "original_price": 279.0,
+        "sale_price": 139.0,
         "discount_pct": 50
       }
     ],
-    "Apple": [
+    "apple": [
       {
-        "title": "Beats Studio Pro Wireless Noise Cancelling Headphones",
-        "link": "https://www.amazon.com/dp/B0DDQKXDZF",
-        "original_price": 349.99,
-        "sale_price": 169.95,
-        "discount_pct": 51
+        "title": "Apple AirPods 4 with Active Noise Cancellation (Refurbished)",
+        "link": "https://slickdeals.net/f/19132753-refurbished-very-good-apple-airpods-4-w-active-noise-cancellation-84-99",
+        "original_price": 179.0,
+        "sale_price": 84.99,
+        "discount_pct": 53
       }
     ],
-    "Costco": [
+    "action camera": [
       {
-        "title": "Beats Studio Pro Bundle with AppleCare+",
-        "link": "https://www.costco.com/beats-studio-pro---wireless-bluetooth-noise-cancelling-headphones-with-applecare+-included.product.4000198839.html",
-        "original_price": 349.99,
-        "sale_price": 169.99,
-        "discount_pct": 51
+        "title": "5K 30FPS 50MP Waterproof Action Camera with 64GB Card",
+        "link": "https://www.dealnews.com/s321/Walmart/21999284.html",
+        "original_price": 200.0,
+        "sale_price": 82.0,
+        "discount_pct": 59
+      }
+    ],
+    "fishing": [
+      {
+        "title": "PENN Squall 25N Graphite Conventional Saltwater Fishing Reel",
+        "link": "https://www.westmarine.com/clearance-fishing/",
+        "original_price": 230.0,
+        "sale_price": 114.97,
+        "discount_pct": 50
       }
     ],
     "outdoors": [
       {
-        "title": "REI Co-op Trailmade Rain Jacket - Men's",
-        "link": "https://www.rei.com/product/235244/rei-co-op-trailmade-rain-jacket-mens",
-        "original_price": 69.95,
-        "sale_price": 34.83,
-        "discount_pct": 50
+        "title": "Eddie Bauer Men's CirrusLite Down Jacket",
+        "link": "https://www.eddiebauer.com/products/mens-cirruslite-down-jacket-13312574",
+        "original_price": 129.0,
+        "sale_price": 59.97,
+        "discount_pct": 54
+      },
+      {
+        "title": "Eddie Bauer Men's MicroTherm 2.0 Packable Down Jacket",
+        "link": "https://www.eddiebauer.com/products/mens-microtherm-2-down-jacket-33432402",
+        "original_price": 249.0,
+        "sale_price": 122.97,
+        "discount_pct": 51
+      },
+      {
+        "title": "Sierra Designs Tabernash 6 Tent",
+        "link": "https://www.campsaver.com/sierra-designs-tabernash-6-tent.html",
+        "original_price": 219.95,
+        "sale_price": 97.99,
+        "discount_pct": 55
       }
     ],
-    "REI": [
+    "rei": [
       {
-        "title": "REI Co-op Campwell 6 Tent",
-        "link": "https://www.dealnews.com/REI-Co-op-Campwell-6-Tent-for-164-free-shipping/21900330.html",
-        "original_price": 329.0,
-        "sale_price": 164.0,
-        "discount_pct": 50
+        "title": "Vasque St. Elias Waterproof Hiking Boots - Women's",
+        "link": "https://www.rei.com/product/249166/vasque-st-elias-waterproof-hiking-boots-womens",
+        "original_price": 240.0,
+        "sale_price": 85.0,
+        "discount_pct": 65
+      }
+    ],
+    "outdoor shed": [
+      {
+        "title": "5x3 FT Outdoor Storage Shed, Sloping Roof Metal Backyard Storage, Steel Anti-Corrosion, Lockable Door",
+        "link": "https://www.target.com/p/outdoor-storage-shed-5x3-ft-sloping-roof-metal-backyard-storage-steel-anti-corrosion-storage-house-with-single-lockable-door-for-backyard-outdoor/-/A-1008487316",
+        "original_price": 378.0,
+        "sale_price": 161.0,
+        "discount_pct": 57
       }
     ]
   },
   "electronics": [
     {
-      "title": "HP OmniBook 3 16\" Laptop (Ryzen AI 7 445, 16GB RAM, 512GB SSD)",
-      "link": "https://www.staples.com/hp-omnibook-3-16-next-gen-ai-pc-copilot-pc-amd-ryzen-ai-7-445-16gb-ram-512gb-ssd-19-hours-battery-windows-11-home/product_24684676",
-      "original_price": 1399.99,
-      "sale_price": 649.99,
-      "discount_pct": 54
+      "title": "Samsung 27\" Odyssey FHD IPS 240Hz G-Sync Gaming Monitor (LS27BG402ENXGO)",
+      "link": "https://9to5toys.com/2026/08/28/best-buy-samsung-27-inch-240hz-odyssey-gaming-monitor-just-150/",
+      "original_price": 300.0,
+      "sale_price": 149.99,
+      "discount_pct": 50
     },
     {
-      "title": "LG 48\" Class B5 Series OLED AI 4K UHD Smart webOS TV (2025)",
-      "link": "https://www.bestbuy.com/product/lg-48-class-b5-series-oled-ai-4k-uhd-smart-webos-tv-2025/JJ8VPZTK9F",
-      "original_price": 1299.99,
-      "sale_price": 599.99,
-      "discount_pct": 54
-    },
-    {
-      "title": "Beats Studio Pro ANC Wireless Headphones (Grade A Refurbished)",
-      "link": "https://electronics.woot.com/offers/beats-studio-pro-anc-wireless-headphones-grade-a-refurbished-4",
-      "original_price": 349.99,
-      "sale_price": 139.99,
+      "title": "Acer Chromebook 315 15.6\" Full HD Laptop (Celeron N4500, 4GB/64GB, w/ Sleeve)",
+      "link": "https://www.bestbuy.com/product/acer-chromebook-315-15-6-full-hd-laptop-intel-celeron-n4500-4gb-lpddr4x-64gb-emmc-protective-sleeve-silver/JJ8V8H3JC2",
+      "original_price": 300.0,
+      "sale_price": 119.0,
       "discount_pct": 60
     },
     {
-      "title": "Samsung Galaxy Buds3 FE True Wireless Earbuds",
-      "link": "https://www.dealnews.com/Home-Audio-Headphones-Sale-at-Woot-Up-to-75-off-free-shipping-w-Prime/21917776.html",
-      "original_price": 149.99,
-      "sale_price": 74.99,
+      "title": "Beats Studio Pro Wireless Noise Cancelling Headphones",
+      "link": "https://www.soundguys.com/beats-studio-pro-amazon-deal-160942/",
+      "original_price": 349.99,
+      "sale_price": 169.95,
+      "discount_pct": 51
+    },
+    {
+      "title": "Bose QuietComfort Wireless Bluetooth Headphones (Black)",
+      "link": "https://www.phonearena.com/news/bose-quietcomfort-headphones-50-percent-off-improved-amazon-deal_id182970",
+      "original_price": 359.0,
+      "sale_price": 179.0,
       "discount_pct": 50
     }
   ],
   "general": [
     {
-      "title": "Ninja Extended Life Premium Ceramic 9-Piece Cookware Set (CW99009)",
-      "link": "https://www.amazon.com/Ninja-Stovetops-Induction-Compatible-CW99009/dp/B0C7YKWGH2",
-      "original_price": 239.99,
-      "sale_price": 119.99,
+      "title": "Forno Appliances 20 in. Wide Freestanding Electric Range with Antique Brass Accessories",
+      "link": "https://www.bestbuy.com/product/forno-appliances-20-in-wide-4-elements-pallerano-2-05-cu-ft-freestanding-electric-range-with-antique-brass-accessories-white/JX9PPPQSRY",
+      "original_price": 2699.99,
+      "sale_price": 1049.99,
+      "discount_pct": 61
+    },
+    {
+      "title": "bella PRO 12-Cup Programmable Coffee Maker, Stainless Steel",
+      "link": "https://www.bestbuy.com/product/bella-pro-12-cup-programmable-coffee-maker-stainless-steel/J3P5RSSWCT",
+      "original_price": 59.99,
+      "sale_price": 29.99,
       "discount_pct": 50
     },
     {
-      "title": "Milwaukee M18 18-Volt Lithium-Ion Cordless Combo Kit (6-Tool) 2697-26XC",
-      "link": "https://www.homedepot.com/p/Milwaukee-M18-18-Volt-Lithium-Ion-Cordless-Combo-Kit-6-Tool-with-2-Batteries-Charger-and-Tool-Bag-2697-26XC/338889620",
-      "original_price": 999.0,
-      "sale_price": 399.0,
-      "discount_pct": 60
+      "title": "The North Face Men's Cabin Fleece Full Zip Jacket",
+      "link": "https://www.zappos.com/p/mens-the-north-face-cabin-fleece-full-zip/product/10005531",
+      "original_price": 140.0,
+      "sale_price": 63.0,
+      "discount_pct": 55
     },
     {
-      "title": "Mountain Hardwear Stretchdown Hoody - Men's",
-      "link": "https://www.rei.com/product/235294/mountain-hardwear-stretchdown-hoody-mens",
-      "original_price": 350.0,
-      "sale_price": 174.83,
+      "title": "Men's Nike Structure 26 Running Shoe",
+      "link": "https://www.zappos.com/p/mens-nike-structure-26-white-black-blue-hero-pure-platinum/product/10020704/color/1123129",
+      "original_price": 145.0,
+      "sale_price": 72.5,
       "discount_pct": 50
     },
     {
-      "title": "LEGO Bluey: Bluey's Family House Playset 11203",
-      "link": "https://www.target.com/p/lego-bluey-bluey-8217-s-family-house-playset-11203/-/A-94152694",
-      "original_price": 69.99,
-      "sale_price": 34.99,
+      "title": "Skyway Flair 2.0 Soft Side Checked Luggage",
+      "link": "https://www.kohls.com/product/prd-8013073/skyway-flair-20-soft-side-checked-luggage.jsp",
+      "original_price": 159.99,
+      "sale_price": 59.99,
+      "discount_pct": 63
+    },
+    {
+      "title": "Milwaukee M18 18V Lithium-Ion Brushless Cordless Compact Drill/Driver Kit with Battery, Charger and Tool Bag (3601-21P)",
+      "link": "https://www.homedepot.com/p/Milwaukee-M18-18V-Lithium-Ion-Brushless-Cordless-1-2-in-Compact-Drill-Driver-with-One-2-0-Ah-Battery-Charger-and-Tool-Bag-3601-21P/325479354",
+      "original_price": 199.0,
+      "sale_price": 95.25,
+      "discount_pct": 52
+    },
+    {
+      "title": "Funko Pop! Monkey D. Luffy (Marineford Memorial) - One Piece",
+      "link": "https://funko.com/pop-monkey-d.-luffy-marineford-memorial/84946.html",
+      "original_price": 19.99,
+      "sale_price": 10.0,
       "discount_pct": 50
     }
   ]
