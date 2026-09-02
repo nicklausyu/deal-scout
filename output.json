@@ -1,128 +1,138 @@
 {
-  "date": "2026-09-01",
+  "date": "2026-09-02",
   "steals": [
     {
-      "title": "Bestway Hydro-Force 1-Person Inflatable Kayak Set",
-      "link": "https://sport.woot.com/offers/bestway-hydro-force-1-person-inflatable-kayak-set",
-      "original_price": 299.99,
-      "sale_price": 69.99,
-      "discount_pct": 77
+      "title": "JanSport All Around Pack 28L (Dune Red)",
+      "link": "https://slickdeals.net/f/19798548-26-99-28l-jansport-all-around-pack-backpack-dune-red-at-woot",
+      "original_price": 100.0,
+      "sale_price": 26.99,
+      "discount_pct": 73
     }
   ],
   "watchlist": {
+    "kayak": [
+      {
+        "title": "Lifetime Wave 6' Youth Sit-On-Top Kayak with Paddle",
+        "link": "https://www.walmart.com/ip/Lifetime-6-Youth-Kayak-with-Bonus-Paddle/16565221",
+        "original_price": 199.0,
+        "sale_price": 99.0,
+        "discount_pct": 50
+      }
+    ],
     "paddleboard": [
       {
-        "title": "FunWater Inflatable Stand-Up Paddle Board",
-        "link": "https://www.motherhoodonadime.com/deals/funwater-inflatable-stand-up-paddle-board-for-84-99-reg-170/",
-        "original_price": 170.0,
+        "title": "FunWater Inflatable Ultra-Light Stand Up Paddle Board w/ Accessories",
+        "link": "https://www.amazon.com/FunWater-Inflatable-Ultra-Light-Paddleboard-Accessories/dp/B0D7YV71GK",
+        "original_price": 199.95,
         "sale_price": 84.99,
-        "discount_pct": 50
+        "discount_pct": 57
+      }
+    ],
+    "action camera": [
+      {
+        "title": "Ourlife 1080P Action Camera with 2-inch LCD",
+        "link": "https://www.dealnews.com/s321/Walmart/21940440.html",
+        "original_price": 70.0,
+        "sale_price": 27.0,
+        "discount_pct": 61
+      },
+      {
+        "title": "5K 30FPS Waterproof Action Camera Bundle (32GB Card + Tripod)",
+        "link": "https://www.dealnews.com/s321/Walmart/21966393.html",
+        "original_price": 200.0,
+        "sale_price": 82.0,
+        "discount_pct": 59
       }
     ],
     "outdoor shed": [
       {
-        "title": "Jolifa 8x12 FT Outdoor Storage Shed (Walmart)",
-        "link": "https://www.autoblog.com/deals/jolifa-8-foot-by-12-foot-outdoor-storage-shed-walmart-sale",
+        "title": "ModFusion 7' x 4' Outdoor Metal Storage Shed",
+        "link": "https://www.autoblog.com/deals/modfusion-7-foot-by-4-foot-outdoor-storage-shed-walmart-sale",
         "original_price": 580.0,
-        "sale_price": 260.0,
-        "discount_pct": 55
+        "sale_price": 250.0,
+        "discount_pct": 57
       },
       {
-        "title": "Clouddwell 10x8 FT Outdoor Storage Shed (Walmart)",
-        "link": "https://www.autoblog.com/deals/clouddwell-10-foot-by-8-foot-outdoor-storage-shed-walmart-sale",
-        "original_price": 600.0,
-        "sale_price": 300.0,
-        "discount_pct": 50
-      },
-      {
-        "title": "Asofer 5x3 FT Outdoor Metal Storage Shed (Walmart)",
-        "link": "https://www.autoblog.com/deals/outdoor-storage-sheds-roundup-summer-walmart-deals-2026",
-        "original_price": 160.0,
-        "sale_price": 75.0,
-        "discount_pct": 53
-      }
-    ],
-    "fishing": [
-      {
-        "title": "Dobyns Josh Jones Hyperlite 10' 2PC Casting Rod",
-        "link": "https://sport.woot.com/offers/dobyns-josh-jones-hyperlite-10-2pc-0",
-        "original_price": 269.99,
-        "sale_price": 89.99,
-        "discount_pct": 67
-      }
-    ],
-    "outdoors": [
-      {
-        "title": "Mapskey 4 Person Instant Pop-Up Camping Tent",
-        "link": "https://www.walmart.com/ip/Mapskey-4-Person-Instant-Camping-Tent-Automatic-Easy-Pop-up-Tents-for-Waterproof-Camping-Family-Beach/5320480249",
-        "original_price": 150.0,
-        "sale_price": 75.0,
-        "discount_pct": 50
-      }
-    ],
-    "Walmart": [
-      {
-        "title": "NAPWANT 10ft Cantilever Patio Umbrella with 4-Piece Weighted Base",
-        "link": "https://www.walmart.com/ip/NAPWANT-10ft-Cantilever-Patio-Umbrella-with-4-Piece-Weighted-Base-Included-Offset-Hanging-Umbrella-with-Crank-Tilt-Red/19233158073",
-        "original_price": 130.0,
-        "sale_price": 62.0,
+        "title": "Asofer 6' x 4' Outdoor Storage Shed",
+        "link": "https://www.walmart.com/ip/Asofer-6-x4-Outdoor-Storage-Shed-Metal-Garden-Shed-with-Transparent-Panel-Window-Dark-Gray/15223519746",
+        "original_price": 240.0,
+        "sale_price": 116.0,
         "discount_pct": 52
-      }
-    ],
-    "REI": [
+      },
       {
-        "title": "REI Co-op XeroCloud 3L Long Rain Jacket - Men's",
-        "link": "https://www.rei.com/product/242159/rei-co-op-xerocloud-3l-long-rain-jacket-mens",
-        "original_price": 199.0,
-        "sale_price": 98.83,
-        "discount_pct": 50
+        "title": "LZBEITEM 4' x 10' Outdoor Metal Storage Shed",
+        "link": "https://www.walmart.com/ip/LZBEITEM-4-x-10-ft-Outdoor-Metal-Storage-Lean-to-Shed-with-Two-Windows-Galvanized-Floor-Frame-Kit-Lockable-for-Garden-Backyard/16854560918",
+        "original_price": 584.0,
+        "sale_price": 210.0,
+        "discount_pct": 64
       }
     ]
   },
   "electronics": [
     {
-      "title": "Beats Studio Pro Wireless Noise Cancelling Headphones",
-      "link": "https://www.digitaltrends.com/wearables/beats-studio-pro-deal-3/",
-      "original_price": 349.99,
-      "sale_price": 169.95,
-      "discount_pct": 51
-    },
-    {
-      "title": "Verbatim Pocket SSD 1TB Portable External SSD",
-      "link": "https://us.amazon.com/Verbatim-Pocket-External-Portable-Console/dp/B0DHH81K13",
-      "original_price": 299.99,
-      "sale_price": 149.99,
+      "title": "Bose QuietComfort Headphones (Wireless Bluetooth ANC)",
+      "link": "https://slickdeals.net/f/18909496-179-bose-quietcomfort-bluetooth-headphones-various-colors-at-amazon",
+      "original_price": 359.0,
+      "sale_price": 179.0,
       "discount_pct": 50
     },
     {
-      "title": "LG 77-Inch B5 Series OLED AI 4K UHD Smart webOS TV (2025)",
-      "link": "https://www.dealmoon.com/en/1499-lg-b5-77-inch-oled-4k-120hz-smart-tv/5731946.html",
-      "original_price": 2999.99,
-      "sale_price": 1499.99,
+      "title": "Hisense 50\" Hi-QLED S7 CanvasTV Series 4K UHD Google Smart Art TV (50S7SG)",
+      "link": "https://www.amazon.com/Hisense-Hi-QLED-CanvasTV-Google-50S7SG/dp/B0GRGTZKHT",
+      "original_price": 1299.99,
+      "sale_price": 629.99,
+      "discount_pct": 52
+    },
+    {
+      "title": "Samsung ViewFinity S7 (S70D) 37\" 4K UHD HDR10 Monitor (LS37D700EANXZA)",
+      "link": "https://www.tomshardware.com/pc-components/today-only-you-can-snag-a-37-inch-4k-samsung-monitor-for-just-usd249-b-and-h-offers-up-a-big-productivity-screen-for-50-percent-off-in-a-one-day-deal",
+      "original_price": 499.99,
+      "sale_price": 249.99,
       "discount_pct": 50
     },
     {
-      "title": "Roku Smart TV 65-Inch Pro Series 4K QLED RokuTV",
-      "link": "https://www.amazon.com/Roku-Smart-TV-65-Inch-Backlit/dp/B0CVPHD45S",
-      "original_price": 1199.99,
-      "sale_price": 599.99,
-      "discount_pct": 50
+      "title": "LG UltraGear 27GX790A-B 27\" OLED QHD 480Hz Gaming Monitor",
+      "link": "https://slickdeals.net/f/19905216-lg-27gx790a-b-27-inch-ultragear-oled-qhd-1440p-480hz-gaming-monitor-467-97",
+      "original_price": 999.99,
+      "sale_price": 467.97,
+      "discount_pct": 53
     }
   ],
   "general": [
     {
-      "title": "Milwaukee M12 FUEL 12V Lithium-Ion Cordless Oscillating Multi-Tool with M12 XC 5.0 Ah Battery (2-Pack) Starter Kit and Charger",
-      "link": "https://www.homedepot.com/p/Milwaukee-M12-FUEL-12V-Lithium-Ion-Cordless-Oscillating-Multi-Tool-with-M12-XC-5-0-Ah-Battery-2-Pack-Starter-Kit-and-Charger-2526-20-48-59-2450P/330625527",
-      "original_price": 449.0,
-      "sale_price": 199.0,
-      "discount_pct": 56
+      "title": "Ninja Professional Countertop Blender BL610 (72 oz, 1000W)",
+      "link": "https://slickdeals.net/f/18914377-ac-50-99-72-oz-ninja-professional-countertop-1000-watt-blender-bl610-at-amazon",
+      "original_price": 109.99,
+      "sale_price": 50.99,
+      "discount_pct": 54
     },
     {
-      "title": "Sur La Table Kitchen Essentials 10-Piece Nonstick Cookware Pots & Pans Set (Linen White)",
-      "link": "https://www.amazon.com/dp/B0CB7GNKMG",
-      "original_price": 139.99,
-      "sale_price": 63.63,
-      "discount_pct": 55
+      "title": "AllModern Farrah 9-Piece Extendable Patio Dining Set",
+      "link": "https://www.wayfair.com/outdoor/pdp/allmodern-farrah-9-piece-extendable-patio-dining-set-w003574187.html",
+      "original_price": 3780.0,
+      "sale_price": 1849.0,
+      "discount_pct": 51
+    },
+    {
+      "title": "adidas Samba OG Shoes",
+      "link": "https://www.dickssportinggoods.com/f/adidas-samba-og-shoes",
+      "original_price": 99.99,
+      "sale_price": 49.99,
+      "discount_pct": 50
+    },
+    {
+      "title": "Husky 280-Piece SAE/Metric Mechanics Tool Set with Tool Box (H280MTS)",
+      "link": "https://slickdeals.net/f/19205851-280-piece-husky-mechanics-tool-set-99-free-shipping",
+      "original_price": 199.0,
+      "sale_price": 99.0,
+      "discount_pct": 50
+    },
+    {
+      "title": "Green Toys Airplane (Red &amp; Blue)",
+      "link": "https://slickdeals.net/f/19464057-7-49-green-toys-airplane-red-blue-at-amazon",
+      "original_price": 14.99,
+      "sale_price": 7.49,
+      "discount_pct": 50
     }
   ]
 }
