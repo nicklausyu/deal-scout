@@ -1,166 +1,30 @@
 {
-  "date": "2026-09-02",
+  "date": "2026-09-03",
   "items": [
-    {
-      "title": "Ninja Professional Countertop Blender BL610 (72 oz, 1000W)",
-      "link": "https://slickdeals.net/f/18914377-ac-50-99-72-oz-ninja-professional-countertop-1000-watt-blender-bl610-at-amazon",
-      "original_price": 109.99,
-      "sale_price": 50.99,
-      "category": "general"
-    },
-    {
-      "title": "AllModern Farrah 9-Piece Extendable Patio Dining Set",
-      "link": "https://www.wayfair.com/outdoor/pdp/allmodern-farrah-9-piece-extendable-patio-dining-set-w003574187.html",
-      "original_price": 3780,
-      "sale_price": 1849,
-      "category": "general"
-    },
-    {
-      "title": "adidas Samba OG Shoes",
-      "link": "https://www.dickssportinggoods.com/f/adidas-samba-og-shoes",
-      "original_price": 99.99,
-      "sale_price": 49.99,
-      "category": "general"
-    },
-    {
-      "title": "Husky 280-Piece SAE/Metric Mechanics Tool Set with Tool Box (H280MTS)",
-      "link": "https://slickdeals.net/f/19205851-280-piece-husky-mechanics-tool-set-99-free-shipping",
-      "original_price": 199,
-      "sale_price": 99,
-      "category": "general"
-    },
-    {
-      "title": "Green Toys Airplane (Red &amp; Blue)",
-      "link": "https://slickdeals.net/f/19464057-7-49-green-toys-airplane-red-blue-at-amazon",
-      "original_price": 14.99,
-      "sale_price": 7.49,
-      "category": "general"
-    },
-    {
-      "title": "Bose QuietComfort Headphones (Wireless Bluetooth ANC)",
-      "link": "https://slickdeals.net/f/18909496-179-bose-quietcomfort-bluetooth-headphones-various-colors-at-amazon",
-      "original_price": 359.0,
-      "sale_price": 179.0,
-      "category": "electronics"
-    },
-    {
-      "title": "Verbatim Pocket SSD 1TB Portable External SSD (USB 3.2 Gen 2)",
-      "link": "https://9to5toys.com/2026/08/19/tiny-1tb-portable-ssd-is-now-50-off-at-a-150-all-time-low/",
-      "original_price": 299.99,
-      "sale_price": 149.99,
-      "category": "electronics"
-    },
-    {
-      "title": "Hisense 50\" Hi-QLED S7 CanvasTV Series 4K UHD Google Smart Art TV (50S7SG)",
-      "link": "https://www.amazon.com/Hisense-Hi-QLED-CanvasTV-Google-50S7SG/dp/B0GRGTZKHT",
-      "original_price": 1299.99,
-      "sale_price": 629.99,
-      "category": "electronics"
-    },
-    {
-      "title": "Samsung ViewFinity S7 (S70D) 37\" 4K UHD HDR10 Monitor (LS37D700EANXZA)",
-      "link": "https://www.tomshardware.com/pc-components/today-only-you-can-snag-a-37-inch-4k-samsung-monitor-for-just-usd249-b-and-h-offers-up-a-big-productivity-screen-for-50-percent-off-in-a-one-day-deal",
-      "original_price": 499.99,
-      "sale_price": 249.99,
-      "category": "electronics"
-    },
-    {
-      "title": "LG UltraGear 27GX790A-B 27\" OLED QHD 480Hz Gaming Monitor",
-      "link": "https://slickdeals.net/f/19905216-lg-27gx790a-b-27-inch-ultragear-oled-qhd-1440p-480hz-gaming-monitor-467-97",
-      "original_price": 999.99,
-      "sale_price": 467.97,
-      "category": "electronics"
-    },
-    {
-      "title": "Patagonia Men's Down Sweater Jacket",
-      "link": "https://www.patagonia.com/shop/web-specials/mens/jackets-vests",
-      "original_price": 279.0,
-      "sale_price": 138.99,
-      "category": "Patagonia jacket"
-    },
-    {
-      "title": "Lifetime Wave 6' Youth Sit-On-Top Kayak with Paddle",
-      "link": "https://www.walmart.com/ip/Lifetime-6-Youth-Kayak-with-Bonus-Paddle/16565221",
-      "original_price": 199.0,
-      "sale_price": 99.0,
-      "category": "kayak"
-    },
-    {
-      "title": "FunWater Inflatable Ultra-Light Stand Up Paddle Board w/ Accessories",
-      "link": "https://www.amazon.com/FunWater-Inflatable-Ultra-Light-Paddleboard-Accessories/dp/B0D7YV71GK",
-      "original_price": 199.95,
-      "sale_price": 84.99,
-      "category": "paddleboard"
-    },
-    {
-      "title": "Ourlife 1080P Action Camera with 2-inch LCD",
-      "link": "https://www.dealnews.com/s321/Walmart/21940440.html",
-      "original_price": 70.0,
-      "sale_price": 27.0,
-      "category": "action camera"
-    },
-    {
-      "title": "5K 30FPS Waterproof Action Camera Bundle (32GB Card + Tripod)",
-      "link": "https://www.dealnews.com/s321/Walmart/21966393.html",
-      "original_price": 200.0,
-      "sale_price": 82.0,
-      "category": "action camera"
-    },
-    {
-      "title": "Okuma Snakehead Junky Rod (50% Off Sale)",
-      "link": "https://okumafishingusa.com/products/snakehead-junky-rods",
-      "original_price": 104.99,
-      "sale_price": 52.49,
-      "category": "fishing"
-    },
-    {
-      "title": "Dobyns Josh Jones Hyperlite 10' 2PC Casting Rod",
-      "link": "https://sport.woot.com/offers/dobyns-josh-jones-hyperlite-10-2pc-0",
-      "original_price": 270.0,
-      "sale_price": 89.99,
-      "category": "fishing"
-    },
-    {
-      "title": "REI Co-op Campwell 6 Tent",
-      "link": "https://www.rei.com/product/243613/rei-co-op-campwell-6-tent",
-      "original_price": 329.0,
-      "sale_price": 163.83,
-      "category": "REI"
-    },
-    {
-      "title": "REI Co-op Trailmade Rain Jacket - Men's",
-      "link": "https://www.rei.com/product/235244/rei-co-op-trailmade-rain-jacket-mens",
-      "original_price": 69.95,
-      "sale_price": 19.83,
-      "category": "REI"
-    },
-    {
-      "title": "JanSport All Around Pack 28L (Dune Red)",
-      "link": "https://slickdeals.net/f/19798548-26-99-28l-jansport-all-around-pack-backpack-dune-red-at-woot",
-      "original_price": 100.0,
-      "sale_price": 26.99,
-      "category": "outdoors"
-    },
-    {
-      "title": "ModFusion 7' x 4' Outdoor Metal Storage Shed",
-      "link": "https://www.autoblog.com/deals/modfusion-7-foot-by-4-foot-outdoor-storage-shed-walmart-sale",
-      "original_price": 580.0,
-      "sale_price": 250.0,
-      "category": "outdoor shed"
-    },
-    {
-      "title": "Asofer 6' x 4' Outdoor Storage Shed",
-      "link": "https://www.walmart.com/ip/Asofer-6-x4-Outdoor-Storage-Shed-Metal-Garden-Shed-with-Transparent-Panel-Window-Dark-Gray/15223519746",
-      "original_price": 240.0,
-      "sale_price": 116.0,
-      "category": "outdoor shed"
-    },
-    {
-      "title": "LZBEITEM 4' x 10' Outdoor Metal Storage Shed",
-      "link": "https://www.walmart.com/ip/LZBEITEM-4-x-10-ft-Outdoor-Metal-Storage-Lean-to-Shed-with-Two-Windows-Galvanized-Floor-Frame-Kit-Lockable-for-Garden-Backyard/16854560918",
-      "original_price": 584.0,
-      "sale_price": 210.0,
-      "category": "outdoor shed"
-    }
+    {"title": "Etta Avenue Andrei 2-Piece Bedroom Set (Bed + Storage Bench)", "link": "https://www.foxnews.com/deals/wayfair-48-hour-sale", "original_price": 371.98, "sale_price": 109.99, "category": "general"},
+    {"title": "Vitamix Certified Reconditioned Alta Pro Blender", "link": "https://www.vitamix.com/us/en_us/products/certified-reconditioned-alta-pro", "original_price": 549.95, "sale_price": 229.95, "category": "general"},
+    {"title": "adidas Samba OG Shoes", "link": "https://www.dickssportinggoods.com/f/adidas-samba-og-shoes", "original_price": 99.99, "sale_price": 49.99, "category": "general"},
+    {"title": "RIDGID 18V MAX Output Starter Kit with (2) 4.0 Ah Batteries and Charger with FREE 18V Brushless Angle Grinder", "link": "https://slickdeals.net/f/19070380-rigid-18v-max-output-starter-kit-with-2-4-0-ah-max-output-batteries-and-charger-with-free-18v-brushless-angle-grinder-139", "original_price": 447.00, "sale_price": 139.00, "category": "general"},
+    {"title": "CRAFTSMAN VersaStack 242-Pc. SAE and Metric Mechanics Tool Set with Hard Case", "link": "https://hip2save.com/deals/craftsman-versastack/", "original_price": 219.00, "sale_price": 99.00, "category": "general"},
+    {"title": "Squishville by Original Squishmallows Rock and Roller Disco Playset", "link": "https://www.dealnews.com/The-Toy-Room-Cleanout-Sale-at-Woot-for-Up-to-64-off-10-off-30-free-shipping-w-Prime/22129329.html", "original_price": 27.99, "sale_price": 9.99, "category": "general"},
+    {"title": "Educational Insights Kanoodle HeadtoHead Competitive Brain Puzzle Board Game", "link": "https://www.dealnews.com/The-Toy-Room-Cleanout-Sale-at-Woot-for-Up-to-64-off-10-off-30-free-shipping-w-Prime/22129329.html", "original_price": 25.99, "sale_price": 12.99, "category": "general"},
+    {"title": "Disney's Art of Animation Resort - Cars Family Suite (per night, summer 2026 promo)", "link": "https://www.disneytouristblog.com/disney-worlds-biggest-hotel-discount-for-summer-is-60-off-best-value-resort-rooms/", "original_price": 578.00, "sale_price": 269.00, "category": "general"},
+    {"title": "Sony WH-1000XM5 Wireless Noise Canceling Headphones", "link": "https://www.androidcentral.com/accessories/headphones/thats-not-a-typo-the-sony-wh-1000xm5-are-50-percent-off-during-amazons-labor-day-sale", "original_price": 399.99, "sale_price": 198.00, "category": "electronics"},
+    {"title": "Verbatim Pocket SSD 1TB External Portable SSD (USB 3.2 Gen 2)", "link": "https://9to5toys.com/2026/09/02/this-keychain-sized-1tb-ssd-just-plunged-140-all-time-low-for-labor-day/", "original_price": 299.99, "sale_price": 139.99, "category": "electronics"},
+    {"title": "Samsung ViewFinity S7 (S70D) 37\" 4K UHD HDR Monitor (LS37D700EANXZA)", "link": "https://www.bhphotovideo.com/c/product/1886368-REG/samsung_ls37d700eanxza_37_monitor.html", "original_price": 499.99, "sale_price": 249.99, "category": "electronics"},
+    {"title": "Patagonia Men's/Women's Diamond Quilted Bomber Hoodie", "link": "https://www.dickssportinggoods.com/p/patagonia-mens-diamond-quilted-bomber-hoodie-25ptgmmdmndqltdbmapo/25ptgmmdmndqltdbmapo", "original_price": 199.00, "sale_price": 89.97, "category": "Patagonia jacket"},
+    {"title": "Sun Dolphin Bali 10 SS Kayak", "link": "https://www.dickssportinggoods.com/p/sun-dolphin-bali-10-ss-kayak-16sphubl10ssstnkypsk/16sphubl10ssstnkypsk", "original_price": 279.99, "sale_price": 129.98, "category": "kayak"},
+    {"title": "Roc Inflatable Stand Up Paddle Board (10'6\")", "link": "https://www.mensjournal.com/shopping/roc-inflatable-stand-up-paddle-board-amazon-sale", "original_price": 400.00, "sale_price": 190.00, "category": "paddleboard"},
+    {"title": "FunWater 10'6\" Inflatable Stand Up Paddle Board w/ Premium SUP Accessories", "link": "https://slickdeals.net/f/18626887-10-6-funwater-inflatable-stand-up-paddle-board-w-premium-sup-accessories-various-85-97-free-shipping", "original_price": 199.95, "sale_price": 85.97, "category": "paddleboard"},
+    {"title": "GoPro HERO11 Black Mini Action Camera", "link": "https://www.bestbuy.com/site/gopro-hero11-black-mini-black/6520372.p?skuId=6520372", "original_price": 399.99, "sale_price": 129.99, "category": "action camera"},
+    {"title": "Aigo S80 Falcon Adult Electric Scooter", "link": "https://www.costco.com/p/-/aigo-s80-falcon-electric-scooter/4000423440", "original_price": 799.99, "sale_price": 399.97, "category": "Costco"},
+    {"title": "TOURIT 28-Can Soft-Sided Cooler Backpack", "link": "https://www.walmart.com/ip/TOURIT-28-Cans-Soft-Sided-Cooler-Backpack-Leakproof-Backpack-Cooler-Insulated-Waterproof-Cooler-Bag-for-Picnic-Hiking-Work-Trip-Black/2558716888", "original_price": 50.00, "sale_price": 19.00, "category": "Walmart"},
+    {"title": "KFFKFF Bell-Shaped Glamping Yurt Tent", "link": "https://www.thestreet.com/deals/kffkff-bell-shaped-glamping-yurt-walmart-sale", "original_price": 502.00, "sale_price": 216.00, "category": "Walmart"},
+    {"title": "Mustad Basscraft Spinning/Casting Rod (MR023)", "link": "https://mustad-fishing.com/us/products/mr023/", "original_price": 99.99, "sale_price": 49.99, "category": "fishing"},
+    {"title": "Dobyns Josh Jones Hyperlite 10' Casting Rod", "link": "https://sport.woot.com/offers/dobyns-josh-jones-hyperlite-10-2pc-0", "original_price": 259.99, "sale_price": 89.99, "category": "fishing"},
+    {"title": "REI Co-op Campwell 6 Tent", "link": "https://www.rei.com/product/243613/rei-co-op-campwell-6-tent", "original_price": 329.00, "sale_price": 163.83, "category": "REI"},
+    {"title": "Big Agnes Wyoming Trail 4 Tent (REI Outlet)", "link": "https://www.rei.com/product/248549/big-agnes-wyoming-trail-4-tent", "original_price": 999.95, "sale_price": 498.73, "category": "REI"},
+    {"title": "REI Co-op 650 Down Jacket - Men's", "link": "https://www.rei.com/product/221639/rei-co-op-650-down-jacket-mens", "original_price": 129.00, "sale_price": 64.00, "category": "outdoors"},
+    {"title": "Jolifa 8-Foot by 12-Foot Outdoor Storage Shed (Galvanized Steel)", "link": "https://www.autoblog.com/deals/jolifa-8-foot-by-12-foot-outdoor-storage-shed-walmart-sale", "original_price": 580.00, "sale_price": 260.00, "category": "outdoor shed"}
   ]
 }
