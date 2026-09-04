@@ -1,30 +1,110 @@
 {
-  "date": "2026-09-03",
+  "date": "2026-09-04",
   "items": [
-    {"title": "Etta Avenue Andrei 2-Piece Bedroom Set (Bed + Storage Bench)", "link": "https://www.foxnews.com/deals/wayfair-48-hour-sale", "original_price": 371.98, "sale_price": 109.99, "category": "general"},
-    {"title": "Vitamix Certified Reconditioned Alta Pro Blender", "link": "https://www.vitamix.com/us/en_us/products/certified-reconditioned-alta-pro", "original_price": 549.95, "sale_price": 229.95, "category": "general"},
-    {"title": "adidas Samba OG Shoes", "link": "https://www.dickssportinggoods.com/f/adidas-samba-og-shoes", "original_price": 99.99, "sale_price": 49.99, "category": "general"},
-    {"title": "RIDGID 18V MAX Output Starter Kit with (2) 4.0 Ah Batteries and Charger with FREE 18V Brushless Angle Grinder", "link": "https://slickdeals.net/f/19070380-rigid-18v-max-output-starter-kit-with-2-4-0-ah-max-output-batteries-and-charger-with-free-18v-brushless-angle-grinder-139", "original_price": 447.00, "sale_price": 139.00, "category": "general"},
-    {"title": "CRAFTSMAN VersaStack 242-Pc. SAE and Metric Mechanics Tool Set with Hard Case", "link": "https://hip2save.com/deals/craftsman-versastack/", "original_price": 219.00, "sale_price": 99.00, "category": "general"},
-    {"title": "Squishville by Original Squishmallows Rock and Roller Disco Playset", "link": "https://www.dealnews.com/The-Toy-Room-Cleanout-Sale-at-Woot-for-Up-to-64-off-10-off-30-free-shipping-w-Prime/22129329.html", "original_price": 27.99, "sale_price": 9.99, "category": "general"},
-    {"title": "Educational Insights Kanoodle HeadtoHead Competitive Brain Puzzle Board Game", "link": "https://www.dealnews.com/The-Toy-Room-Cleanout-Sale-at-Woot-for-Up-to-64-off-10-off-30-free-shipping-w-Prime/22129329.html", "original_price": 25.99, "sale_price": 12.99, "category": "general"},
-    {"title": "Disney's Art of Animation Resort - Cars Family Suite (per night, summer 2026 promo)", "link": "https://www.disneytouristblog.com/disney-worlds-biggest-hotel-discount-for-summer-is-60-off-best-value-resort-rooms/", "original_price": 578.00, "sale_price": 269.00, "category": "general"},
-    {"title": "Sony WH-1000XM5 Wireless Noise Canceling Headphones", "link": "https://www.androidcentral.com/accessories/headphones/thats-not-a-typo-the-sony-wh-1000xm5-are-50-percent-off-during-amazons-labor-day-sale", "original_price": 399.99, "sale_price": 198.00, "category": "electronics"},
-    {"title": "Verbatim Pocket SSD 1TB External Portable SSD (USB 3.2 Gen 2)", "link": "https://9to5toys.com/2026/09/02/this-keychain-sized-1tb-ssd-just-plunged-140-all-time-low-for-labor-day/", "original_price": 299.99, "sale_price": 139.99, "category": "electronics"},
-    {"title": "Samsung ViewFinity S7 (S70D) 37\" 4K UHD HDR Monitor (LS37D700EANXZA)", "link": "https://www.bhphotovideo.com/c/product/1886368-REG/samsung_ls37d700eanxza_37_monitor.html", "original_price": 499.99, "sale_price": 249.99, "category": "electronics"},
-    {"title": "Patagonia Men's/Women's Diamond Quilted Bomber Hoodie", "link": "https://www.dickssportinggoods.com/p/patagonia-mens-diamond-quilted-bomber-hoodie-25ptgmmdmndqltdbmapo/25ptgmmdmndqltdbmapo", "original_price": 199.00, "sale_price": 89.97, "category": "Patagonia jacket"},
-    {"title": "Sun Dolphin Bali 10 SS Kayak", "link": "https://www.dickssportinggoods.com/p/sun-dolphin-bali-10-ss-kayak-16sphubl10ssstnkypsk/16sphubl10ssstnkypsk", "original_price": 279.99, "sale_price": 129.98, "category": "kayak"},
-    {"title": "Roc Inflatable Stand Up Paddle Board (10'6\")", "link": "https://www.mensjournal.com/shopping/roc-inflatable-stand-up-paddle-board-amazon-sale", "original_price": 400.00, "sale_price": 190.00, "category": "paddleboard"},
-    {"title": "FunWater 10'6\" Inflatable Stand Up Paddle Board w/ Premium SUP Accessories", "link": "https://slickdeals.net/f/18626887-10-6-funwater-inflatable-stand-up-paddle-board-w-premium-sup-accessories-various-85-97-free-shipping", "original_price": 199.95, "sale_price": 85.97, "category": "paddleboard"},
-    {"title": "GoPro HERO11 Black Mini Action Camera", "link": "https://www.bestbuy.com/site/gopro-hero11-black-mini-black/6520372.p?skuId=6520372", "original_price": 399.99, "sale_price": 129.99, "category": "action camera"},
-    {"title": "Aigo S80 Falcon Adult Electric Scooter", "link": "https://www.costco.com/p/-/aigo-s80-falcon-electric-scooter/4000423440", "original_price": 799.99, "sale_price": 399.97, "category": "Costco"},
-    {"title": "TOURIT 28-Can Soft-Sided Cooler Backpack", "link": "https://www.walmart.com/ip/TOURIT-28-Cans-Soft-Sided-Cooler-Backpack-Leakproof-Backpack-Cooler-Insulated-Waterproof-Cooler-Bag-for-Picnic-Hiking-Work-Trip-Black/2558716888", "original_price": 50.00, "sale_price": 19.00, "category": "Walmart"},
-    {"title": "KFFKFF Bell-Shaped Glamping Yurt Tent", "link": "https://www.thestreet.com/deals/kffkff-bell-shaped-glamping-yurt-walmart-sale", "original_price": 502.00, "sale_price": 216.00, "category": "Walmart"},
-    {"title": "Mustad Basscraft Spinning/Casting Rod (MR023)", "link": "https://mustad-fishing.com/us/products/mr023/", "original_price": 99.99, "sale_price": 49.99, "category": "fishing"},
-    {"title": "Dobyns Josh Jones Hyperlite 10' Casting Rod", "link": "https://sport.woot.com/offers/dobyns-josh-jones-hyperlite-10-2pc-0", "original_price": 259.99, "sale_price": 89.99, "category": "fishing"},
-    {"title": "REI Co-op Campwell 6 Tent", "link": "https://www.rei.com/product/243613/rei-co-op-campwell-6-tent", "original_price": 329.00, "sale_price": 163.83, "category": "REI"},
-    {"title": "Big Agnes Wyoming Trail 4 Tent (REI Outlet)", "link": "https://www.rei.com/product/248549/big-agnes-wyoming-trail-4-tent", "original_price": 999.95, "sale_price": 498.73, "category": "REI"},
-    {"title": "REI Co-op 650 Down Jacket - Men's", "link": "https://www.rei.com/product/221639/rei-co-op-650-down-jacket-mens", "original_price": 129.00, "sale_price": 64.00, "category": "outdoors"},
-    {"title": "Jolifa 8-Foot by 12-Foot Outdoor Storage Shed (Galvanized Steel)", "link": "https://www.autoblog.com/deals/jolifa-8-foot-by-12-foot-outdoor-storage-shed-walmart-sale", "original_price": 580.00, "sale_price": 260.00, "category": "outdoor shed"}
+    {
+      "title": "Men's Nike 6-Pack Everyday Plus Cushion Crew Training Socks",
+      "link": "https://www.kohls.com/product/prd-3570386/mens-nike-6-pack-everyday-plus-cushion-crew-training-socks.jsp",
+      "original_price": 28.0,
+      "sale_price": 10.5,
+      "category": "general"
+    },
+    {
+      "title": "The Big One Oversized Supersoft Plush Throw Blanket",
+      "link": "https://www.kohls.com/product/prd-1944597/the-big-one-super-soft-plush-throw.jsp",
+      "original_price": 14.99,
+      "sale_price": 4.49,
+      "category": "general"
+    },
+    {
+      "title": "Geoffrey's Toy Box Buddies Wash & Color Playset",
+      "link": "https://www.macys.com/shop/product/geoffreys-toy-box-buddies-wash-color-playset-created-for-macys?ID=19076362",
+      "original_price": 49.99,
+      "sale_price": 9.96,
+      "category": "general"
+    },
+    {
+      "title": "DEWALT XTREME 12V MAX 3/8-in Cordless Ratchet Wrench (Tool Only) DCF503B",
+      "link": "https://www.lowes.com/pd/DEWALT-DEWALT-12V-3-8-IN-RATCHET-TOOL-ONLY/5013118759",
+      "original_price": 199.0,
+      "sale_price": 99.0,
+      "category": "general"
+    },
+    {
+      "title": "Reebok Men's Viva Speed Shoes",
+      "link": "https://www.ebay.com/itm/178267312541",
+      "original_price": 60.0,
+      "sale_price": 28.8,
+      "category": "general"
+    },
+    {
+      "title": "LG 48\" Class B5 Series OLED AI 4K UHD Smart webOS TV (2025) OLED48B5PUA",
+      "link": "https://www.bestbuy.com/product/lg-48-class-b5-series-oled-ai-4k-uhd-smart-webos-tv-2025/JJ8VPZTK9F",
+      "original_price": 1299.99,
+      "sale_price": 599.99,
+      "category": "electronics"
+    },
+    {
+      "title": "Bose QuietComfort Headphones (Certified Refurbished)",
+      "link": "https://www.bose.com/p/refurbished/quietcomfort-acoustic-noise-cancelling-headphones/QC-HEADPHONEARN-FR.html",
+      "original_price": 359.0,
+      "sale_price": 179.0,
+      "category": "electronics"
+    },
+    {
+      "title": "Patagonia Nano Puff Insulated Jacket (Men's/Women's)",
+      "link": "https://www.rei.com/product/249151/patagonia-nano-puff-insulated-jacket-mens",
+      "original_price": 229,
+      "sale_price": 114,
+      "category": "Patagonia jacket"
+    },
+    {
+      "title": "MSEASFREE 11 ft Inflatable Paddle Board with Full SUP Accessories",
+      "link": "https://www.walmart.com/ip/MSEASFREE-11-ft-Inflatable-Paddle-Board-Stand-up-Paddle-Board-All-Purpose-Fishing-Board-with-Full-SUP-Accessories/16315767458",
+      "original_price": 379.98,
+      "sale_price": 169.99,
+      "category": "paddleboard"
+    },
+    {
+      "title": "Patagonia Nano Puff Insulated Jacket - Men's",
+      "link": "https://www.rei.com/b/patagonia/f/pl-nano-puff",
+      "original_price": 229.0,
+      "sale_price": 113.83,
+      "category": "REI"
+    },
+    {
+      "title": "REI Co-op Sahara Shade Straight-Hem Hoodie - Women's",
+      "link": "https://www.rei.com/product/C01827/rei-co-op-sahara-shade-straight-hem-hoodie-womens",
+      "original_price": 59.95,
+      "sale_price": 29.83,
+      "category": "REI"
+    },
+    {
+      "title": "Cannondale Sidestreet Bike Helmet",
+      "link": "https://www.rei.com/product/254907/cannondale-sidestreet-bike-helmet",
+      "original_price": 115.0,
+      "sale_price": 56.73,
+      "category": "REI"
+    },
+    {
+      "title": "Cotopaxi Atajo Long-Sleeve Waffle V-Neck Shirt - Women's",
+      "link": "https://www.rei.com/product/249890/cotopaxi-atajo-long-sleeve-waffle-v-neck-shirt-womens",
+      "original_price": 75.0,
+      "sale_price": 36.83,
+      "category": "REI"
+    },
+    {
+      "title": "Mapskey 2-Person Instant Pop-Up Camping Tent with Screen Porch",
+      "link": "https://www.walmart.com/ip/Mapskey-2-Person-Tent-for-Camping-Instant-Pop-Up-Camping-Tent-with-Screen-Porch-Family-Tent-for-Outdoor-Hiking-Traveling-with-Tote-Bag-Camp-Dome/17938650633",
+      "original_price": 80.0,
+      "sale_price": 40.0,
+      "category": "Walmart"
+    },
+    {
+      "title": "Abu Garcia MAX PRO Baitcast Reel (Scheels Clearance Event)",
+      "link": "https://www.dealnews.com/Scheels-Big-Clearance-Event-Up-to-50-off-free-shipping-w-75/22139176.html",
+      "original_price": 110.0,
+      "sale_price": 50.0,
+      "category": "fishing"
+    }
   ]
 }
