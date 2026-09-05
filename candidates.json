@@ -1,110 +1,138 @@
 {
-  "date": "2026-09-04",
+  "date": "2026-09-05",
   "items": [
     {
-      "title": "Men's Nike 6-Pack Everyday Plus Cushion Crew Training Socks",
-      "link": "https://www.kohls.com/product/prd-3570386/mens-nike-6-pack-everyday-plus-cushion-crew-training-socks.jsp",
-      "original_price": 28.0,
-      "sale_price": 10.5,
+      "title": "KitchenAid Refurbished Artisan Series 5 Quart Tilt-Head Stand Mixer (RRK150)",
+      "link": "https://slickdeals.net/f/19136719-kitchenaid-refurbished-artisan-series-5-quart-tilt-head-stand-mixer-rrk150-50-off-249-99",
+      "original_price": 499.99,
+      "sale_price": 249.99,
       "category": "general"
     },
     {
-      "title": "The Big One Oversized Supersoft Plush Throw Blanket",
-      "link": "https://www.kohls.com/product/prd-1944597/the-big-one-super-soft-plush-throw.jsp",
-      "original_price": 14.99,
-      "sale_price": 4.49,
+      "title": "adidas Men's Handball Spezial Shoes (Woot Sports & Outdoors Sale)",
+      "link": "https://www.dealnews.com/New-Balance-adidas-More-Sale-at-Woot-Up-to-55-off-free-shipping-w-Prime/22142321.html",
+      "original_price": 110,
+      "sale_price": 50,
       "category": "general"
     },
     {
-      "title": "Geoffrey's Toy Box Buddies Wash & Color Playset",
-      "link": "https://www.macys.com/shop/product/geoffreys-toy-box-buddies-wash-color-playset-created-for-macys?ID=19076362",
-      "original_price": 49.99,
-      "sale_price": 9.96,
+      "title": "I.N.C. International Concepts Women's Sandals",
+      "link": "https://www.macys.com/shop/sale/by-category/womens/shoes/Brand/I.N.C.%20International%20Concepts?id=13604",
+      "original_price": 69.90,
+      "sale_price": 34.95,
       "category": "general"
     },
     {
-      "title": "DEWALT XTREME 12V MAX 3/8-in Cordless Ratchet Wrench (Tool Only) DCF503B",
-      "link": "https://www.lowes.com/pd/DEWALT-DEWALT-12V-3-8-IN-RATCHET-TOOL-ONLY/5013118759",
-      "original_price": 199.0,
-      "sale_price": 99.0,
+      "title": "DEWALT 20V XR Lithium-Ion Starter Pack with 8.0Ah and 4.0Ah Battery Packs and Charger (DCB248-2C)",
+      "link": "https://www.homedepot.com/p/DEWALT-20V-XR-Lithium-Ion-Starter-Pack-with-8-0-Ah-and-4-0-Ah-Battery-Packs-and-Charger-DCB248-2C/332551070",
+      "original_price": 399,
+      "sale_price": 199,
       "category": "general"
     },
     {
-      "title": "Reebok Men's Viva Speed Shoes",
-      "link": "https://www.ebay.com/itm/178267312541",
-      "original_price": 60.0,
-      "sale_price": 28.8,
+      "title": "Melissa & Doug Wooden Chocolate Factory Play Set",
+      "link": "https://www.macys.com/shop/product/melissa-doug-chocolate-factory-play-set?ID=19217618",
+      "original_price": 70.99,
+      "sale_price": 35.43,
       "category": "general"
     },
     {
-      "title": "LG 48\" Class B5 Series OLED AI 4K UHD Smart webOS TV (2025) OLED48B5PUA",
-      "link": "https://www.bestbuy.com/product/lg-48-class-b5-series-oled-ai-4k-uhd-smart-webos-tv-2025/JJ8VPZTK9F",
-      "original_price": 1299.99,
-      "sale_price": 599.99,
+      "title": "Melissa & Doug Wooden Café Barista Coffee Shop 35 Piece Set",
+      "link": "https://www.macys.com/shop/product/melissa-doug-wooden-cafe-barista-coffee-shop-35-piece-set?ID=14574951",
+      "original_price": 131.99,
+      "sale_price": 65.93,
+      "category": "general"
+    },
+    {
+      "title": "Sony WH-1000XM5 Wireless Noise Canceling Headphones",
+      "link": "https://www.soundguys.com/sony-wh-1000xm5-headphones-deal-amazon-162333/",
+      "original_price": 399.99,
+      "sale_price": 198,
       "category": "electronics"
     },
     {
-      "title": "Bose QuietComfort Headphones (Certified Refurbished)",
-      "link": "https://www.bose.com/p/refurbished/quietcomfort-acoustic-noise-cancelling-headphones/QC-HEADPHONEARN-FR.html",
-      "original_price": 359.0,
-      "sale_price": 179.0,
+      "title": "Hisense 58\" Class QD50 Hi QLED Series 4K UHD Smart Roku TV (2026) 58QD50R",
+      "link": "https://www.popsci.com/gear/best-buy-labor-day-sale-half-off-2026/",
+      "original_price": 399.99,
+      "sale_price": 199.99,
       "category": "electronics"
     },
     {
-      "title": "Patagonia Nano Puff Insulated Jacket (Men's/Women's)",
+      "title": "LG 24\" IPS FHD 120Hz Monitor with HDR10 (24U41YA-B)",
+      "link": "https://www.dealnews.com/products/LG/LG-24-1080-p-HDR-120-Hz-IPS-LED-Monitor/495611.html",
+      "original_price": 199.99,
+      "sale_price": 99.99,
+      "category": "electronics"
+    },
+    {
+      "title": "Patagonia Men's Nomader Hoody Jacket",
+      "link": "https://www.patagonia.com/product/mens-nomader-hoody-jacket/20440.html",
+      "original_price": 209,
+      "sale_price": 103.99,
+      "category": "Patagonia jacket"
+    },
+    {
+      "title": "Patagonia Men's Diamond Quilted Bomber Hoody",
+      "link": "https://www.patagonia.com/product/mens-diamond-quilted-bomber-hoody/27610.html",
+      "original_price": 199,
+      "sale_price": 98.99,
+      "category": "Patagonia jacket"
+    },
+    {
+      "title": "Patagonia Nano Puff Insulated Jacket - Men's (REI)",
       "link": "https://www.rei.com/product/249151/patagonia-nano-puff-insulated-jacket-mens",
       "original_price": 229,
       "sale_price": 114,
       "category": "Patagonia jacket"
     },
     {
-      "title": "MSEASFREE 11 ft Inflatable Paddle Board with Full SUP Accessories",
-      "link": "https://www.walmart.com/ip/MSEASFREE-11-ft-Inflatable-Paddle-Board-Stand-up-Paddle-Board-All-Purpose-Fishing-Board-with-Full-SUP-Accessories/16315767458",
-      "original_price": 379.98,
-      "sale_price": 169.99,
+      "title": "FunWater Inflatable Stand Up Paddle Board (various colors)",
+      "link": "https://slickdeals.net/f/19179277-funwater-inflatable-stand-up-paddle-board-premium-sup-board-various-colors-89-59",
+      "original_price": 299.99,
+      "sale_price": 89.59,
       "category": "paddleboard"
     },
     {
-      "title": "Patagonia Nano Puff Insulated Jacket - Men's",
-      "link": "https://www.rei.com/b/patagonia/f/pl-nano-puff",
-      "original_price": 229.0,
+      "title": "Okuma Snakehead Junky Rods",
+      "link": "https://okumafishingusa.com/products/snakehead-junky-rods",
+      "original_price": 104.99,
+      "sale_price": 52.49,
+      "category": "fishing"
+    },
+    {
+      "title": "Asofer 8x6 FT Outdoor Storage Shed (Clearance)",
+      "link": "https://www.walmart.com/ip/Asofer-8-x-6-FT-Outdoor-Storage-Shed-Clearance-Garden-Tool-Shed-for-Outsides-Yard-Patio-Gray/9780371548",
+      "original_price": 409,
+      "sale_price": 185,
+      "category": "outdoor shed"
+    },
+    {
+      "title": "Clouddwell 10ft x 8ft Heavy-Duty Metal Storage Shed",
+      "link": "https://www.walmart.com/ip/Clouddwell-10ft-x-8ft-Heavy-Duty-Metal-Storage-Shed-with-3-Doors-Lockable-Lean-To-Design-Weatherproof-for-Garden-Tools-Black/16985456116",
+      "original_price": 600,
+      "sale_price": 300,
+      "category": "outdoor shed"
+    },
+    {
+      "title": "Aiho 6x4 FT Outdoor Storage Shed",
+      "link": "https://www.autoblog.com/deals/aiho-outdoor-storage-shed-walmart-sale-august-2026",
+      "original_price": 330,
+      "sale_price": 160,
+      "category": "outdoor shed"
+    },
+    {
+      "title": "REI Co-op Campwell Down Parka - Women's",
+      "link": "https://www.rei.com/product/248978/rei-co-op-campwell-down-parka-womens",
+      "original_price": 229,
       "sale_price": 113.83,
       "category": "REI"
     },
     {
-      "title": "REI Co-op Sahara Shade Straight-Hem Hoodie - Women's",
-      "link": "https://www.rei.com/product/C01827/rei-co-op-sahara-shade-straight-hem-hoodie-womens",
-      "original_price": 59.95,
-      "sale_price": 29.83,
-      "category": "REI"
-    },
-    {
-      "title": "Cannondale Sidestreet Bike Helmet",
-      "link": "https://www.rei.com/product/254907/cannondale-sidestreet-bike-helmet",
-      "original_price": 115.0,
-      "sale_price": 56.73,
-      "category": "REI"
-    },
-    {
-      "title": "Cotopaxi Atajo Long-Sleeve Waffle V-Neck Shirt - Women's",
-      "link": "https://www.rei.com/product/249890/cotopaxi-atajo-long-sleeve-waffle-v-neck-shirt-womens",
-      "original_price": 75.0,
-      "sale_price": 36.83,
-      "category": "REI"
-    },
-    {
-      "title": "Mapskey 2-Person Instant Pop-Up Camping Tent with Screen Porch",
-      "link": "https://www.walmart.com/ip/Mapskey-2-Person-Tent-for-Camping-Instant-Pop-Up-Camping-Tent-with-Screen-Porch-Family-Tent-for-Outdoor-Hiking-Traveling-with-Tote-Bag-Camp-Dome/17938650633",
-      "original_price": 80.0,
-      "sale_price": 40.0,
+      "title": "Baseus 20,000mAh Power Bank with Built-in Cables",
+      "link": "https://www.walmart.com/ip/Baseus-Portable-Charger-20000mAh-Power-Bank-Fast-Charging-Phone-Charger-Dual-Output-Battery-Pack/5368968115",
+      "original_price": 40,
+      "sale_price": 9.99,
       "category": "Walmart"
-    },
-    {
-      "title": "Abu Garcia MAX PRO Baitcast Reel (Scheels Clearance Event)",
-      "link": "https://www.dealnews.com/Scheels-Big-Clearance-Event-Up-to-50-off-free-shipping-w-75/22139176.html",
-      "original_price": 110.0,
-      "sale_price": 50.0,
-      "category": "fishing"
     }
   ]
 }

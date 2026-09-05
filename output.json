@@ -1,101 +1,129 @@
 {
-  "date": "2026-09-04",
+  "date": "2026-09-05",
   "steals": [
     {
-      "title": "The Big One Oversized Supersoft Plush Throw Blanket",
-      "link": "https://www.kohls.com/product/prd-1944597/the-big-one-super-soft-plush-throw.jsp",
-      "original_price": 14.99,
-      "sale_price": 4.49,
+      "title": "FunWater Inflatable Stand Up Paddle Board (various colors)",
+      "link": "https://slickdeals.net/f/19179277-funwater-inflatable-stand-up-paddle-board-premium-sup-board-various-colors-89-59",
+      "original_price": 299.99,
+      "sale_price": 89.59,
       "discount_pct": 70
     },
     {
-      "title": "Geoffrey's Toy Box Buddies Wash & Color Playset",
-      "link": "https://www.macys.com/shop/product/geoffreys-toy-box-buddies-wash-color-playset-created-for-macys?ID=19076362",
-      "original_price": 49.99,
-      "sale_price": 9.96,
-      "discount_pct": 80
+      "title": "Baseus 20,000mAh Power Bank with Built-in Cables",
+      "link": "https://www.walmart.com/ip/Baseus-Portable-Charger-20000mAh-Power-Bank-Fast-Charging-Phone-Charger-Dual-Output-Battery-Pack/5368968115",
+      "original_price": 40.0,
+      "sale_price": 9.99,
+      "discount_pct": 75
     }
   ],
   "watchlist": {
-    "paddleboard": [
+    "Patagonia jacket": [
       {
-        "title": "MSEASFREE 11 ft Inflatable Paddle Board with Full SUP Accessories",
-        "link": "https://www.walmart.com/ip/MSEASFREE-11-ft-Inflatable-Paddle-Board-Stand-up-Paddle-Board-All-Purpose-Fishing-Board-with-Full-SUP-Accessories/16315767458",
-        "original_price": 379.98,
-        "sale_price": 169.99,
-        "discount_pct": 55
+        "title": "Patagonia Men's Nomader Hoody Jacket",
+        "link": "https://www.patagonia.com/product/mens-nomader-hoody-jacket/20440.html",
+        "original_price": 209.0,
+        "sale_price": 103.99,
+        "discount_pct": 50
+      },
+      {
+        "title": "Patagonia Men's Diamond Quilted Bomber Hoody",
+        "link": "https://www.patagonia.com/product/mens-diamond-quilted-bomber-hoody/27610.html",
+        "original_price": 199.0,
+        "sale_price": 98.99,
+        "discount_pct": 50
+      }
+    ],
+    "outdoor shed": [
+      {
+        "title": "Clouddwell 10ft x 8ft Heavy-Duty Metal Storage Shed",
+        "link": "https://www.walmart.com/ip/Clouddwell-10ft-x-8ft-Heavy-Duty-Metal-Storage-Shed-with-3-Doors-Lockable-Lean-To-Design-Weatherproof-for-Garden-Tools-Black/16985456116",
+        "original_price": 600.0,
+        "sale_price": 300.0,
+        "discount_pct": 50
+      },
+      {
+        "title": "Aiho 6x4 FT Outdoor Storage Shed",
+        "link": "https://www.autoblog.com/deals/aiho-outdoor-storage-shed-walmart-sale-august-2026",
+        "original_price": 330.0,
+        "sale_price": 160.0,
+        "discount_pct": 52
       }
     ],
     "REI": [
       {
-        "title": "Patagonia Nano Puff Insulated Jacket - Men's",
-        "link": "https://www.rei.com/b/patagonia/f/pl-nano-puff",
+        "title": "REI Co-op Campwell Down Parka - Women's",
+        "link": "https://www.rei.com/product/248978/rei-co-op-campwell-down-parka-womens",
         "original_price": 229.0,
         "sale_price": 113.83,
         "discount_pct": 50
-      },
-      {
-        "title": "REI Co-op Sahara Shade Straight-Hem Hoodie - Women's",
-        "link": "https://www.rei.com/product/C01827/rei-co-op-sahara-shade-straight-hem-hoodie-womens",
-        "original_price": 59.95,
-        "sale_price": 29.83,
-        "discount_pct": 50
-      },
-      {
-        "title": "Cannondale Sidestreet Bike Helmet",
-        "link": "https://www.rei.com/product/254907/cannondale-sidestreet-bike-helmet",
-        "original_price": 115.0,
-        "sale_price": 56.73,
-        "discount_pct": 51
-      },
-      {
-        "title": "Cotopaxi Atajo Long-Sleeve Waffle V-Neck Shirt - Women's",
-        "link": "https://www.rei.com/product/249890/cotopaxi-atajo-long-sleeve-waffle-v-neck-shirt-womens",
-        "original_price": 75.0,
-        "sale_price": 36.83,
-        "discount_pct": 51
-      }
-    ],
-    "fishing": [
-      {
-        "title": "Abu Garcia MAX PRO Baitcast Reel (Scheels Clearance Event)",
-        "link": "https://www.dealnews.com/Scheels-Big-Clearance-Event-Up-to-50-off-free-shipping-w-75/22139176.html",
-        "original_price": 110.0,
-        "sale_price": 50.0,
-        "discount_pct": 55
       }
     ]
   },
   "electronics": [
     {
-      "title": "Bose QuietComfort Headphones (Certified Refurbished)",
-      "link": "https://www.bose.com/p/refurbished/quietcomfort-acoustic-noise-cancelling-headphones/QC-HEADPHONEARN-FR.html",
-      "original_price": 359.0,
-      "sale_price": 179.0,
+      "title": "Sony WH-1000XM5 Wireless Noise Canceling Headphones",
+      "link": "https://www.soundguys.com/sony-wh-1000xm5-headphones-deal-amazon-162333/",
+      "original_price": 399.99,
+      "sale_price": 198.0,
+      "discount_pct": 50
+    },
+    {
+      "title": "Hisense 58\" Class QD50 Hi QLED Series 4K UHD Smart Roku TV (2026) 58QD50R",
+      "link": "https://www.popsci.com/gear/best-buy-labor-day-sale-half-off-2026/",
+      "original_price": 399.99,
+      "sale_price": 199.99,
+      "discount_pct": 50
+    },
+    {
+      "title": "LG 24\" IPS FHD 120Hz Monitor with HDR10 (24U41YA-B)",
+      "link": "https://www.dealnews.com/products/LG/LG-24-1080-p-HDR-120-Hz-IPS-LED-Monitor/495611.html",
+      "original_price": 199.99,
+      "sale_price": 99.99,
       "discount_pct": 50
     }
   ],
   "general": [
     {
-      "title": "Men's Nike 6-Pack Everyday Plus Cushion Crew Training Socks",
-      "link": "https://www.kohls.com/product/prd-3570386/mens-nike-6-pack-everyday-plus-cushion-crew-training-socks.jsp",
-      "original_price": 28.0,
-      "sale_price": 10.5,
-      "discount_pct": 62
-    },
-    {
-      "title": "DEWALT XTREME 12V MAX 3/8-in Cordless Ratchet Wrench (Tool Only) DCF503B",
-      "link": "https://www.lowes.com/pd/DEWALT-DEWALT-12V-3-8-IN-RATCHET-TOOL-ONLY/5013118759",
-      "original_price": 199.0,
-      "sale_price": 99.0,
+      "title": "KitchenAid Refurbished Artisan Series 5 Quart Tilt-Head Stand Mixer (RRK150)",
+      "link": "https://slickdeals.net/f/19136719-kitchenaid-refurbished-artisan-series-5-quart-tilt-head-stand-mixer-rrk150-50-off-249-99",
+      "original_price": 499.99,
+      "sale_price": 249.99,
       "discount_pct": 50
     },
     {
-      "title": "Reebok Men's Viva Speed Shoes",
-      "link": "https://www.ebay.com/itm/178267312541",
-      "original_price": 60.0,
-      "sale_price": 28.8,
-      "discount_pct": 52
+      "title": "adidas Men's Handball Spezial Shoes (Woot Sports & Outdoors Sale)",
+      "link": "https://www.dealnews.com/New-Balance-adidas-More-Sale-at-Woot-Up-to-55-off-free-shipping-w-Prime/22142321.html",
+      "original_price": 110.0,
+      "sale_price": 50.0,
+      "discount_pct": 55
+    },
+    {
+      "title": "I.N.C. International Concepts Women's Sandals",
+      "link": "https://www.macys.com/shop/sale/by-category/womens/shoes/Brand/I.N.C.%20International%20Concepts?id=13604",
+      "original_price": 69.9,
+      "sale_price": 34.95,
+      "discount_pct": 50
+    },
+    {
+      "title": "DEWALT 20V XR Lithium-Ion Starter Pack with 8.0Ah and 4.0Ah Battery Packs and Charger (DCB248-2C)",
+      "link": "https://www.homedepot.com/p/DEWALT-20V-XR-Lithium-Ion-Starter-Pack-with-8-0-Ah-and-4-0-Ah-Battery-Packs-and-Charger-DCB248-2C/332551070",
+      "original_price": 399.0,
+      "sale_price": 199.0,
+      "discount_pct": 50
+    },
+    {
+      "title": "Melissa & Doug Wooden Chocolate Factory Play Set",
+      "link": "https://www.macys.com/shop/product/melissa-doug-chocolate-factory-play-set?ID=19217618",
+      "original_price": 70.99,
+      "sale_price": 35.43,
+      "discount_pct": 50
+    },
+    {
+      "title": "Melissa & Doug Wooden Caf\u00e9 Barista Coffee Shop 35 Piece Set",
+      "link": "https://www.macys.com/shop/product/melissa-doug-wooden-cafe-barista-coffee-shop-35-piece-set?ID=14574951",
+      "original_price": 131.99,
+      "sale_price": 65.93,
+      "discount_pct": 50
     }
   ]
 }
