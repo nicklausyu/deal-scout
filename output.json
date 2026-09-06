@@ -1,129 +1,230 @@
 {
-  "date": "2026-09-05",
-  "steals": [
-    {
-      "title": "FunWater Inflatable Stand Up Paddle Board (various colors)",
-      "link": "https://slickdeals.net/f/19179277-funwater-inflatable-stand-up-paddle-board-premium-sup-board-various-colors-89-59",
-      "original_price": 299.99,
-      "sale_price": 89.59,
-      "discount_pct": 70
-    },
-    {
-      "title": "Baseus 20,000mAh Power Bank with Built-in Cables",
-      "link": "https://www.walmart.com/ip/Baseus-Portable-Charger-20000mAh-Power-Bank-Fast-Charging-Phone-Charger-Dual-Output-Battery-Pack/5368968115",
-      "original_price": 40.0,
-      "sale_price": 9.99,
-      "discount_pct": 75
-    }
-  ],
+  "date": "2026-09-06",
+  "steals": [],
   "watchlist": {
-    "Patagonia jacket": [
+    "paddleboard": [
       {
-        "title": "Patagonia Men's Nomader Hoody Jacket",
-        "link": "https://www.patagonia.com/product/mens-nomader-hoody-jacket/20440.html",
-        "original_price": 209.0,
-        "sale_price": 103.99,
-        "discount_pct": 50
-      },
-      {
-        "title": "Patagonia Men's Diamond Quilted Bomber Hoody",
-        "link": "https://www.patagonia.com/product/mens-diamond-quilted-bomber-hoody/27610.html",
-        "original_price": 199.0,
-        "sale_price": 98.99,
-        "discount_pct": 50
+        "title": "FunWater 10'6\" Inflatable Stand Up Paddle Board w/ Accessories",
+        "link": "https://www.dansdeals.com/shopping-deals/amazon/funwater-inflatableultra-light-stand-up-paddle-board-for-85-97-shipped-from-amazon/",
+        "original_price": 199.95,
+        "sale_price": 85.97,
+        "discount_pct": 57
       }
     ],
-    "outdoor shed": [
+    "Apple": [
       {
-        "title": "Clouddwell 10ft x 8ft Heavy-Duty Metal Storage Shed",
-        "link": "https://www.walmart.com/ip/Clouddwell-10ft-x-8ft-Heavy-Duty-Metal-Storage-Shed-with-3-Doors-Lockable-Lean-To-Design-Weatherproof-for-Garden-Tools-Black/16985456116",
-        "original_price": 600.0,
-        "sale_price": 300.0,
-        "discount_pct": 50
-      },
-      {
-        "title": "Aiho 6x4 FT Outdoor Storage Shed",
-        "link": "https://www.autoblog.com/deals/aiho-outdoor-storage-shed-walmart-sale-august-2026",
-        "original_price": 330.0,
-        "sale_price": 160.0,
-        "discount_pct": 52
+        "title": "Refurb Apple MacBook Air 13\" M1 Laptop (2020, MGN63LL/A)",
+        "link": "https://www.dealnews.com/products/Apple/Apple-Mac-Book-Air-13-M1-Laptop-2020/165091.html",
+        "original_price": 999.0,
+        "sale_price": 347.76,
+        "discount_pct": 65
       }
     ],
     "REI": [
       {
-        "title": "REI Co-op Campwell Down Parka - Women's",
-        "link": "https://www.rei.com/product/248978/rei-co-op-campwell-down-parka-womens",
-        "original_price": 229.0,
-        "sale_price": 113.83,
+        "title": "REI Co-op Trailmade Fleece Jacket - Men's",
+        "link": "https://www.rei.com/product/216851/rei-co-op-trailmade-fleece-jacket-mens",
+        "original_price": 59.95,
+        "sale_price": 29.83,
         "discount_pct": 50
+      },
+      {
+        "title": "Cotopaxi Teca Calido Hooded Insulated Jacket",
+        "link": "https://www.rei.com/product/246428/cotopaxi-teca-calido-hooded-insulated-jacket-mens",
+        "original_price": 150.0,
+        "sale_price": 74.0,
+        "discount_pct": 51
+      }
+    ],
+    "outdoor shed": [
+      {
+        "title": "PABIMIA 14 ft. x 12 ft. Heavy-Duty Steel Outdoor Storage Shed",
+        "link": "https://www.autoblog.com/deals/pabimia-14-foot-by-12-foot-outdoor-storage-shed-walmart-sale",
+        "original_price": 939.97,
+        "sale_price": 459.99,
+        "discount_pct": 51
+      }
+    ],
+    "outdoors": [
+      {
+        "title": "Federal Terminal Ascent 6.5 Creedmoor 130 Grain Ammunition (20 Rounds)",
+        "link": "https://www.academy.com/c/academy-clearance/outdoors-clearance--1/hunting-clearance",
+        "original_price": 64.99,
+        "sale_price": 27.49,
+        "discount_pct": 58
+      },
+      {
+        "title": "Marmot Women's Fleece Jacket",
+        "link": "https://www.backcountry.com/marmot-womens-fleece-jackets",
+        "original_price": 114.95,
+        "sale_price": 40.23,
+        "discount_pct": 65
+      }
+    ],
+    "home & kitchen": [
+      {
+        "title": "Instant Pot 4QT Vortex Plus 6-in-1 Mini Air Fryer",
+        "link": "https://www.amazon.com/Instant-Touchscreen-Customizable-Programs-Stainless/dp/B08R6KMBQT",
+        "original_price": 130.0,
+        "sale_price": 59.99,
+        "discount_pct": 54
+      }
+    ],
+    "apparel & shoes": [
+      {
+        "title": "Boulder Gear Vista Soft-Shell Jacket - Men's",
+        "link": "https://www.rei.com/product/225352/boulder-gear-vista-soft-shell-jacket-mens",
+        "original_price": 120.0,
+        "sale_price": 46.0,
+        "discount_pct": 62
+      },
+      {
+        "title": "adidas Men's Kaptir 2.0 Shoes",
+        "link": "https://www.dickssportinggoods.com/p/adidas-mens-kaptir-2-0-shoes-21adimkptr20blkrdmns/21adimkptr20blkrdmns",
+        "original_price": 89.0,
+        "sale_price": 30.0,
+        "discount_pct": 66
+      },
+      {
+        "title": "HOKA Women's Clifton 10",
+        "link": "https://www.footlocker.com/buy/hoka-womens-clifton-10-0baz00a",
+        "original_price": 125.0,
+        "sale_price": 62.49,
+        "discount_pct": 50
+      }
+    ],
+    "tools & home improvement": [
+      {
+        "title": "RIDGID 18V (2) 4.0 Ah Batteries and Charger Kit with (2) 18V Hybrid Fans",
+        "link": "https://www.bobvila.com/reviews/home-depot-spring-tools-april-2026/",
+        "original_price": 366.0,
+        "sale_price": 149.0,
+        "discount_pct": 59
+      },
+      {
+        "title": "Kobalt 24V Brushless 1/2-in Cordless Drill Kit",
+        "link": "https://www.bobvila.com/reviews/lowes-kobalt-dels-feb-2026/",
+        "original_price": 159.0,
+        "sale_price": 79.0,
+        "discount_pct": 50
+      },
+      {
+        "title": "Greenworks 24V 5-Tool Combo Kit (Drill, Impact Driver, Recip Saw, Light, Bluetooth Speaker)",
+        "link": "https://www.bestbuy.com/product/greenworks-24v-5-tool-combo-kit-drill-impact-driver-recip-saw-light-bluetooth-speaker-2ah-4ah-batteries-charger-green/JJG745JJRJ",
+        "original_price": 499.99,
+        "sale_price": 249.99,
+        "discount_pct": 50
+      },
+      {
+        "title": "DEWALT 20V MAX LED Work Light/Flashlight (DCL040)",
+        "link": "https://www.amazon.com/DEWALT-DCL040-20-Volt-MAX-Flashlight/dp/B0052MILZM",
+        "original_price": 84.0,
+        "sale_price": 32.49,
+        "discount_pct": 61
+      },
+      {
+        "title": "RYOBI ONE+ 18V Multi-Tool + 5-Inch Random Orbit Sander Combo Kit",
+        "link": "https://www.bobvila.com/reviews/home-depot-ryobi-tools-august-2026/",
+        "original_price": 138.97,
+        "sale_price": 69.0,
+        "discount_pct": 50
+      },
+      {
+        "title": "RYOBI ONE+ 18V Cordless 5-Tool Combo Kit with (2) Batteries, Charger and Bag",
+        "link": "https://www.bobvila.com/reviews/home-depot-ryobi-tools-august-2026/",
+        "original_price": 466.88,
+        "sale_price": 179.0,
+        "discount_pct": 62
+      },
+      {
+        "title": "RYOBI ONE+ 18V Cordless 1/4 in. Hex Screwdriver Kit with Compact Battery and Charger",
+        "link": "https://www.homedepot.com/p/RYOBI-ONE-18V-Cordless-1-4-in-Hex-Screwdriver-Kit-with-Compact-Battery-and-Charger-PCL212K1/327852010",
+        "original_price": 158.94,
+        "sale_price": 49.97,
+        "discount_pct": 69
+      }
+    ],
+    "toys & games": [
+      {
+        "title": "Hot Wheels RC Corvette from Barbie The Movie, Remote-Control Toy Car",
+        "link": "https://www.dealcatcher.com/deals/games-entertainment/toys-hobbies/hot-wheels-barbie-film-corvette-stingray-rc-toy-car-255760",
+        "original_price": 55.0,
+        "sale_price": 22.0,
+        "discount_pct": 60
+      },
+      {
+        "title": "Carcassonne Board Game",
+        "link": "https://www.dansdeals.com/shopping-deals/amazon/carcassonne-board-game-for-20-15-from-amazon/",
+        "original_price": 41.99,
+        "sale_price": 20.15,
+        "discount_pct": 52
+      },
+      {
+        "title": "Hot Wheels Auto Lift Expressway Track and Toy Cars Playset",
+        "link": "https://www.kohls.com/product/prd-5092239/hot-wheels-auto-lift-expressway-track-and-toy-cars-playset.jsp",
+        "original_price": 49.99,
+        "sale_price": 24.99,
+        "discount_pct": 50
+      },
+      {
+        "title": "Hot Wheels RC C8 Corvette in 1:64 Scale Remote-Control Toy Car",
+        "link": "https://www.amazon.com/Hot-Wheels-Rechargeable-Radio-Controlled-Connector/dp/B0B61TQFXF",
+        "original_price": 19.99,
+        "sale_price": 9.0,
+        "discount_pct": 55
       }
     ]
   },
   "electronics": [
     {
-      "title": "Sony WH-1000XM5 Wireless Noise Canceling Headphones",
-      "link": "https://www.soundguys.com/sony-wh-1000xm5-headphones-deal-amazon-162333/",
-      "original_price": 399.99,
-      "sale_price": 198.0,
+      "title": "Dell Precision 3570 Refurbished Workstation Laptop (Dell Refurbished, coupon AF3570E)",
+      "link": "https://slickdeals.net/f/19079881-dell-coupon-refurbished-precision-3570-laptops-from-274-free-s-h",
+      "original_price": 569.0,
+      "sale_price": 274.0,
+      "discount_pct": 52
+    },
+    {
+      "title": "HP 15.6\" FHD Touchscreen Laptop (16GB RAM, 512GB SSD)",
+      "link": "https://kotaku.com/hp-goes-full-clearance-on-its-laptop-at-50-off-this-latest-touchscreen-pc-drops-to-an-all-time-low-2000657281",
+      "original_price": 799.99,
+      "sale_price": 399.99,
       "discount_pct": 50
     },
     {
-      "title": "Hisense 58\" Class QD50 Hi QLED Series 4K UHD Smart Roku TV (2026) 58QD50R",
-      "link": "https://www.popsci.com/gear/best-buy-labor-day-sale-half-off-2026/",
+      "title": "Verbatim Pocket 1TB Portable External SSD",
+      "link": "https://www.slashgear.com/2242099/ssd-deep-discounts-august-2026/",
+      "original_price": 299.99,
+      "sale_price": 149.99,
+      "discount_pct": 50
+    },
+    {
+      "title": "TCL 50\" Q5-Series 4K UHD HDR QLED Smart Fire TV",
+      "link": "https://slickdeals.net/f/18846538-tcl-50-class-q5-series-4k-uhd-hdr-pro-qled-smart-fire-tv-for-179-99",
+      "original_price": 399.99,
+      "sale_price": 179.99,
+      "discount_pct": 55
+    },
+    {
+      "title": "Toshiba 55\" C350 Series LED 4K UHD Smart Fire TV",
+      "link": "https://slickdeals.net/f/18072178-toshiba-55-c350lu-series-led-4k-uhd-smart-fire-tv-best-buy-amazon-199-99",
       "original_price": 399.99,
       "sale_price": 199.99,
       "discount_pct": 50
     },
     {
-      "title": "LG 24\" IPS FHD 120Hz Monitor with HDR10 (24U41YA-B)",
-      "link": "https://www.dealnews.com/products/LG/LG-24-1080-p-HDR-120-Hz-IPS-LED-Monitor/495611.html",
-      "original_price": 199.99,
-      "sale_price": 99.99,
+      "title": "Samsung 27\" Odyssey 3D G90XF 165Hz 4K Gaming Monitor",
+      "link": "https://9to5toys.com/2026/07/28/massive-monitor-sale-now-live-at-up-to-50-off-deals-from-just-65/",
+      "original_price": 1800.0,
+      "sale_price": 900.0,
+      "discount_pct": 50
+    },
+    {
+      "title": "Samsung 32\" OLED M9 (M90SF) 4K 165Hz Smart Monitor",
+      "link": "https://9to5toys.com/2026/07/28/massive-monitor-sale-now-live-at-up-to-50-off-deals-from-just-65/",
+      "original_price": 2000.0,
+      "sale_price": 1000.0,
       "discount_pct": 50
     }
   ],
-  "general": [
-    {
-      "title": "KitchenAid Refurbished Artisan Series 5 Quart Tilt-Head Stand Mixer (RRK150)",
-      "link": "https://slickdeals.net/f/19136719-kitchenaid-refurbished-artisan-series-5-quart-tilt-head-stand-mixer-rrk150-50-off-249-99",
-      "original_price": 499.99,
-      "sale_price": 249.99,
-      "discount_pct": 50
-    },
-    {
-      "title": "adidas Men's Handball Spezial Shoes (Woot Sports & Outdoors Sale)",
-      "link": "https://www.dealnews.com/New-Balance-adidas-More-Sale-at-Woot-Up-to-55-off-free-shipping-w-Prime/22142321.html",
-      "original_price": 110.0,
-      "sale_price": 50.0,
-      "discount_pct": 55
-    },
-    {
-      "title": "I.N.C. International Concepts Women's Sandals",
-      "link": "https://www.macys.com/shop/sale/by-category/womens/shoes/Brand/I.N.C.%20International%20Concepts?id=13604",
-      "original_price": 69.9,
-      "sale_price": 34.95,
-      "discount_pct": 50
-    },
-    {
-      "title": "DEWALT 20V XR Lithium-Ion Starter Pack with 8.0Ah and 4.0Ah Battery Packs and Charger (DCB248-2C)",
-      "link": "https://www.homedepot.com/p/DEWALT-20V-XR-Lithium-Ion-Starter-Pack-with-8-0-Ah-and-4-0-Ah-Battery-Packs-and-Charger-DCB248-2C/332551070",
-      "original_price": 399.0,
-      "sale_price": 199.0,
-      "discount_pct": 50
-    },
-    {
-      "title": "Melissa & Doug Wooden Chocolate Factory Play Set",
-      "link": "https://www.macys.com/shop/product/melissa-doug-chocolate-factory-play-set?ID=19217618",
-      "original_price": 70.99,
-      "sale_price": 35.43,
-      "discount_pct": 50
-    },
-    {
-      "title": "Melissa & Doug Wooden Caf\u00e9 Barista Coffee Shop 35 Piece Set",
-      "link": "https://www.macys.com/shop/product/melissa-doug-wooden-cafe-barista-coffee-shop-35-piece-set?ID=14574951",
-      "original_price": 131.99,
-      "sale_price": 65.93,
-      "discount_pct": 50
-    }
-  ]
+  "general": []
 }
