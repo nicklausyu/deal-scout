@@ -1,103 +1,156 @@
 {
-  "date": "2026-09-08",
+  "date": "2026-09-09",
   "steals": [
     {
-      "title": "Samsung 27\" Odyssey G50D QHD IPS 180Hz Gaming Monitor (Open Box)",
-      "link": "https://www.bestbuy.com/product/samsung-27-odyssey-g50d-qhd-ips-180hz-1ms-amd-freesync-and-g-sync-compatible-gaming-monitor-with-hdr-400-displayport-hdmi-black/6573717/openbox",
-      "original_price": 349.99,
-      "sale_price": 65.99,
-      "discount_pct": 81
+      "title": "GreenPan Reserve 10-Piece Healthy Ceramic Nonstick Cookware Set",
+      "link": "https://www.macys.com/shop/product/greenpan-reserve-healthy-ceramic-nonstick-cookware-set-10-piece?ID=25354871",
+      "original_price": 529.99,
+      "sale_price": 158.93,
+      "discount_pct": 70
     },
     {
-      "title": "RIDGID 18V MAX Output Starter Kit (2 Batteries + Charger) with FREE 18V Brushless Angle Grinder",
-      "link": "https://slickdeals.net/f/19008829-ridgid-18v-max-output-starter-kit-with-2-4-0-ah-max-output-batteries-and-charger-with-free-18v-brushless-angle-grinder-129",
-      "original_price": 447.0,
-      "sale_price": 129.0,
-      "discount_pct": 71
+      "title": "Bestway Hydro-Force 1-Person Ventura Elite Inflatable Kayak Set",
+      "link": "https://sport.woot.com/offers/bestway-hydro-force-1-person-kayak-set-26",
+      "original_price": 259.99,
+      "sale_price": 69.99,
+      "discount_pct": 73
     }
   ],
   "watchlist": {
-    "paddleboard": [
+    "home & kitchen": [
       {
-        "title": "Connelly 10' Pacific Inflatable Stand-Up Paddle Board Set",
-        "link": "https://www.dickssportinggoods.com/p/connelly-10-pacific-stand-up-paddleboard-20cnyu106pcfcspxxpss/20cnyu106pcfcspxxpss",
-        "original_price": 799.99,
-        "sale_price": 349.99,
-        "discount_pct": 56
-      }
-    ],
-    "REI": [
-      {
-        "title": "Big Agnes Wyoming Trail 2 Tent (Taupe)",
-        "link": "https://slickdeals.net/f/18571777-big-agnes-tents-wyoming-trail-2-taupe-259-89-or-wyoming-trail-4-taupe-399-89-free-shipping",
-        "original_price": 650.0,
-        "sale_price": 259.89,
+        "title": "Refurbished Dyson V15 Detect Total Clean Extra Cordless Vacuum (Yellow/Nickel)",
+        "link": "https://www.dyson.com/outlet/refurbished-vacuum-cleaners/cordless/v15-detect-total-clean-extra",
+        "original_price": 749.99,
+        "sale_price": 299.99,
         "discount_pct": 60
       }
     ],
-    "fishing": [
+    "apparel & shoes": [
       {
-        "title": "Pursuit Angler Glass Kayak Paddle (250-260cm)",
-        "link": "https://www.kayakacademy.com/pages/fishing-kayak-sale",
-        "original_price": 150.0,
-        "sale_price": 75.0,
+        "title": "Nike Air Max Plus Men's Shoes (Vapor Green/Light Lemon/Black)",
+        "link": "https://www.footlocker.com/category/mens/shoes/nike/air-max-plus.html",
+        "original_price": 190.0,
+        "sale_price": 77.0,
+        "discount_pct": 59
+      }
+    ],
+    "tools & home improvement": [
+      {
+        "title": "Milwaukee M12 FUEL 6 in. Brushless Pruning Hatchet Mini Chainsaw Kit w/ 2x 5.0Ah Batteries & Charger",
+        "link": "https://www.homedepot.com/p/Milwaukee-M12-FUEL-6-in-12V-Brushless-Cordless-Battery-Pruning-Hatchet-Mini-Chainsaw-w-2-5-0Ah-High-Output-Batteries-Charger-2527-20-48-59-2450P/336303450",
+        "original_price": 509.0,
+        "sale_price": 199.0,
+        "discount_pct": 61
+      }
+    ],
+    "toys & games": [
+      {
+        "title": "KidKraft So Dreamy Fully-Assembled Dollhouse",
+        "link": "https://www.kohls.com/product/prd-7064448/kidkraft-so-dreamy-fully-assembled-dollhouse.jsp",
+        "original_price": 99.99,
+        "sale_price": 37.49,
+        "discount_pct": 63
+      },
+      {
+        "title": "Kohl's Cares Mattel 80th Polly Pocket Animal Adopt-A-Thon 2-pc Playset",
+        "link": "https://www.kohls.com/product/prd-7532582/kohls-cares-mattel-80th-polly-pocket-animal-adopt-a-thon-2-pc-playset.jsp",
+        "original_price": 9.99,
+        "sale_price": 3.49,
+        "discount_pct": 65
+      }
+    ],
+    "Patagonia jacket": [
+      {
+        "title": "Patagonia Men's Daily Quilted Jacket",
+        "link": "https://www.patagonia.com/product/mens-daily-quilted-jacket/20271.html",
+        "original_price": 189.0,
+        "sale_price": 93.99,
         "discount_pct": 50
+      },
+      {
+        "title": "Patagonia Boulder Fork Rain Jacket (Men's)",
+        "link": "https://www.rei.com/product/228950/patagonia-boulder-fork-rain-jacket-mens",
+        "original_price": 239.0,
+        "sale_price": 118.83,
+        "discount_pct": 50
+      }
+    ],
+    "Apple": [
+      {
+        "title": "Apple iPhone 15 128GB Unlocked (Excellent, Refurbished)",
+        "link": "https://slickdeals.net/f/19163725-apple-iphone-15-128gb-unlocked-excellent-refurbished-393-99",
+        "original_price": 799.0,
+        "sale_price": 393.99,
+        "discount_pct": 51
       }
     ],
     "outdoor shed": [
       {
-        "title": "Costway 8x6 FT Galvanized Steel Storage Shed with Base Floor (Wood Grain)",
-        "link": "https://www.target.com/p/costway-8-6-ft-outdoor-storage-shed-galvanized-steel-shed-with-base-floor-wood-grain/-/A-92169518",
-        "original_price": 710.0,
-        "sale_price": 230.0,
-        "discount_pct": 68
+        "title": "Pabima 8' x 8' Outdoor Storage Shed",
+        "link": "https://www.autoblog.com/deals/pabima-8-foot-by-8-foot-outdoor-storage-shed-walmart-sale",
+        "original_price": 520.0,
+        "sale_price": 260.0,
+        "discount_pct": 50
+      },
+      {
+        "title": "Lofka 8' x 12' Outdoor Storage Shed",
+        "link": "https://www.autoblog.com/deals/lofka-8-foot-by-12-foot-outdoor-storage-shed-walmart-sale",
+        "original_price": 660.0,
+        "sale_price": 280.0,
+        "discount_pct": 58
+      }
+    ],
+    "fishing": [
+      {
+        "title": "Okuma Citrix 350 Baitcast Reel (Select Models)",
+        "link": "https://okumafishingusa.com/products/citrix-350",
+        "original_price": 194.99,
+        "sale_price": 97.49,
+        "discount_pct": 50
+      },
+      {
+        "title": "Pflueger President XT Spinning Reel (Size 25/30/35)",
+        "link": "https://www.basspro.com/p/pflueger-president-xt-spinning-reel",
+        "original_price": 100.0,
+        "sale_price": 49.77,
+        "discount_pct": 50
+      }
+    ],
+    "outdoors": [
+      {
+        "title": "Patagonia Terravia Mini Hip Pack 1L",
+        "link": "https://www.patagonia.com/product/terravia-mini-hip-pack-1-liter/49448.html",
+        "original_price": 35.0,
+        "sale_price": 16.99,
+        "discount_pct": 51
+      }
+    ],
+    "REI": [
+      {
+        "title": "REI Co-op Rainier Rain Jacket - Men's",
+        "link": "https://www.rei.com/product/127336/rei-co-op-rainier-rain-jacket-mens",
+        "original_price": 99.95,
+        "sale_price": 49.83,
+        "discount_pct": 50
       }
     ]
   },
   "electronics": [
     {
-      "title": "Lenovo IdeaPad Slim 3 Chromebook 14\" 2K Touchscreen (83SX0000US)",
-      "link": "https://www.bestbuy.com/product/lenovo-ideapad-slim-3-chromebook-14-2k-touchscreen-laptop-mediatek-kompanio-540-2025-4gb-memory-64gb-emmc-cosmic-blue/JJGH3QCJKR",
-      "original_price": 419.0,
-      "sale_price": 199.0,
+      "title": "LG 24\" IPS FHD 120Hz Monitor with HDR10 (HDMI) Black 24U41YA-B",
+      "link": "https://www.bestbuy.com/product/lg-24-ips-fhd-120hz-monitor-with-hdr10-hdmi-black/JJ8VPZKPZZ/sku/6638854",
+      "original_price": 199.99,
+      "sale_price": 99.99,
+      "discount_pct": 50
+    },
+    {
+      "title": "Verbatim 1TB Pocket SSD, Up to 1000MB/s, USB-C, USB 3.2 Gen 2",
+      "link": "https://www.amazon.com/Verbatim-Pocket-External-Portable-Console/dp/B0DHH81K13",
+      "original_price": 299.99,
+      "sale_price": 139.99,
       "discount_pct": 53
-    },
-    {
-      "title": "Beats Studio Pro Premium Wireless Noise Cancelling Headphones",
-      "link": "https://www.amazon.com/Beats-Studio-Pro-Personalized-Compatibility/dp/B0C8PR4W22",
-      "original_price": 349.99,
-      "sale_price": 169.95,
-      "discount_pct": 51
-    },
-    {
-      "title": "TCL 65\" Class QM5K Series 4K UHD QD Mini-LED Google TV (2025)",
-      "link": "https://www.bestbuy.com/product/tcl-65-class-qm5k-series-4k-uhd-qd-mini-led-smart-tv-with-google-tv-2025/J36QYTQWZ4",
-      "original_price": 899.99,
-      "sale_price": 449.99,
-      "discount_pct": 50
-    },
-    {
-      "title": "LG 77\" Class B5 Series OLED AI 4K UHD Smart webOS TV (2025)",
-      "link": "https://www.bestbuy.com/site/lg-77-class-b5-series-oled-ai-4k-uhd-smart-webos-tv-2025/6621813.p?skuId=6621813",
-      "original_price": 3000.0,
-      "sale_price": 1499.99,
-      "discount_pct": 50
     }
   ],
-  "general": [
-    {
-      "title": "adidas Men's Handball Spezial Shoes",
-      "link": "https://slickdeals.net/f/19968786-new-balance-adidas-more-at-woot",
-      "original_price": 110.0,
-      "sale_price": 50.0,
-      "discount_pct": 55
-    },
-    {
-      "title": "Kobalt 24V Brushless 1/2-in Cordless Drill Kit (Battery & Charger Included)",
-      "link": "https://www.731woodworks.com/tool-deals/kobalt-24v-brushless-drill-deal-82826",
-      "original_price": 159.0,
-      "sale_price": 79.0,
-      "discount_pct": 50
-    }
-  ]
+  "general": []
 }
