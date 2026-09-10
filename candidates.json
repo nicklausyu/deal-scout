@@ -1,25 +1,28 @@
 {
-  "date": "2026-09-09",
+  "date": "2026-09-10",
   "items": [
-    {"title": "Refurbished Dyson V15 Detect Total Clean Extra Cordless Vacuum (Yellow/Nickel)", "link": "https://www.dyson.com/outlet/refurbished-vacuum-cleaners/cordless/v15-detect-total-clean-extra", "original_price": 749.99, "sale_price": 299.99, "category": "home & kitchen"},
-    {"title": "GreenPan Reserve 10-Piece Healthy Ceramic Nonstick Cookware Set", "link": "https://www.macys.com/shop/product/greenpan-reserve-healthy-ceramic-nonstick-cookware-set-10-piece?ID=25354871", "original_price": 529.99, "sale_price": 158.93, "category": "home & kitchen"},
-    {"title": "Nike Air Max Plus Men's Shoes (Vapor Green/Light Lemon/Black)", "link": "https://www.footlocker.com/category/mens/shoes/nike/air-max-plus.html", "original_price": 190.0, "sale_price": 77.0, "category": "apparel & shoes"},
-    {"title": "Milwaukee M12 FUEL 6 in. Brushless Pruning Hatchet Mini Chainsaw Kit w/ 2x 5.0Ah Batteries & Charger", "link": "https://www.homedepot.com/p/Milwaukee-M12-FUEL-6-in-12V-Brushless-Cordless-Battery-Pruning-Hatchet-Mini-Chainsaw-w-2-5-0Ah-High-Output-Batteries-Charger-2527-20-48-59-2450P/336303450", "original_price": 509.0, "sale_price": 199.0, "category": "tools & home improvement"},
-    {"title": "KidKraft So Dreamy Fully-Assembled Dollhouse", "link": "https://www.kohls.com/product/prd-7064448/kidkraft-so-dreamy-fully-assembled-dollhouse.jsp", "original_price": 99.99, "sale_price": 37.49, "category": "toys & games"},
-    {"title": "Kohl's Cares Mattel 80th Polly Pocket Animal Adopt-A-Thon 2-pc Playset", "link": "https://www.kohls.com/product/prd-7532582/kohls-cares-mattel-80th-polly-pocket-animal-adopt-a-thon-2-pc-playset.jsp", "original_price": 9.99, "sale_price": 3.49, "category": "toys & games"},
-    {"title": "TCL 65\" Class QM5K Series 4K UHD QD Mini LED Smart TV with Google TV (2025)", "link": "https://www.bestbuy.com/product/tcl-65-class-qm5k-series-4k-uhd-qd-mini-led-smart-tv-with-google-tv-2025/J36QYTQWZ4", "original_price": 899.99, "sale_price": 449.99, "category": "electronics"},
-    {"title": "LG 24\" IPS FHD 120Hz Monitor with HDR10 (HDMI) Black 24U41YA-B", "link": "https://www.bestbuy.com/product/lg-24-ips-fhd-120hz-monitor-with-hdr10-hdmi-black/JJ8VPZKPZZ/sku/6638854", "original_price": 199.99, "sale_price": 99.99, "category": "electronics"},
-    {"title": "Verbatim 1TB Pocket SSD, Up to 1000MB/s, USB-C, USB 3.2 Gen 2", "link": "https://www.amazon.com/Verbatim-Pocket-External-Portable-Console/dp/B0DHH81K13", "original_price": 299.99, "sale_price": 139.99, "category": "electronics"},
-    {"title": "Patagonia Men's Daily Quilted Jacket", "link": "https://www.patagonia.com/product/mens-daily-quilted-jacket/20271.html", "original_price": 189, "sale_price": 93.99, "category": "Patagonia jacket"},
-    {"title": "Patagonia Boulder Fork Rain Jacket (Men's)", "link": "https://www.rei.com/product/228950/patagonia-boulder-fork-rain-jacket-mens", "original_price": 239, "sale_price": 118.83, "category": "Patagonia jacket"},
-    {"title": "Bestway Hydro-Force 1-Person Ventura Elite Inflatable Kayak Set", "link": "https://sport.woot.com/offers/bestway-hydro-force-1-person-kayak-set-26", "original_price": 259.99, "sale_price": 69.99, "category": "kayak"},
-    {"title": "Apple iPhone 15 128GB Unlocked (Excellent, Refurbished)", "link": "https://slickdeals.net/f/19163725-apple-iphone-15-128gb-unlocked-excellent-refurbished-393-99", "original_price": 799, "sale_price": 393.99, "category": "Apple"},
-    {"title": "Pabima 8' x 8' Outdoor Storage Shed", "link": "https://www.autoblog.com/deals/pabima-8-foot-by-8-foot-outdoor-storage-shed-walmart-sale", "original_price": 520, "sale_price": 260, "category": "outdoor shed"},
-    {"title": "Lofka 8' x 12' Outdoor Storage Shed", "link": "https://www.autoblog.com/deals/lofka-8-foot-by-12-foot-outdoor-storage-shed-walmart-sale", "original_price": 660, "sale_price": 280, "category": "outdoor shed"},
-    {"title": "Pabima 4' x 6' Outdoor Storage Shed", "link": "https://www.autoblog.com/deals/pabima-6-foot-by-4-foot-outdoor-storage-shed-walmart-sale", "original_price": 580, "sale_price": 280, "category": "Walmart"},
-    {"title": "Okuma Citrix 350 Baitcast Reel (Select Models)", "link": "https://okumafishingusa.com/products/citrix-350", "original_price": 194.99, "sale_price": 97.49, "category": "fishing"},
-    {"title": "Pflueger President XT Spinning Reel (Size 25/30/35)", "link": "https://www.basspro.com/p/pflueger-president-xt-spinning-reel", "original_price": 100, "sale_price": 49.77, "category": "fishing"},
-    {"title": "Patagonia Terravia Mini Hip Pack 1L", "link": "https://www.patagonia.com/product/terravia-mini-hip-pack-1-liter/49448.html", "original_price": 35, "sale_price": 16.99, "category": "outdoors"},
-    {"title": "REI Co-op Rainier Rain Jacket - Men's", "link": "https://www.rei.com/product/127336/rei-co-op-rainier-rain-jacket-mens", "original_price": 99.95, "sale_price": 49.83, "category": "REI"}
+    {"title": "Verbatim Pocket 1TB Portable SSD", "link": "https://www.amazon.com/Verbatim-Pocket-External-Portable-Console/dp/B0DHH81K13", "original_price": 299.99, "sale_price": 139.99, "category": "electronics"},
+    {"title": "Beats Studio Pro Wireless Noise Cancelling Headphones", "link": "https://slickdeals.net/f/18366841-169-95-beats-studio-pro-wireless-bluetooth-noise-cancelling-headphones-various-at-amazon", "original_price": 349.99, "sale_price": 169.95, "category": "electronics"},
+    {"title": "LG 77-Inch Class B5 Series OLED AI 4K UHD Smart TV (OLED77B5PUA)", "link": "https://www.bestbuy.com/product/lg-77-class-b5-series-oled-ai-4k-uhd-smart-webos-tv-2025/JJ8VPZTKZW", "original_price": 2999.99, "sale_price": 1399.99, "category": "electronics"},
+
+    {"title": "Typhur Nugget Ice Maker (Countertop, Self-Cleaning)", "link": "https://home.woot.com/offers/countertop-nugget-ice-maker", "original_price": 349, "sale_price": 99.99, "category": "general"},
+    {"title": "GreenPan Frost Ice Cream Maker & Slushie Machine", "link": "https://www.freestufffinder.com/greenpan-frost-ice-cream-maker-slushie-machine-179", "original_price": 399.99, "sale_price": 164.99, "category": "general"},
+    {"title": "KitchenAid Refurbished Artisan Series 5 Quart Tilt-Head Stand Mixer (RRK150)", "link": "https://www.ebay.com/itm/125799442762", "original_price": 499.99, "sale_price": 249.99, "category": "general"},
+    {"title": "Craftsman V20 20-Volt 4 Ah Lithium-Ion Battery", "link": "https://www.lowes.com/pd/CRAFTSMAN-20-Volt-Max-4-Ah-Rechargeable-Lithium-Ion-Li-Ion-Cordless-Power-Equipment-Battery/1000698392", "original_price": 129, "sale_price": 39, "category": "general"},
+    {"title": "Disney Frozen Anna Fashion Doll & Wolf Cub Figure", "link": "https://www.target.com/p/disney-frozen-anna-fashion-doll-38-wolf-cub-figure-with-4-nurturing-accessories-inspired-by-movie/-/A-93873173", "original_price": 19.99, "sale_price": 5.99, "category": "general"},
+
+    {"title": "Patagonia Nano Puff Insulated Jacket", "link": "https://www.rei.com/product/249151/patagonia-nano-puff-insulated-jacket-mens", "original_price": 229, "sale_price": 114, "category": "Patagonia jacket"},
+    {"title": "Aqua PRO Halcyon Sport 10'6\" Inflatable Stand-Up Paddleboard (iSUP) & Accessory Bundle", "link": "https://sport.woot.com/offers/aqua-pro-halcyon-sport-10-6-isup-7", "original_price": 269.99, "sale_price": 89.99, "category": "paddleboard"},
+    {"title": "Apple Official Crossbody Strap for iPhone", "link": "https://9to5toys.com/2026/09/05/official-apple-crossbody-strap-deals/", "original_price": 59, "sale_price": 16.80, "category": "Apple"},
+    {"title": "Edward Marc Strawberry Shortcake Bites 20oz Bag (Costco)", "link": "https://app.warehouserunner.com/costco/1932019-edward-marc-strawberry-shortcake-20-oz", "original_price": 11.89, "sale_price": 3.97, "category": "Costco"},
+
+    {"title": "Asofer 8-Piece Patio Furniture Set (Walmart)", "link": "https://www.mensjournal.com/shopping/asofer-8-pc-patio-furniture-set-mp-walmart-sale-september-2026", "original_price": 700, "sale_price": 190, "category": "Walmart"},
+    {"title": "Pabima 8x8 FT Outdoor Metal Storage Shed", "link": "https://www.walmart.com/ip/8x8-FT-Outdoor-Metal-Storage-Shed-Steel-Garden-Shed-with-Sliding-Door-and-Lock-Metal-Shed-Outdoor-Storage-for-Backyard-Patio-Lawn-White/1000144552", "original_price": 520, "sale_price": 260, "category": "outdoor shed"},
+    {"title": "Mustad Basscraft Fishing Rod", "link": "https://mustad-fishing.com/us/collections/all-products-50-off-rods", "original_price": 99.99, "sale_price": 49.99, "category": "fishing"},
+    {"title": "Pursuit Angler Glass Kayak Paddle", "link": "https://www.kayakacademy.com/pages/fishing-kayak-sale", "original_price": 150, "sale_price": 75, "category": "fishing"},
+    {"title": "Cabela's Cellular Trail Camera Lithium Battery Pack", "link": "https://www.cabelas.com/p/cabelas-cellular-trail-camera-lithium-battery-pack", "original_price": 49.99, "sale_price": 4.98, "category": "outdoors"},
+    {"title": "Cabela's Cellular Trail Camera (Bargain Cave)", "link": "https://www.cabelas.com/l/bargain-cave-game-camera-sale-and-clearance", "original_price": 99.99, "sale_price": 29.99, "category": "outdoors"},
+    {"title": "Patagonia Re-Tool Hybrid Jacket (REI Deals)", "link": "https://www.rei.com/s/deals-50-percent-off", "original_price": 299, "sale_price": 149.49, "category": "REI"},
+    {"title": "REI Co-op XeroCloud 3L Long Rain Jacket - Women's", "link": "https://www.rei.com/product/241831/rei-co-op-xerocloud-3l-long-rain-jacket-womens", "original_price": 199, "sale_price": 98.83, "category": "REI"}
   ]
 }
