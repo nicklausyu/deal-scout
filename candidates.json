@@ -1,28 +1,21 @@
 {
-  "date": "2026-09-10",
+  "date": "2026-09-11",
   "items": [
-    {"title": "Verbatim Pocket 1TB Portable SSD", "link": "https://www.amazon.com/Verbatim-Pocket-External-Portable-Console/dp/B0DHH81K13", "original_price": 299.99, "sale_price": 139.99, "category": "electronics"},
-    {"title": "Beats Studio Pro Wireless Noise Cancelling Headphones", "link": "https://slickdeals.net/f/18366841-169-95-beats-studio-pro-wireless-bluetooth-noise-cancelling-headphones-various-at-amazon", "original_price": 349.99, "sale_price": 169.95, "category": "electronics"},
-    {"title": "LG 77-Inch Class B5 Series OLED AI 4K UHD Smart TV (OLED77B5PUA)", "link": "https://www.bestbuy.com/product/lg-77-class-b5-series-oled-ai-4k-uhd-smart-webos-tv-2025/JJ8VPZTKZW", "original_price": 2999.99, "sale_price": 1399.99, "category": "electronics"},
-
-    {"title": "Typhur Nugget Ice Maker (Countertop, Self-Cleaning)", "link": "https://home.woot.com/offers/countertop-nugget-ice-maker", "original_price": 349, "sale_price": 99.99, "category": "general"},
-    {"title": "GreenPan Frost Ice Cream Maker & Slushie Machine", "link": "https://www.freestufffinder.com/greenpan-frost-ice-cream-maker-slushie-machine-179", "original_price": 399.99, "sale_price": 164.99, "category": "general"},
-    {"title": "KitchenAid Refurbished Artisan Series 5 Quart Tilt-Head Stand Mixer (RRK150)", "link": "https://www.ebay.com/itm/125799442762", "original_price": 499.99, "sale_price": 249.99, "category": "general"},
-    {"title": "Craftsman V20 20-Volt 4 Ah Lithium-Ion Battery", "link": "https://www.lowes.com/pd/CRAFTSMAN-20-Volt-Max-4-Ah-Rechargeable-Lithium-Ion-Li-Ion-Cordless-Power-Equipment-Battery/1000698392", "original_price": 129, "sale_price": 39, "category": "general"},
-    {"title": "Disney Frozen Anna Fashion Doll & Wolf Cub Figure", "link": "https://www.target.com/p/disney-frozen-anna-fashion-doll-38-wolf-cub-figure-with-4-nurturing-accessories-inspired-by-movie/-/A-93873173", "original_price": 19.99, "sale_price": 5.99, "category": "general"},
-
-    {"title": "Patagonia Nano Puff Insulated Jacket", "link": "https://www.rei.com/product/249151/patagonia-nano-puff-insulated-jacket-mens", "original_price": 229, "sale_price": 114, "category": "Patagonia jacket"},
-    {"title": "Aqua PRO Halcyon Sport 10'6\" Inflatable Stand-Up Paddleboard (iSUP) & Accessory Bundle", "link": "https://sport.woot.com/offers/aqua-pro-halcyon-sport-10-6-isup-7", "original_price": 269.99, "sale_price": 89.99, "category": "paddleboard"},
-    {"title": "Apple Official Crossbody Strap for iPhone", "link": "https://9to5toys.com/2026/09/05/official-apple-crossbody-strap-deals/", "original_price": 59, "sale_price": 16.80, "category": "Apple"},
-    {"title": "Edward Marc Strawberry Shortcake Bites 20oz Bag (Costco)", "link": "https://app.warehouserunner.com/costco/1932019-edward-marc-strawberry-shortcake-20-oz", "original_price": 11.89, "sale_price": 3.97, "category": "Costco"},
-
-    {"title": "Asofer 8-Piece Patio Furniture Set (Walmart)", "link": "https://www.mensjournal.com/shopping/asofer-8-pc-patio-furniture-set-mp-walmart-sale-september-2026", "original_price": 700, "sale_price": 190, "category": "Walmart"},
-    {"title": "Pabima 8x8 FT Outdoor Metal Storage Shed", "link": "https://www.walmart.com/ip/8x8-FT-Outdoor-Metal-Storage-Shed-Steel-Garden-Shed-with-Sliding-Door-and-Lock-Metal-Shed-Outdoor-Storage-for-Backyard-Patio-Lawn-White/1000144552", "original_price": 520, "sale_price": 260, "category": "outdoor shed"},
-    {"title": "Mustad Basscraft Fishing Rod", "link": "https://mustad-fishing.com/us/collections/all-products-50-off-rods", "original_price": 99.99, "sale_price": 49.99, "category": "fishing"},
-    {"title": "Pursuit Angler Glass Kayak Paddle", "link": "https://www.kayakacademy.com/pages/fishing-kayak-sale", "original_price": 150, "sale_price": 75, "category": "fishing"},
-    {"title": "Cabela's Cellular Trail Camera Lithium Battery Pack", "link": "https://www.cabelas.com/p/cabelas-cellular-trail-camera-lithium-battery-pack", "original_price": 49.99, "sale_price": 4.98, "category": "outdoors"},
-    {"title": "Cabela's Cellular Trail Camera (Bargain Cave)", "link": "https://www.cabelas.com/l/bargain-cave-game-camera-sale-and-clearance", "original_price": 99.99, "sale_price": 29.99, "category": "outdoors"},
-    {"title": "Patagonia Re-Tool Hybrid Jacket (REI Deals)", "link": "https://www.rei.com/s/deals-50-percent-off", "original_price": 299, "sale_price": 149.49, "category": "REI"},
+    {"title": "KitchenAid Food Processor Attachment (KSM1FPA)", "link": "https://home.woot.com/offers/kitchenaid-food-processor-attachment-2", "original_price": 179.95, "sale_price": 54.99, "category": "general"},
+    {"title": "Nike Women's Swift Dri-FIT 2.5\" Brief-Lined Running Shorts", "link": "https://www.dickssportinggoods.com/p/nike-womens-swift-dri-fit-2-5-brief-lined-running-shorts-24nikwswftdfmr3shapb/24nikwswftdfmr3shapb", "original_price": 60.00, "sale_price": 16.48, "category": "general"},
+    {"title": "Kobalt 24-Volt Max 1/2-in Brushless Cordless Drill Kit", "link": "https://www.lowes.com/pd/Kobalt-24-Volt-Max-1-2-in-Lithium-Ion-Li-ion-Brushless-Cordless-Drill-1-Battery-Included/1000061633", "original_price": 159.00, "sale_price": 79.00, "category": "general"},
+    {"title": "Barbie 2025 Holiday Doll Collection", "link": "https://www.macys.com/shop/product/barbie-2025-holiday-doll-collection?ID=24257214", "original_price": 48.99, "sale_price": 24.43, "category": "general"},
+    {"title": "Sony WH-1000XM5 Wireless Noise Cancelling Over-Ear Headphones", "link": "https://www.bestbuy.com/product/sony-wh-1000xm5-wireless-noise-canceling-over-the-ear-headphones-black/J7XSRH5CXG", "original_price": 398, "sale_price": 198, "category": "electronics"},
+    {"title": "LG 48\" Class B5 Series OLED AI 4K UHD Smart webOS TV (2025)", "link": "https://www.bestbuy.com/product/lg-48-class-b5-series-oled-ai-4k-uhd-smart-webos-tv-2025/JJ8VPZTK9F", "original_price": 1299.99, "sale_price": 649.99, "category": "electronics"},
+    {"title": "Patagonia Diamond Quilted Bomber Hoody", "link": "https://www.mensjournal.com/shopping/patagonia-diamond-quilted-bomber-hoody-jacket-sale-september-2026", "original_price": 199, "sale_price": 99.50, "category": "Patagonia jacket"},
+    {"title": "Quest Passage 100 Kayak", "link": "https://www.dickssportinggoods.com/p/quest-passage-100-kayak-24queupssg100kykxpsk/24queupssg100kykxpsk", "original_price": 400, "sale_price": 199.98, "category": "kayak"},
+    {"title": "Apple iPhone SE (3rd Gen) Grade A Refurbished", "link": "https://electronics.woot.com/offers/apple-iphone-se-gen3-grade-a-refurbished-0", "original_price": 429, "sale_price": 149.99, "category": "Apple"},
+    {"title": "Pabima 8-Foot by 8-Foot Outdoor Storage Shed", "link": "https://www.autoblog.com/deals/pabima-8-foot-by-8-foot-outdoor-storage-shed-walmart-sale", "original_price": 520, "sale_price": 260, "category": "outdoor shed"},
+    {"title": "Clouddwell 10-Foot by 8-Foot Outdoor Storage Shed", "link": "https://www.autoblog.com/deals/clouddwell-10-foot-by-8-foot-outdoor-storage-shed-walmart-sale", "original_price": 600, "sale_price": 300, "category": "outdoor shed"},
+    {"title": "AECOJOY 8-Foot by 6-Foot Metal Storage Shed", "link": "https://www.walmart.com/ip/AECOJOY-8-x-6-ft-Outdoor-Metal-Storage-Shed-Galvanized-Steel-Storage-Building-with-Sliding-Door/1695562233", "original_price": 390, "sale_price": 194, "category": "outdoor shed"},
+    {"title": "Academy Pro Cat Size 60 Spinning Reel Convertible", "link": "https://www.academy.com/shop/pdp/pro-cat-size-60-spinning-reel-convertible", "original_price": 29.99, "sale_price": 7.49, "category": "fishing"},
+    {"title": "Cozi 20in Wood Burning Fire Pit", "link": "https://www.walmart.com/ip/Cozi-Outdoor-Fire-Pit-20in/8345419729", "original_price": 89, "sale_price": 34, "category": "Walmart"},
+    {"title": "VINGLI Folding Adirondack Chairs Set of 2", "link": "https://www.target.com/p/vingli-folding-adirondack-chairs-set-of-2-wood-adirondack-chair-for-outdoor-foldable-fire-pit-chairs-for-patio-bbq-porch-yard-pool/-/A-1010066585", "original_price": 200, "sale_price": 50, "category": "outdoors"},
     {"title": "REI Co-op XeroCloud 3L Long Rain Jacket - Women's", "link": "https://www.rei.com/product/241831/rei-co-op-xerocloud-3l-long-rain-jacket-womens", "original_price": 199, "sale_price": 98.83, "category": "REI"}
   ]
 }
