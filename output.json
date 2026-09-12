@@ -1,96 +1,195 @@
 {
-  "date": "2026-09-11",
+  "date": "2026-09-12",
   "steals": [
     {
-      "title": "Nike Women's Swift Dri-FIT 2.5\" Brief-Lined Running Shorts",
-      "link": "https://www.dickssportinggoods.com/p/nike-womens-swift-dri-fit-2-5-brief-lined-running-shorts-24nikwswftdfmr3shapb/24nikwswftdfmr3shapb",
-      "original_price": 60.0,
-      "sale_price": 16.48,
-      "discount_pct": 73
+      "title": "Stuart Weitzman Nudist Wrap 50 Sandal (Poudre)",
+      "link": "https://www.6pm.com/p/womens-stuart-weitzman-nudist-wrap-50/product/10005070",
+      "original_price": 525.0,
+      "sale_price": 105.0,
+      "discount_pct": 80
     },
     {
-      "title": "Academy Pro Cat Size 60 Spinning Reel Convertible",
-      "link": "https://www.academy.com/shop/pdp/pro-cat-size-60-spinning-reel-convertible",
-      "original_price": 29.99,
-      "sale_price": 7.49,
-      "discount_pct": 75
-    },
-    {
-      "title": "VINGLI Folding Adirondack Chairs Set of 2",
-      "link": "https://www.target.com/p/vingli-folding-adirondack-chairs-set-of-2-wood-adirondack-chair-for-outdoor-foldable-fire-pit-chairs-for-patio-bbq-porch-yard-pool/-/A-1010066585",
-      "original_price": 200.0,
-      "sale_price": 50.0,
-      "discount_pct": 75
+      "title": "Dobyns Rods Maverick Spinning Reel",
+      "link": "https://forums.woot.com/t/dobyns-rods-maverick-spinning-reel/2569757",
+      "original_price": 100.0,
+      "sale_price": 30.0,
+      "discount_pct": 70
     }
   ],
   "watchlist": {
+    "Walmart": [
+      {
+        "title": "Dyson Digital Slim Cordless Vacuum",
+        "link": "https://www.walmart.com/c/kp/dyson-digital-slim",
+        "original_price": 499.99,
+        "sale_price": 249.99,
+        "discount_pct": 50
+      }
+    ],
+    "fishing": [
+      {
+        "title": "Abu Garcia Vengeance Tactical Spinning Reel",
+        "link": "https://www.scheels.com/p/abu-garcia-vengeance-tactical-spinning-reel/8950-VENGTACTSP",
+        "original_price": 39.99,
+        "sale_price": 19.99,
+        "discount_pct": 50
+      }
+    ],
+    "outdoors": [
+      {
+        "title": "Thermacell Mosquito Repellent E-Series Rechargeable Repeller",
+        "link": "https://sport.woot.com/offers/thermacell-mosquito-repellent-e-series-rechargeable-5",
+        "original_price": 45.0,
+        "sale_price": 14.99,
+        "discount_pct": 67
+      }
+    ],
+    "REI": [
+      {
+        "title": "Cotopaxi Teca Calido Hooded Insulated Jacket - Men's",
+        "link": "https://www.tomsguide.com/wellness/fitness/rei-jacket-sale-save-up-to-50-off-outerwear-from-columbia-cotopaxi-and-more",
+        "original_price": 150.0,
+        "sale_price": 74.0,
+        "discount_pct": 51
+      },
+      {
+        "title": "REI Co-op Trailmade Fleece Jacket - Men's",
+        "link": "https://www.mensjournal.com/shopping/rei-co-op-trailmade-fleece-jacket-rei-sale-january-2026",
+        "original_price": 59.0,
+        "sale_price": 29.0,
+        "discount_pct": 51
+      },
+      {
+        "title": "Columbia Snowqualmie Insulated Jacket",
+        "link": "https://www.tomsguide.com/wellness/fitness/rei-jacket-sale-save-up-to-50-off-outerwear-from-columbia-cotopaxi-and-more",
+        "original_price": 200.0,
+        "sale_price": 99.0,
+        "discount_pct": 50
+      }
+    ],
     "Patagonia jacket": [
       {
-        "title": "Patagonia Diamond Quilted Bomber Hoody",
-        "link": "https://www.mensjournal.com/shopping/patagonia-diamond-quilted-bomber-hoody-jacket-sale-september-2026",
-        "original_price": 199.0,
-        "sale_price": 99.5,
+        "title": "Patagonia Men's Insulated Powder Town Ski/Snowboard Jacket",
+        "link": "https://www.patagonia.com/product/mens-insulated-powder-town-ski-snowboard-jacket/31196.html",
+        "original_price": 399.0,
+        "sale_price": 198.99,
         "discount_pct": 50
+      },
+      {
+        "title": "Patagonia Men's PowSlayer Jacket",
+        "link": "https://www.patagonia.com/product/mens-powslayer-ski-snowboard-jacket/30306.html",
+        "original_price": 799.0,
+        "sale_price": 398.99,
+        "discount_pct": 50
+      },
+      {
+        "title": "Patagonia Down Sweater Jacket",
+        "link": "https://www.mensfitness.com/gear/patagonia-down-sweater-jacket-sale",
+        "original_price": 279.0,
+        "sale_price": 139.0,
+        "discount_pct": 50
+      },
+      {
+        "title": "Patagonia Snowdrifter Jacket - Women's",
+        "link": "https://www.rei.com/product/255551/patagonia-snowdrifter-jacket-womens",
+        "original_price": 449.0,
+        "sale_price": 199.67,
+        "discount_pct": 56
+      }
+    ],
+    "paddleboard": [
+      {
+        "title": "FEATH-R-LITE Inflatable Paddle Board with Premium Accessories",
+        "link": "https://www.amazon.com/FEATH-R-LITE-Inflatable-Paddleboards-Accessories-Adjustable/dp/B0G6CZVMB6",
+        "original_price": 159.99,
+        "sale_price": 79.99,
+        "discount_pct": 50
+      }
+    ],
+    "action camera": [
+      {
+        "title": "XTU S7 Pro 4K 50FPS Action Camera",
+        "link": "https://www.dealnews.com/XTU-S7-Pro-4-K-50-FPS-Action-Camera-for-75-free-shipping/22142526.html",
+        "original_price": 159.99,
+        "sale_price": 74.79,
+        "discount_pct": 53
       }
     ],
     "Apple": [
       {
-        "title": "Apple iPhone SE (3rd Gen) Grade A Refurbished",
-        "link": "https://electronics.woot.com/offers/apple-iphone-se-gen3-grade-a-refurbished-0",
-        "original_price": 429.0,
-        "sale_price": 149.99,
-        "discount_pct": 65
-      }
-    ],
-    "outdoor shed": [
-      {
-        "title": "AECOJOY 8-Foot by 6-Foot Metal Storage Shed",
-        "link": "https://www.walmart.com/ip/AECOJOY-8-x-6-ft-Outdoor-Metal-Storage-Shed-Galvanized-Steel-Storage-Building-with-Sliding-Door/1695562233",
-        "original_price": 390.0,
-        "sale_price": 194.0,
-        "discount_pct": 50
-      }
-    ],
-    "Walmart": [
-      {
-        "title": "Cozi 20in Wood Burning Fire Pit",
-        "link": "https://www.walmart.com/ip/Cozi-Outdoor-Fire-Pit-20in/8345419729",
-        "original_price": 89.0,
-        "sale_price": 34.0,
-        "discount_pct": 62
+        "title": "Apple iPad 10.2\" (2020) 8th Gen 32GB Wi-Fi & Cellular (Refurbished)",
+        "link": "https://store.thestreet.com/brands/apple?page=2",
+        "original_price": 459.0,
+        "sale_price": 184.99,
+        "discount_pct": 60
       }
     ]
   },
   "electronics": [
     {
-      "title": "Sony WH-1000XM5 Wireless Noise Cancelling Over-Ear Headphones",
-      "link": "https://www.bestbuy.com/product/sony-wh-1000xm5-wireless-noise-canceling-over-the-ear-headphones-black/J7XSRH5CXG",
-      "original_price": 398.0,
-      "sale_price": 198.0,
+      "title": "Samsung Galaxy Chromebook Go 14\" Laptop (4GB/32GB)",
+      "link": "https://www.amazon.com/Samsung-Electronics-Chromebook-Computer-Lightweight/dp/B09851XH2D",
+      "original_price": 299.99,
+      "sale_price": 129.99,
+      "discount_pct": 57
+    },
+    {
+      "title": "Beats Studio Pro Wireless Noise Cancelling Headphones",
+      "link": "https://www.amazon.com/dp/B0FHM61VTK",
+      "original_price": 349.99,
+      "sale_price": 159.99,
+      "discount_pct": 54
+    },
+    {
+      "title": "Verbatim Pocket SSD 1TB External SSD (USB 3.2 Gen 2)",
+      "link": "https://www.amazon.com/Verbatim-Pocket-External-Portable-Console/dp/B0DHHBLXZN",
+      "original_price": 299.99,
+      "sale_price": 149.99,
       "discount_pct": 50
+    },
+    {
+      "title": "LG 77\" Class B5 Series OLED AI 4K UHD Smart webOS TV (2025)",
+      "link": "https://www.bestbuy.com/product/lg-77-class-b5-series-oled-ai-4k-uhd-smart-webos-tv-2025/JJ8VPZTKZW/sku/6621813",
+      "original_price": 2999.99,
+      "sale_price": 1499.99,
+      "discount_pct": 50
+    },
+    {
+      "title": "Acer Predator XB273K 27\" 4K UHD IPS Gaming Monitor (Up to 320Hz, HDR400)",
+      "link": "https://www.bestbuy.com/product/acer-predator-xb273k-27-4k-uhd-ips-up-to-320hz-up-to-0-5ms-freesync-premium-gaming-monitor-with-hdr400-displayport-hdmi-black/JJ8V8HGQQ6",
+      "original_price": 699.0,
+      "sale_price": 329.0,
+      "discount_pct": 53
     }
   ],
   "general": [
     {
-      "title": "KitchenAid Food Processor Attachment (KSM1FPA)",
-      "link": "https://home.woot.com/offers/kitchenaid-food-processor-attachment-2",
-      "original_price": 179.95,
-      "sale_price": 54.99,
-      "discount_pct": 69
+      "title": "Crate & Barrel Fortune Garden Stoneware Appetizer Plate, Set of 10 (with Brass-Finished Stand)",
+      "link": "https://www.crateandbarrel.com/fortune-garden-stoneware-appetizer-plate-set-of-10/s376414",
+      "original_price": 59.95,
+      "sale_price": 23.97,
+      "discount_pct": 60
     },
     {
-      "title": "Kobalt 24-Volt Max 1/2-in Brushless Cordless Drill Kit",
-      "link": "https://www.lowes.com/pd/Kobalt-24-Volt-Max-1-2-in-Lithium-Ion-Li-ion-Brushless-Cordless-Drill-1-Battery-Included/1000061633",
-      "original_price": 159.0,
-      "sale_price": 79.0,
+      "title": "Parks Project Big Sur Bridges Puff Print Pocket T-Shirt (Men's)",
+      "link": "https://www.backcountry.com/parks-project-big-sur-bridges-puff-print-pocket-t-shirt-mens",
+      "original_price": 40.0,
+      "sale_price": 20.0,
       "discount_pct": 50
     },
     {
-      "title": "Barbie 2025 Holiday Doll Collection",
-      "link": "https://www.macys.com/shop/product/barbie-2025-holiday-doll-collection?ID=24257214",
-      "original_price": 48.99,
-      "sale_price": 24.43,
-      "discount_pct": 50
+      "title": "Star Wars: Young Jedi Adventures Tenoo Jedi Temple Playset",
+      "link": "https://www.macys.com/shop/product/star-wars-tenoo-jedi-temple-playset?ID=16702024",
+      "original_price": 39.99,
+      "sale_price": 17.98,
+      "discount_pct": 55
+    },
+    {
+      "title": "Disney Doorables Grand Entrance 3-inch Collectible Mickey Mouse 2-Piece Set",
+      "link": "https://home.woot.com/offers/disney-doorables-new-collectible-mickey-2",
+      "original_price": 19.99,
+      "sale_price": 7.99,
+      "discount_pct": 60
     }
   ]
 }
