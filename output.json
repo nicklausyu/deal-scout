@@ -1,96 +1,94 @@
 {
-  "date": "2026-09-13",
+  "date": "2026-09-14",
   "steals": [
     {
-      "title": "Stuart Weitzman Monty Penny Loafer (Women)",
-      "link": "https://www.nordstromrack.com/s/stuart-weitzman-monty-penny-loafer/8711185",
-      "original_price": 575.0,
-      "sale_price": 99.97,
-      "discount_pct": 83
+      "title": "Amazon Essentials Men's Classic-Fit Travel Stretch Pant",
+      "link": "https://sport.woot.com/offers/amazon-essentials-mens-classic-fit-travel-stretch-pant",
+      "original_price": 34.9,
+      "sale_price": 9.99,
+      "discount_pct": 71
     }
   ],
   "watchlist": {
     "Patagonia jacket": [
       {
-        "title": "Patagonia Women's Recycled Down Sweater Parka",
-        "link": "https://www.patagonia.com/product/womens-recycled-down-sweater-parka/28460.html",
-        "original_price": 359.0,
-        "sale_price": 179.0,
+        "title": "Patagonia Men's Down Sweater Insulated Jacket",
+        "link": "https://www.patagonia.com/product/mens-down-sweater-jacket/84675.html",
+        "original_price": 279.0,
+        "sale_price": 138.83,
         "discount_pct": 50
+      }
+    ],
+    "Apple": [
+      {
+        "title": "Apple MacBook Air 13\" M1 8GB/256GB (Refurbished)",
+        "link": "https://www.ebay.com/itm/326640349876",
+        "original_price": 999.0,
+        "sale_price": 406.22,
+        "discount_pct": 59
       }
     ],
     "REI": [
       {
-        "title": "Columbia Snowqualmie Insulated Jacket - Women's",
-        "link": "https://www.rei.com/product/223616/columbia-snowqualmie-insulated-jacket-womens",
-        "original_price": 200.0,
-        "sale_price": 99.83,
+        "title": "REI Co-op Sahara Shade Hoodie - Women's",
+        "link": "https://www.rei.com/product/184879/rei-co-op-sahara-shade-hoodie-womens",
+        "original_price": 59.95,
+        "sale_price": 29.83,
         "discount_pct": 50
-      }
-    ],
-    "fishing": [
+      },
       {
-        "title": "Okuma Sierra 7/8 Fly Reel",
-        "link": "https://www.publiclands.com/p/okuma-sierra-7-8-fly-reel-26okuufishqaafg0jsx9a/26okuufishqaafg0jsx9a",
-        "original_price": 59.99,
-        "sale_price": 19.98,
-        "discount_pct": 67
-      }
-    ],
-    "outdoor shed": [
-      {
-        "title": "PABIMIA 14 FT x 12 FT Heavy-Duty Steel Outdoor Storage Shed",
-        "link": "https://www.walmart.com/ip/PABIMIA-14-FT-x-12-FT-Heavy-Duty-Steel-Outdoor-Storage-Shed-Garden-Tool-Shed-with-Lockable-Doors-Black-Roof/19602120999",
-        "original_price": 940.0,
-        "sale_price": 460.0,
+        "title": "DUER Performance Denim Girlfriend Jeans - Women's",
+        "link": "https://www.rei.com/product/203609/duer-performance-denim-girlfriend-jeans-womens",
+        "original_price": 129.0,
+        "sale_price": 63.83,
         "discount_pct": 51
       }
     ]
   },
   "electronics": [
     {
-      "title": "Acer Aspire 3 15.6\" Laptop (Ryzen 5 7520U, 16GB RAM, 1TB SSD) - Certified Refurbished",
-      "link": "https://www.ebay.com/itm/277623301371",
-      "original_price": 499.99,
-      "sale_price": 243.65,
-      "discount_pct": 51
-    },
-    {
-      "title": "Beats Solo 4 Wireless Bluetooth On-Ear Headphones",
-      "link": "https://www.amazon.com/Beats-Solo-Ear-Headphones-Compatible/dp/B0CZPHPJLN",
-      "original_price": 199.95,
-      "sale_price": 99.95,
+      "title": "Bose QuietComfort Headphones (2nd Gen)",
+      "link": "https://www.technobezz.com/best/bose-quietcomfort-wireless-headphones-down-to-179-in-amazon-deal",
+      "original_price": 359.0,
+      "sale_price": 179.0,
       "discount_pct": 50
     },
     {
-      "title": "Sony ZX Series Wired On-Ear Headphones MDR-ZX110",
-      "link": "https://www.amazon.com/Sony-Wired-Headphones-MDRZX110-WHI/dp/B00NJ2M43M",
-      "original_price": 19.99,
-      "sale_price": 9.99,
-      "discount_pct": 50
+      "title": "Acer Nitro 31.5\" Curved WQHD 180Hz Gaming Monitor (EDB323QU S3)",
+      "link": "https://www.bestbuy.com/product/acer-nitro-gaming-31-5-curved-wqhd-180hz-1ms-freesync-premium-gaming-monitor-displayport-hdmi-x2-black/JJ8V8H2SHV",
+      "original_price": 459.99,
+      "sale_price": 199.99,
+      "discount_pct": 57
+    },
+    {
+      "title": "Samsung 55\" Q60D Series 4K QLED Smart TV (QN55Q60D)",
+      "link": "https://www.techradar.com/seasonal-sales/samsung-has-a-huge-sale-on-its-best-selling-tvs-shop-record-low-prices-from-usd479-99",
+      "original_price": 999.99,
+      "sale_price": 479.99,
+      "discount_pct": 52
     }
   ],
   "general": [
     {
-      "title": "Milwaukee M12 12V Lithium-Ion Cordless Combo Kit (4-Tool) with Two 2.0Ah Batteries, Charger & Tool Bag (2492-24)",
-      "link": "https://www.homedepot.com/p/Milwaukee-M12-12V-Lithium-Ion-Cordless-Combo-Kit-4-Tool-with-Two-2-0Ah-Batteries-Charger-Tool-Bag-2492-24/332084254",
-      "original_price": 398.0,
-      "sale_price": 199.0,
+      "title": "T-Fal Simply Cook 20pc Ceramic Nonstick Cookware Set",
+      "link": "https://www.target.com/p/t-fal-simply-cook-20pc-ceramic-nonstick-cookware-set/-/A-94662935",
+      "original_price": 129.99,
+      "sale_price": 64.99,
       "discount_pct": 50
     },
     {
-      "title": "Astercook 14-Piece Kitchen Knife Set with Block, Built-in Sharpener, German Stainless Steel",
-      "link": "https://www.walmart.com/ip/Astercook-15-Piece-Kitchen-Knife-Set-High-Carbon-German-Stainless-Steel-Built-in-Sharpener-Dishwasher-Safe-Sharp-Rust-Resistant-Black-Chef-Knives-Blo/9557811804",
-      "original_price": 119.99,
-      "sale_price": 39.99,
-      "discount_pct": 67
+      "title": "Craftsman Versastack 242-Piece SAE and Metric Mechanics Tool Set with Hard Case (CMMT45242)",
+      "link": "https://www.lowes.com/pd/CRAFTSMAN-24Pc-VERSASTACK-Mechanics-Tool-Set/5016365155",
+      "original_price": 219.0,
+      "sale_price": 99.0,
+      "discount_pct": 55
     },
     {
-      "title": "Tilly Ramsay x Royal Doulton 12 Piece Dinnerware Set",
-      "link": "https://home.woot.com/offers/tilly-ramsay-x-royal-doulton-12-piece-dinnerware-set-6",
-      "original_price": 125.0,
-      "sale_price": 48.99,
-      "discount_pct": 61
+      "title": "Squishville by Original Squishmallows Rock and Roller Disco Playset",
+      "link": "https://www.dealnews.com/Disney-More-Top-Toys-Sale-at-Woot-Up-to-80-off-extra-25-off-free-shipping-w-Prime/22158436.html",
+      "original_price": 27.99,
+      "sale_price": 9.99,
+      "discount_pct": 64
     }
   ]
 }
