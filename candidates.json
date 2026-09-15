@@ -1,20 +1,28 @@
 {
-  "date": "2026-09-14",
+  "date": "2026-09-15",
   "items": [
-    {"title": "T-Fal Simply Cook 20pc Ceramic Nonstick Cookware Set", "link": "https://www.target.com/p/t-fal-simply-cook-20pc-ceramic-nonstick-cookware-set/-/A-94662935", "original_price": 129.99, "sale_price": 64.99, "category": "general"},
-    {"title": "KitchenAid Food Processor Attachment (KSM1FPA)", "link": "https://home.woot.com/offers/kitchenaid-food-processor-attachment-2", "original_price": 179.95, "sale_price": 54.99, "category": "general"},
-    {"title": "Amazon Essentials Men's Classic-Fit Travel Stretch Pant", "link": "https://sport.woot.com/offers/amazon-essentials-mens-classic-fit-travel-stretch-pant", "original_price": 34.90, "sale_price": 9.99, "category": "general"},
-    {"title": "Craftsman Versastack 242-Piece SAE and Metric Mechanics Tool Set with Hard Case (CMMT45242)", "link": "https://www.lowes.com/pd/CRAFTSMAN-24Pc-VERSASTACK-Mechanics-Tool-Set/5016365155", "original_price": 219.00, "sale_price": 99.00, "category": "general"},
-    {"title": "Squishville by Original Squishmallows Rock and Roller Disco Playset", "link": "https://www.dealnews.com/Disney-More-Top-Toys-Sale-at-Woot-Up-to-80-off-extra-25-off-free-shipping-w-Prime/22158436.html", "original_price": 27.99, "sale_price": 9.99, "category": "general"},
-    {"title": "Sony WH-1000XM5 Wireless Noise Cancelling Headphones", "link": "https://www.soundguys.com/sony-wh-1000xm5-headphones-deal-amazon-162333/", "original_price": 399.99, "sale_price": 198.00, "category": "electronics"},
-    {"title": "Bose QuietComfort Headphones (2nd Gen)", "link": "https://www.technobezz.com/best/bose-quietcomfort-wireless-headphones-down-to-179-in-amazon-deal", "original_price": 359.00, "sale_price": 179.00, "category": "electronics"},
-    {"title": "Acer Nitro 31.5\" Curved WQHD 180Hz Gaming Monitor (EDB323QU S3)", "link": "https://www.bestbuy.com/product/acer-nitro-gaming-31-5-curved-wqhd-180hz-1ms-freesync-premium-gaming-monitor-displayport-hdmi-x2-black/JJ8V8H2SHV", "original_price": 459.99, "sale_price": 199.99, "category": "electronics"},
-    {"title": "Samsung 55\" Q60D Series 4K QLED Smart TV (QN55Q60D)", "link": "https://www.techradar.com/seasonal-sales/samsung-has-a-huge-sale-on-its-best-selling-tvs-shop-record-low-prices-from-usd479-99", "original_price": 999.99, "sale_price": 479.99, "category": "electronics"},
-    {"title": "Patagonia Men's Nano Puff Insulated Jacket", "link": "https://www.patagonia.com/product/mens-nano-puff-insulated-jacket/84212.html", "original_price": 239.00, "sale_price": 118.99, "category": "Patagonia jacket"},
-    {"title": "Patagonia Men's Down Sweater Insulated Jacket", "link": "https://www.patagonia.com/product/mens-down-sweater-jacket/84675.html", "original_price": 279.00, "sale_price": 138.83, "category": "Patagonia jacket"},
-    {"title": "Apple MacBook Air 13\" M1 8GB/256GB (Refurbished)", "link": "https://www.ebay.com/itm/326640349876", "original_price": 999.00, "sale_price": 406.22, "category": "Apple"},
-    {"title": "REI Co-op Sahara Shade Hoodie - Women's", "link": "https://www.rei.com/product/184879/rei-co-op-sahara-shade-hoodie-womens", "original_price": 59.95, "sale_price": 29.83, "category": "REI"},
-    {"title": "DUER Performance Denim Girlfriend Jeans - Women's", "link": "https://www.rei.com/product/203609/duer-performance-denim-girlfriend-jeans-womens", "original_price": 129.00, "sale_price": 63.83, "category": "REI"},
-    {"title": "REI Co-op Campwell 6 Tent", "link": "https://www.rei.com/product/243613/rei-co-op-campwell-6-tent", "original_price": 329.00, "sale_price": 164.00, "category": "outdoors"}
+    {"title": "DEWALT 20V XR Lithium-Ion Starter Pack with 8.0 Ah and 4.0 Ah Battery Packs and Charger (DCB248-2C)", "link": "https://www.homedepot.com/p/DEWALT-20V-XR-Lithium-Ion-Starter-Pack-with-8-0-Ah-and-4-0-Ah-Battery-Packs-and-Charger-DCB248-2C/332551070", "original_price": 399.00, "sale_price": 199.00, "category": "general"},
+    {"title": "Crate & Barrel Small Rectangular Acrylic Pantry & Drawer Food Storage Container with Bamboo Lid", "link": "https://www.crateandbarrel.com/small-rectangular-acrylic-pantry-and-drawer-food-storage-container-with-bamboo-lid/s191236", "original_price": 54.95, "sale_price": 26.99, "category": "general"},
+    {"title": "Under Armour UA Icon Men's Short Sleeve (Outlet)", "link": "https://www.underarmour.com/en-us/p/ua_icon_mens_short_sleeve/6000000.html", "original_price": 30.00, "sale_price": 14.98, "category": "general"},
+    {"title": "Barbie Dreamhouse Pool Party Doll House and Playset with 75+ Pieces (Clearance)", "link": "https://slickdeals.net/f/19046983-barbie-dreamhouse-clearance-in-store-pickup-only-64-49", "original_price": 215.99, "sale_price": 64.49, "category": "general"},
+
+    {"title": "Acer Chromebook 315 15.6\" FHD Laptop (Intel Celeron N4500, 4GB RAM, 64GB eMMC) with Bonus Sleeve", "link": "https://www.bestbuy.com/site/acer-chromebook-315-15-6-full-hd-laptop-intel-celeron-n4500-4gb-lpddr4x-64gb-emmc-protective-sleeve-silver-sparkly-silver/6614950.p", "original_price": 300, "sale_price": 119, "category": "electronics"},
+    {"title": "JBL Tune 660NC Wireless On-Ear Active Noise Cancelling Headphones", "link": "https://www.bestbuy.com/site/jbl-tune-660nc-on-ear-noise-cancelling-wireless-headphones-black/6508087.p?skuId=6508087", "original_price": 99.99, "sale_price": 39.99, "category": "electronics"},
+    {"title": "TCL 65\" Class QM5K Series 4K UHD QD Mini LED Smart TV with Google TV (2025)", "link": "https://www.bestbuy.com/product/tcl-65-class-qm5k-series-4k-uhd-qd-mini-led-smart-tv-with-google-tv-2025/J36QYTQWZ4", "original_price": 899.99, "sale_price": 449.99, "category": "electronics"},
+
+    {"title": "Patagonia Nano Puff Insulated Jacket (Men's)", "link": "https://www.rei.com/product/249151/patagonia-nano-puff-insulated-jacket-mens", "original_price": 229, "sale_price": 114, "category": "patagonia jacket"},
+    {"title": "Select Kayaks at Dick's Sporting Goods", "link": "https://hip2save.com/deals/kayaks-dicks-sporting-goods/", "original_price": 229.99, "sale_price": 114.99, "category": "kayak"},
+    {"title": "EGGORY 11ft Inflatable Stand-Up Paddle Board with Full SUP Accessories", "link": "https://www.walmart.com/ip/EGGORY-Inflatable-Stand-Paddle-Boards-11-x34-x6-with-Premium-SUP-Paddle-Board-Accessories-Wide-Stable-Design-Anti-Slip-Comfort-Deck-Water-sports-Yout/15305664103", "original_price": 369.99, "sale_price": 169.99, "category": "paddleboard"},
+    {"title": "Apple AirPods Pro (2nd Generation) with USB-C, Refurbished", "link": "https://www.ebay.com/itm/158165069043", "original_price": 249.99, "sale_price": 114.99, "category": "apple"},
+    {"title": "Ninja SmoothieiQ Blender with Auto-iQ - Costco Clearance", "link": "https://app.warehouserunner.com/costco/5883930-ninja-auto-iq-blender", "original_price": 79.99, "sale_price": 24.97, "category": "costco"},
+    {"title": "Ninja Blast Portable Blender - Costco Clearance", "link": "https://app.warehouserunner.com/costco/1963540-ninja-blast-portable-blender", "original_price": 49.99, "sale_price": 19.97, "category": "costco"},
+
+    {"title": "USX MOUNT Full Motion TV Wall Mount (23-55\", holds 77 lbs)", "link": "https://www.walmart.com/ip/USX-MOUNT-Full-Motion-Tilting-Swivel-TV-Wall-Mount-for-23-55-Inch-TVs-with-Max-VESA-400x400mm-77lbs/313254545", "original_price": 45.99, "sale_price": 16.99, "category": "walmart"},
+    {"title": "Pflueger Trion Spinning Reel", "link": "https://www.dickssportinggoods.com/p/pflueger-trion-spinning-reel-25pflufishtrn35spncbo/25pflufishtrn35spncbo", "original_price": 59.99, "sale_price": 29.99, "category": "fishing"},
+    {"title": "Sogries 20x60 Binoculars", "link": "https://www.dealnews.com/Woot-Sports-Outdoors-Clearance-Sale-Up-to-91-off-free-shipping-w-Prime/22172438.html", "original_price": 500, "sale_price": 45, "category": "outdoors"},
+    {"title": "Thermacell E-Series Rechargeable Mosquito Repeller", "link": "https://sellout.woot.com/plus/thermacell-deals-for-the-outdoors", "original_price": 45, "sale_price": 15, "category": "outdoors"},
+    {"title": "Columbia PFG Uncharted Neps Long-Sleeve Shirt (Men's)", "link": "https://www.rei.com/product/244641/columbia-pfg-uncharted-neps-long-sleeve-shirt-mens", "original_price": 55, "sale_price": 26, "category": "rei"},
+    {"title": "Homall 10' x 8' Outdoor Storage Shed", "link": "https://www.autoblog.com/deals/homall-10-by-8-storage-shed-walmart-flash-sale-september-2026", "original_price": 590, "sale_price": 295, "category": "outdoor shed"},
+    {"title": "Clouddwell 10' x 8' Outdoor Storage Shed", "link": "https://www.dealnews.com/Clouddwell-10-x-8-Foot-Storage-Shed-for-300-39-99-shipping/21824367.html", "original_price": 600, "sale_price": 300, "category": "outdoor shed"}
   ]
 }
