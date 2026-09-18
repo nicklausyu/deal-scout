@@ -1,83 +1,51 @@
 {
-  "date": "2026-09-17",
+  "date": "2026-09-18",
   "steals": [
     {
-      "title": "Stuart Weitzman 5050 Bold Boot (Women)",
-      "link": "https://www.nordstrom.com/s/stuart-weitzman-5050-bold-boot-women/7507312",
-      "original_price": 795.0,
-      "sale_price": 198.0,
-      "discount_pct": 75
+      "title": "Ohhani Backpack Cooler",
+      "link": "https://www.mensjournal.com/shopping/ohhani-backpack-cooler-walmart-sale",
+      "original_price": 199.0,
+      "sale_price": 25.0,
+      "discount_pct": 87
     },
     {
-      "title": "NERF Loadout Galactic Commander Blaster",
-      "link": "https://hip2save.com/deals/target-semi-annual-toy-sale/",
-      "original_price": 52.99,
-      "sale_price": 15.89,
+      "title": "Dobyns Rods Maverick Spinning Reel (Woot Fishing SZN Sale)",
+      "link": "https://sport.woot.com/plus/fishing-szn-1",
+      "original_price": 100.0,
+      "sale_price": 30.0,
       "discount_pct": 70
     },
     {
-      "title": "MaisonAir 12in Twin Airbed Premium Air Mattress with Coil Beam Support and Built-in Pillow with Rechargeable Pump",
-      "link": "https://www.walmart.com/ip/MaisonAir-12in-Twin-Airbed/19311304935",
-      "original_price": 149.99,
-      "sale_price": 29.88,
-      "discount_pct": 80
-    },
-    {
-      "title": "Ugly Stik Carbon Ice 32\" Spinning Rod & Size 5 Reel Combo",
-      "link": "https://slickdeals.net/f/19573083-1-piece-32-ugly-stik-carbon-ice-spinning-rod-and-5-size-reel-combo-23-72-free-shipping-w-prime-or-on-35-23-73",
-      "original_price": 79.99,
-      "sale_price": 23.73,
-      "discount_pct": 70
+      "title": "Patagonia Windshadow Insulated Jacket - Men's",
+      "link": "https://www.rei.com/product/249823/patagonia-windshadow-insulated-jacket-mens",
+      "original_price": 349.0,
+      "sale_price": 99.83,
+      "discount_pct": 71
     }
   ],
   "watchlist": {
-    "tools & home improvement": [
+    "fishing": [
       {
-        "title": "CRAFTSMAN V20 MAX Cordless Drill Driver and Impact Driver Set (CMCK200C2)",
-        "link": "https://www.bobvila.com/reviews/amazon-power-tool-deals-sept-2026/",
-        "original_price": 169.0,
-        "sale_price": 79.0,
+        "title": "PENN Battle Spinning Combo Fishing Kit, 7' Medium, 4000 Size Reel",
+        "link": "https://www.walmart.com/ip/PENN-7-Battle-Spinning-Fishing-Rod-and-Reel-Combo-Kit-Size-4000-Reel-with-Cover-Moderate-Action/3550950446",
+        "original_price": 189.99,
+        "sale_price": 89.97,
         "discount_pct": 53
-      }
-    ],
-    "Patagonia jacket": [
-      {
-        "title": "Patagonia Nano-Air Ultralight Insulated Pullover (Men's) - REI",
-        "link": "https://www.mensjournal.com/shopping/patagonia-nano-air-ultralight-insulated-pullover-rei-sale-september-2026",
-        "original_price": 199.0,
-        "sale_price": 99.0,
-        "discount_pct": 50
-      },
-      {
-        "title": "Patagonia Nano Puff Insulated Jacket - REI",
-        "link": "https://shopping.yahoo.com/deals/articles/patagonia-229-nano-puff-jackets-165424031.html",
-        "original_price": 229.0,
-        "sale_price": 114.0,
-        "discount_pct": 50
-      }
-    ],
-    "outdoors": [
-      {
-        "title": "Eddie Bauer 280 Lumen Rechargeable Lantern",
-        "link": "https://www.tomsguide.com/sales-events/eddie-bauer-knocks-50-off-camping-gear-7-deals-id-shop-now-from-dollar15",
-        "original_price": 45.0,
-        "sale_price": 22.0,
-        "discount_pct": 51
       }
     ],
     "REI": [
       {
-        "title": "HOKA Rincon 4 Road-Running Shoes - Men's",
-        "link": "https://www.rei.com/product/235496/hoka-rincon-4-road-running-shoes-mens",
-        "original_price": 125.0,
-        "sale_price": 61.83,
-        "discount_pct": 51
+        "title": "Patagonia Sindit Down Hoody - Women's",
+        "link": "https://www.rei.com/product/249130/patagonia-sindit-down-hoody-womens",
+        "original_price": 249.0,
+        "sale_price": 123.83,
+        "discount_pct": 50
       }
     ],
     "outdoor shed": [
       {
-        "title": "Pabimia 14-by-12-Foot Heavy-Duty Outdoor Storage Shed",
-        "link": "https://www.thestreet.com/shopping/outdoor-storage-shed-end-of-season-clearance-walmart-mp-sale",
+        "title": "PABIMIA 14x12 FT Outdoor Metal Storage Shed",
+        "link": "https://www.walmart.com/ip/PABIMIA-14-x-12-FT-Outdoor-Metal-Storage-Shed-Heavy-Duty-GalvanizedSteel-Garden-Tool-Shed-Reinforced-Frame-Wide-Lockable-Double-Doors-Sloped-Roof-Ven/20889063560",
         "original_price": 940.0,
         "sale_price": 460.0,
         "discount_pct": 51
@@ -86,26 +54,62 @@
   },
   "electronics": [
     {
-      "title": "Beats Studio Pro Wireless Over-Ear Headphones",
-      "link": "https://www.soundguys.com/beats-studio-pro-deal-amazon-163101/",
-      "original_price": 349.99,
-      "sale_price": 169.99,
-      "discount_pct": 51
+      "title": "Acer Chromebook 315",
+      "link": "https://www.androidcentral.com/chromebooks-laptops/labor-day-deals-start-early-at-best-buy-with-50-percent-off-this-top-rated-acer-chromebook-and-protective-case-bundle",
+      "original_price": 300.0,
+      "sale_price": 119.0,
+      "discount_pct": 60
     },
     {
-      "title": "Kingston XS1000R 1TB Pocket-Sized External SSD (USB 3.2 Gen 2)",
-      "link": "https://www.amazon.com/Kingston-Pocket-Sized-External-SXS1000R-1000G/dp/B0D9HJNR5W",
-      "original_price": 261.99,
-      "sale_price": 119.99,
-      "discount_pct": 54
+      "title": "ASUS Vivobook 14 (X1404VA-I512256) 14\" FHD Laptop, Intel Core i5, 12GB RAM, 256GB SSD",
+      "link": "https://www.bestbuy.com/product/asus-vivobook-14-14-fhd-laptop-intel-core-i5-12gb-memory-256gb-ssd-quiet-blue/JJGGLHJJ5K",
+      "original_price": 599.99,
+      "sale_price": 299.99,
+      "discount_pct": 50
     },
     {
-      "title": "MSI G242LW 23.8\" FHD 144Hz 1ms FreeSync IPS Gaming Monitor",
-      "link": "https://www.walmart.com/ip/MSI-23-8-FHD-1920x1080-HDMI-DP-144Hz-1ms-FreeSync-IPS-Gaming-Monitor-G242LW/16506758146",
-      "original_price": 100.0,
-      "sale_price": 47.0,
-      "discount_pct": 53
+      "title": "Sony WH-CH720N Noise Canceling Wireless Headphones (Certified Refurbished)",
+      "link": "https://www.ebay.com/itm/335201396085",
+      "original_price": 179.99,
+      "sale_price": 59.99,
+      "discount_pct": 67
     }
   ],
-  "general": []
+  "general": [
+    {
+      "title": "REI Z/Cloud 2 National Park Sandals - Men's",
+      "link": "https://www.rei.com/s/50-off-footwear-deals",
+      "original_price": 140.0,
+      "sale_price": 69.83,
+      "discount_pct": 50
+    },
+    {
+      "title": "REI Sense Max 2 Trail-Running Shoes - Women's",
+      "link": "https://www.rei.com/s/50-off-footwear-deals#sense-max-2",
+      "original_price": 150.0,
+      "sale_price": 74.83,
+      "discount_pct": 50
+    },
+    {
+      "title": "REI KEEN Leiki Waterproof Hiking Boots - Women's",
+      "link": "https://www.rei.com/s/50-off-footwear-deals#keen-leiki",
+      "original_price": 170.0,
+      "sale_price": 84.73,
+      "discount_pct": 50
+    },
+    {
+      "title": "LEGO Classic 213-Piece Creative Suitcase Building Kit (10713)",
+      "link": "https://slickdeals.net/f/19977126-10-213-pc-lego-classic-creative-suitcase-building-kit-10713-at-amazon",
+      "original_price": 20.0,
+      "sale_price": 10.0,
+      "discount_pct": 50
+    },
+    {
+      "title": "DEWALT ATOMIC 20V MAX Cordless Brushless Oscillating Multi-Tool Kit (2.0Ah Battery & Charger)",
+      "link": "https://www.bobvila.com/reviews/home-depot-dewalt-oscillating-tool-deal-feb-2026/",
+      "original_price": 219.0,
+      "sale_price": 100.0,
+      "discount_pct": 54
+    }
+  ]
 }
