@@ -1,115 +1,136 @@
 {
-  "date": "2026-09-18",
+  "date": "2026-09-19",
   "steals": [
     {
-      "title": "Ohhani Backpack Cooler",
-      "link": "https://www.mensjournal.com/shopping/ohhani-backpack-cooler-walmart-sale",
-      "original_price": 199.0,
-      "sale_price": 25.0,
-      "discount_pct": 87
+      "title": "adidas Women's Swift Run 1.0 Shoes (Beige/Core Black/Cloud White)",
+      "link": "https://www.ebay.com/itm/158299410088",
+      "original_price": 80.0,
+      "sale_price": 19.2,
+      "discount_pct": 76
     },
     {
-      "title": "Dobyns Rods Maverick Spinning Reel (Woot Fishing SZN Sale)",
-      "link": "https://sport.woot.com/plus/fishing-szn-1",
-      "original_price": 100.0,
-      "sale_price": 30.0,
-      "discount_pct": 70
+      "title": "Squishmallows Original 8in Disney's Zootopia 2 Judy Hopps Plush",
+      "link": "https://www.amazon.com/Squishmallows-SQZT00006-Style-Number/dp/B0DK7Y623F",
+      "original_price": 15.99,
+      "sale_price": 4.34,
+      "discount_pct": 73
     },
     {
-      "title": "Patagonia Windshadow Insulated Jacket - Men's",
-      "link": "https://www.rei.com/product/249823/patagonia-windshadow-insulated-jacket-mens",
-      "original_price": 349.0,
-      "sale_price": 99.83,
-      "discount_pct": 71
+      "title": "WHAT DO YOU MEME? QU!CK QU!CK QU!CK Party Card Game",
+      "link": "https://www.amazon.com/WHAT-DO-YOU-MEME-Relatable/dp/B0DS6L1RDP",
+      "original_price": 21.99,
+      "sale_price": 4.79,
+      "discount_pct": 78
+    },
+    {
+      "title": "Apple 10.2\" iPad 7th Gen (2019) 32GB Wi-Fi, Certified Refurbished",
+      "link": "https://www.southernsavers.com/woot-deal-refurbished-ipads-as-low-as-89-99",
+      "original_price": 329.99,
+      "sale_price": 89.99,
+      "discount_pct": 73
     }
   ],
   "watchlist": {
-    "fishing": [
+    "Walmart": [
       {
-        "title": "PENN Battle Spinning Combo Fishing Kit, 7' Medium, 4000 Size Reel",
-        "link": "https://www.walmart.com/ip/PENN-7-Battle-Spinning-Fishing-Rod-and-Reel-Combo-Kit-Size-4000-Reel-with-Cover-Moderate-Action/3550950446",
-        "original_price": 189.99,
-        "sale_price": 89.97,
-        "discount_pct": 53
+        "title": "Segmart 90-Gallon Outdoor Deck Storage Box",
+        "link": "https://www.walmart.com/ip/Segmart-90-Gallon-Deck-Box-All-Weather-Outdoor-Storage-Box-Patio-Furniture-Cushions-Garden-Tools-Pool-Toys-Lockable-Resin-Storage-Box-Waterproof-Tool/17747518825",
+        "original_price": 130.0,
+        "sale_price": 60.0,
+        "discount_pct": 54
+      },
+      {
+        "title": "Ocest Outdoor Garage and Patio Solar LED Lights (2-Pack)",
+        "link": "https://www.autoblog.com/deals/ocest-outdoor-garage-and-patio-solar-led-lights-walmart-sale-september-2026",
+        "original_price": 54.0,
+        "sale_price": 24.0,
+        "discount_pct": 56
       }
     ],
-    "REI": [
+    "outdoors": [
       {
-        "title": "Patagonia Sindit Down Hoody - Women's",
-        "link": "https://www.rei.com/product/249130/patagonia-sindit-down-hoody-womens",
-        "original_price": 249.0,
-        "sale_price": 123.83,
+        "title": "O'Rageous Men's Howdy Cowboy Hat",
+        "link": "https://www.academy.com/c/academy-clearance/outdoors-clearance--1",
+        "original_price": 29.99,
+        "sale_price": 14.99,
         "discount_pct": 50
       }
     ],
-    "outdoor shed": [
+    "Apple": [
       {
-        "title": "PABIMIA 14x12 FT Outdoor Metal Storage Shed",
-        "link": "https://www.walmart.com/ip/PABIMIA-14-x-12-FT-Outdoor-Metal-Storage-Shed-Heavy-Duty-GalvanizedSteel-Garden-Tool-Shed-Reinforced-Frame-Wide-Lockable-Double-Doors-Sloped-Roof-Ven/20889063560",
-        "original_price": 940.0,
-        "sale_price": 460.0,
-        "discount_pct": 51
+        "title": "Apple Geek Squad Certified Refurbished Watch Ultra (GPS + Cellular) 49mm Titanium Case (2022)",
+        "link": "https://www.bestbuy.com/site/apple-geek-squad-certified-refurbished-watch-ultra-gps-cellular-49mm-titanium-case-with-blue-gray-trail-loop-m-l-silver/6568471.p?skuId=6568471",
+        "original_price": 799.0,
+        "sale_price": 299.99,
+        "discount_pct": 62
       }
     ]
   },
   "electronics": [
     {
-      "title": "Acer Chromebook 315",
-      "link": "https://www.androidcentral.com/chromebooks-laptops/labor-day-deals-start-early-at-best-buy-with-50-percent-off-this-top-rated-acer-chromebook-and-protective-case-bundle",
-      "original_price": 300.0,
-      "sale_price": 119.0,
-      "discount_pct": 60
-    },
-    {
-      "title": "ASUS Vivobook 14 (X1404VA-I512256) 14\" FHD Laptop, Intel Core i5, 12GB RAM, 256GB SSD",
-      "link": "https://www.bestbuy.com/product/asus-vivobook-14-14-fhd-laptop-intel-core-i5-12gb-memory-256gb-ssd-quiet-blue/JJGGLHJJ5K",
-      "original_price": 599.99,
-      "sale_price": 299.99,
+      "title": "Sony WH-1000XM5 Wireless Noise Canceling Headphones",
+      "link": "https://www.amazon.com/Sony-WH-1000XM5-Canceling-Headphones-Hands-Free/dp/B09XS7JWHH",
+      "original_price": 399.99,
+      "sale_price": 198.0,
       "discount_pct": 50
     },
     {
-      "title": "Sony WH-CH720N Noise Canceling Wireless Headphones (Certified Refurbished)",
-      "link": "https://www.ebay.com/itm/335201396085",
-      "original_price": 179.99,
-      "sale_price": 59.99,
-      "discount_pct": 67
+      "title": "Samsung Odyssey Neo G7 43\" Mini LED 4K UHD Gaming Monitor",
+      "link": "https://www.bestbuy.com/site/samsung-odyssey-neo-g7-43-mini-4k-uhd-1ms-amd-freesync-premium-pro-smart-gaming-monitor-with-hdr600-displayport-hdmi-black/6529218.p?skuId=6529218",
+      "original_price": 999.99,
+      "sale_price": 499.99,
+      "discount_pct": 50
     }
   ],
   "general": [
     {
-      "title": "REI Z/Cloud 2 National Park Sandals - Men's",
-      "link": "https://www.rei.com/s/50-off-footwear-deals",
-      "original_price": 140.0,
-      "sale_price": 69.83,
-      "discount_pct": 50
-    },
-    {
-      "title": "REI Sense Max 2 Trail-Running Shoes - Women's",
-      "link": "https://www.rei.com/s/50-off-footwear-deals#sense-max-2",
-      "original_price": 150.0,
-      "sale_price": 74.83,
-      "discount_pct": 50
-    },
-    {
-      "title": "REI KEEN Leiki Waterproof Hiking Boots - Women's",
-      "link": "https://www.rei.com/s/50-off-footwear-deals#keen-leiki",
-      "original_price": 170.0,
-      "sale_price": 84.73,
-      "discount_pct": 50
-    },
-    {
-      "title": "LEGO Classic 213-Piece Creative Suitcase Building Kit (10713)",
-      "link": "https://slickdeals.net/f/19977126-10-213-pc-lego-classic-creative-suitcase-building-kit-10713-at-amazon",
-      "original_price": 20.0,
-      "sale_price": 10.0,
-      "discount_pct": 50
-    },
-    {
-      "title": "DEWALT ATOMIC 20V MAX Cordless Brushless Oscillating Multi-Tool Kit (2.0Ah Battery & Charger)",
-      "link": "https://www.bobvila.com/reviews/home-depot-dewalt-oscillating-tool-deal-feb-2026/",
-      "original_price": 219.0,
-      "sale_price": 100.0,
+      "title": "adidas Men's Supernova Rise 3 Running Shoes",
+      "link": "https://www.dickssportinggoods.com/p/adidas-mens-supernova-rise-3-running-shoes-25adiarunnsprnvrs3qiu/25adiarunnsprnvrs3qiu",
+      "original_price": 139.99,
+      "sale_price": 64.97,
       "discount_pct": 54
+    },
+    {
+      "title": "PUMA X Cheetos Suede Lace Up Youth Boys Sneakers",
+      "link": "https://www.ebay.com/itm/406380994334",
+      "original_price": 75.0,
+      "sale_price": 27.95,
+      "discount_pct": 63
+    },
+    {
+      "title": "Bosch GWX10-45PE-RT X-LOCK 4-1/2in Angle Grinder (Refurbished)",
+      "link": "https://tools.woot.com/offers/bosch-gwx10-45pe-rt-x-lock-4-1-2in-angle-grinder",
+      "original_price": 105.0,
+      "sale_price": 50.0,
+      "discount_pct": 52
+    },
+    {
+      "title": "Milwaukee 2460-20 M12 Power Rotary Tool",
+      "link": "https://tools.woot.com/offers/milwaukee-2460-20-power-rotary-tool-3",
+      "original_price": 256.0,
+      "sale_price": 90.0,
+      "discount_pct": 65
+    },
+    {
+      "title": "Milwaukee 2527-20 M12 FUEL 6\" Brushless Pruning Saw",
+      "link": "https://tools.woot.com/offers/milwaukee-2527-20-m12-fuel-6-12v-brushless-saw-1",
+      "original_price": 199.0,
+      "sale_price": 90.0,
+      "discount_pct": 55
+    },
+    {
+      "title": "Minecraft Advent Calendar: Book Collection",
+      "link": "https://www.amazon.com/Minecraft-Advent-Calendar-Collection-illustrated/dp/0008620113",
+      "original_price": 28.99,
+      "sale_price": 12.98,
+      "discount_pct": 55
+    },
+    {
+      "title": "Vondior 102 oz Stainless Steel Airpot Coffee Dispenser w/ Pump",
+      "link": "https://slickdeals.net/f/20024154-102-oz-vondior-stainless-steel-airpot-coffee-dispenser-w-pump-19-99-free-shipping-w-prime-or-on-35",
+      "original_price": 39.99,
+      "sale_price": 19.99,
+      "discount_pct": 50
     }
   ]
 }
