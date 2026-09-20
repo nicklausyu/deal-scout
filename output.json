@@ -1,136 +1,177 @@
 {
-  "date": "2026-09-19",
+  "date": "2026-09-20",
   "steals": [
     {
-      "title": "adidas Women's Swift Run 1.0 Shoes (Beige/Core Black/Cloud White)",
-      "link": "https://www.ebay.com/itm/158299410088",
-      "original_price": 80.0,
-      "sale_price": 19.2,
-      "discount_pct": 76
-    },
-    {
-      "title": "Squishmallows Original 8in Disney's Zootopia 2 Judy Hopps Plush",
-      "link": "https://www.amazon.com/Squishmallows-SQZT00006-Style-Number/dp/B0DK7Y623F",
-      "original_price": 15.99,
-      "sale_price": 4.34,
-      "discount_pct": 73
-    },
-    {
-      "title": "WHAT DO YOU MEME? QU!CK QU!CK QU!CK Party Card Game",
-      "link": "https://www.amazon.com/WHAT-DO-YOU-MEME-Relatable/dp/B0DS6L1RDP",
-      "original_price": 21.99,
-      "sale_price": 4.79,
-      "discount_pct": 78
-    },
-    {
-      "title": "Apple 10.2\" iPad 7th Gen (2019) 32GB Wi-Fi, Certified Refurbished",
-      "link": "https://www.southernsavers.com/woot-deal-refurbished-ipads-as-low-as-89-99",
-      "original_price": 329.99,
-      "sale_price": 89.99,
-      "discount_pct": 73
+      "title": "Fairfield Square Collection Microfiber Easy-Care Solid Sheet Set (Twin)",
+      "link": "https://www.macys.com/shop/product/sunham-microfiber-easy-care-solid-sheet-sets?ID=16867691",
+      "original_price": 36.0,
+      "sale_price": 9.99,
+      "discount_pct": 72
     }
   ],
   "watchlist": {
-    "Walmart": [
+    "home & kitchen": [
       {
-        "title": "Segmart 90-Gallon Outdoor Deck Storage Box",
-        "link": "https://www.walmart.com/ip/Segmart-90-Gallon-Deck-Box-All-Weather-Outdoor-Storage-Box-Patio-Furniture-Cushions-Garden-Tools-Pool-Toys-Lockable-Resin-Storage-Box-Waterproof-Tool/17747518825",
-        "original_price": 130.0,
-        "sale_price": 60.0,
-        "discount_pct": 54
-      },
-      {
-        "title": "Ocest Outdoor Garage and Patio Solar LED Lights (2-Pack)",
-        "link": "https://www.autoblog.com/deals/ocest-outdoor-garage-and-patio-solar-led-lights-walmart-sale-september-2026",
-        "original_price": 54.0,
-        "sale_price": 24.0,
-        "discount_pct": 56
+        "title": "CAROTE 44-Piece Nonstick Cookware Set with Bakeware & Knife Set",
+        "link": "https://www.amazon.com/CAROTE-Nonstick-Cookware-Induction-Bakeware/dp/B0FTTVKMJN",
+        "original_price": 499.99,
+        "sale_price": 199.99,
+        "discount_pct": 60
       }
     ],
-    "outdoors": [
+    "apparel & shoes": [
       {
-        "title": "O'Rageous Men's Howdy Cowboy Hat",
-        "link": "https://www.academy.com/c/academy-clearance/outdoors-clearance--1",
-        "original_price": 29.99,
-        "sale_price": 14.99,
+        "title": "Dr. Scholl's Madison Cloud Platform Slip-On Sneaker",
+        "link": "https://www.dsw.com/product/dr.-scholls-madison-cloud-slip-on-sneaker---womens/593773",
+        "original_price": 80.0,
+        "sale_price": 39.98,
         "discount_pct": 50
+      },
+      {
+        "title": "Cole Haan Grand Crosscourt Winner Sneaker",
+        "link": "https://www.dsw.com/product/cole-haan-grand-crosscourt-winner-sneaker/595689",
+        "original_price": 160.0,
+        "sale_price": 63.98,
+        "discount_pct": 60
+      },
+      {
+        "title": "Men's UCLA Bruins Graphic Hooded Windbreaker Jacket",
+        "link": "https://www.hollisterco.com/shop/us/p/ucla-bruins-graphic-hooded-windbreaker-jacket-59034499",
+        "original_price": 140.0,
+        "sale_price": 54.99,
+        "discount_pct": 61
+      }
+    ],
+    "tools & home improvement": [
+      {
+        "title": "Toro Flex-Force 60V 605-CFM 120-MPH Cordless Leaf Blower",
+        "link": "https://www.lowes.com/pd/Toro-60V-120-MPH-605-CFM-Brushless-Battery-Leaf-Blower-2-5-Ah-Battery-and-Charger-Included/5014812423",
+        "original_price": 299.0,
+        "sale_price": 119.0,
+        "discount_pct": 60
+      },
+      {
+        "title": "CRAFTSMAN 104-Piece 1/4\" & 3/8\" Drive SAE Mechanics Tool Set (CMMT45104)",
+        "link": "https://slickdeals.net/f/19190362-79-98-104-piece-craftsman-1-4-3-8-drive-sae-mechanics-tool-set-at-amazon",
+        "original_price": 164.0,
+        "sale_price": 79.98,
+        "discount_pct": 51
+      }
+    ],
+    "toys & games": [
+      {
+        "title": "Hot Wheels Barbie: The Movie 1956 Corvette Stingray RC Toy Car",
+        "link": "https://slickdeals.net/f/19149916-hot-wheels-barbie-film-1956-corvette-stingray-rc-toy-car-22-free-s-h-w-walmart-or-on-35",
+        "original_price": 55.0,
+        "sale_price": 22.0,
+        "discount_pct": 60
+      },
+      {
+        "title": "Funko Pop! Puzzle: Marvel Doctor Strange",
+        "link": "https://hip2save.com/deals/funko-pop-puzzles/",
+        "original_price": 14.99,
+        "sale_price": 4.99,
+        "discount_pct": 67
+      }
+    ],
+    "Patagonia jacket": [
+      {
+        "title": "Patagonia Men's Re-Tool Fleece Jacket",
+        "link": "https://www.mensjournal.com/shopping/patagonia-re-tool-fleece-jacket-sale-march-2026",
+        "original_price": 199.0,
+        "sale_price": 99.0,
+        "discount_pct": 50
+      }
+    ],
+    "paddleboard": [
+      {
+        "title": "XtremepowerUS Ultimate 10 ft. Aqua PVC Inflatable Stand Up Paddle-Board with SUP Paddle and Essentials",
+        "link": "https://www.homedepot.com/p/XtremepowerUS-Ultimate-10-ft-Aqua-PVC-Inflatable-Stand-Up-Paddle-Board-with-SUP-Paddle-and-Essentials-99260-H1/317830670",
+        "original_price": 454.2,
+        "sale_price": 181.63,
+        "discount_pct": 60
       }
     ],
     "Apple": [
       {
-        "title": "Apple Geek Squad Certified Refurbished Watch Ultra (GPS + Cellular) 49mm Titanium Case (2022)",
-        "link": "https://www.bestbuy.com/site/apple-geek-squad-certified-refurbished-watch-ultra-gps-cellular-49mm-titanium-case-with-blue-gray-trail-loop-m-l-silver/6568471.p?skuId=6568471",
-        "original_price": 799.0,
-        "sale_price": 299.99,
-        "discount_pct": 62
+        "title": "iPhone 15 Pro Max 256GB (Refurbished, Unlocked)",
+        "link": "https://www.backmarket.com/en-us/p/iphone-15-pro-max",
+        "original_price": 1199.0,
+        "sale_price": 599.0,
+        "discount_pct": 50
+      }
+    ],
+    "outdoors": [
+      {
+        "title": "Coleman Skydome XL Family Camping Tent",
+        "link": "https://www.tomsguide.com/home/outdoors/25-fall-camping-and-hiking-deals-from-coleman-patagonia-yeti-and-more-save-up-to-50-percent-now",
+        "original_price": 399.0,
+        "sale_price": 199.0,
+        "discount_pct": 50
+      }
+    ],
+    "REI": [
+      {
+        "title": "Stance Feeling Pickled Midweight Polyester Snow Socks",
+        "link": "https://www.rei.com/product/C00631/stance-feeling-pickled-midweight-polyester-snow-socks",
+        "original_price": 21.99,
+        "sale_price": 10.87,
+        "discount_pct": 51
+      }
+    ],
+    "outdoor shed": [
+      {
+        "title": "Lofka Wooden Outdoor Storage Shed (5.3ft x 4.6ft)",
+        "link": "https://www.thestreet.com/deals/lofka-outdoor-wooden-storage-shed-walmart-sale-mp-september-2026",
+        "original_price": 220.0,
+        "sale_price": 110.0,
+        "discount_pct": 50
       }
     ]
   },
   "electronics": [
     {
+      "title": "Lenovo 14-Inch Touchscreen Chromebook (Abyss Blue)",
+      "link": "https://gizmodo.com/lenovo-14-inch-chromebook-laptop-gets-nearly-70-off-in-a-clearance-move-now-priced-like-a-budget-tablet-2000803675",
+      "original_price": 929.0,
+      "sale_price": 300.0,
+      "discount_pct": 68
+    },
+    {
       "title": "Sony WH-1000XM5 Wireless Noise Canceling Headphones",
-      "link": "https://www.amazon.com/Sony-WH-1000XM5-Canceling-Headphones-Hands-Free/dp/B09XS7JWHH",
+      "link": "https://www.techradar.com/audio/wireless-headphones/sony-wh-1000xm5-tumble-to-record-low-price-at-amazon-heres-why-our-experts-recommend-these-class-leading-headphones",
       "original_price": 399.99,
       "sale_price": 198.0,
       "discount_pct": 50
     },
     {
-      "title": "Samsung Odyssey Neo G7 43\" Mini LED 4K UHD Gaming Monitor",
-      "link": "https://www.bestbuy.com/site/samsung-odyssey-neo-g7-43-mini-4k-uhd-1ms-amd-freesync-premium-pro-smart-gaming-monitor-with-hdr600-displayport-hdmi-black/6529218.p?skuId=6529218",
-      "original_price": 999.99,
-      "sale_price": 499.99,
+      "title": "JBL Live 660NC Wireless Over-Ear Noise Cancelling Headphones",
+      "link": "https://www.sfgate.com/shopping/article/jbl-live-660nc-amazon-deal-18433628.php",
+      "original_price": 199.95,
+      "sale_price": 99.95,
       "discount_pct": 50
+    },
+    {
+      "title": "Beats Studio Pro Wireless Noise Cancelling Headphones",
+      "link": "https://gizmodo.com/beats-studio-pro-is-51-off-on-amazon-now-costing-almost-nothing-next-to-airpods-max-as-apples-cheapest-headphones-2000813687",
+      "original_price": 349.99,
+      "sale_price": 169.95,
+      "discount_pct": 51
+    },
+    {
+      "title": "LG 77-Inch Class B5 Series OLED AI 4K UHD Smart TV (2025)",
+      "link": "https://www.androidcentral.com/streaming-tv/this-77-inch-lg-oled-tv-just-scored-50-percent-off-at-best-buy-marking-usd1-500-in-savings",
+      "original_price": 2999.99,
+      "sale_price": 1499.99,
+      "discount_pct": 50
+    },
+    {
+      "title": "TCL 65-Inch Class QM8K Series QD-Mini LED 4K Google TV (2025)",
+      "link": "https://www.techradar.com/seasonal-sales/the-tcl-qm8k-is-one-of-the-best-mini-led-tvs-weve-ever-tested-and-its-just-crashed-to-a-record-low-price-at-best-buy",
+      "original_price": 2499.99,
+      "sale_price": 999.99,
+      "discount_pct": 60
     }
   ],
-  "general": [
-    {
-      "title": "adidas Men's Supernova Rise 3 Running Shoes",
-      "link": "https://www.dickssportinggoods.com/p/adidas-mens-supernova-rise-3-running-shoes-25adiarunnsprnvrs3qiu/25adiarunnsprnvrs3qiu",
-      "original_price": 139.99,
-      "sale_price": 64.97,
-      "discount_pct": 54
-    },
-    {
-      "title": "PUMA X Cheetos Suede Lace Up Youth Boys Sneakers",
-      "link": "https://www.ebay.com/itm/406380994334",
-      "original_price": 75.0,
-      "sale_price": 27.95,
-      "discount_pct": 63
-    },
-    {
-      "title": "Bosch GWX10-45PE-RT X-LOCK 4-1/2in Angle Grinder (Refurbished)",
-      "link": "https://tools.woot.com/offers/bosch-gwx10-45pe-rt-x-lock-4-1-2in-angle-grinder",
-      "original_price": 105.0,
-      "sale_price": 50.0,
-      "discount_pct": 52
-    },
-    {
-      "title": "Milwaukee 2460-20 M12 Power Rotary Tool",
-      "link": "https://tools.woot.com/offers/milwaukee-2460-20-power-rotary-tool-3",
-      "original_price": 256.0,
-      "sale_price": 90.0,
-      "discount_pct": 65
-    },
-    {
-      "title": "Milwaukee 2527-20 M12 FUEL 6\" Brushless Pruning Saw",
-      "link": "https://tools.woot.com/offers/milwaukee-2527-20-m12-fuel-6-12v-brushless-saw-1",
-      "original_price": 199.0,
-      "sale_price": 90.0,
-      "discount_pct": 55
-    },
-    {
-      "title": "Minecraft Advent Calendar: Book Collection",
-      "link": "https://www.amazon.com/Minecraft-Advent-Calendar-Collection-illustrated/dp/0008620113",
-      "original_price": 28.99,
-      "sale_price": 12.98,
-      "discount_pct": 55
-    },
-    {
-      "title": "Vondior 102 oz Stainless Steel Airpot Coffee Dispenser w/ Pump",
-      "link": "https://slickdeals.net/f/20024154-102-oz-vondior-stainless-steel-airpot-coffee-dispenser-w-pump-19-99-free-shipping-w-prime-or-on-35",
-      "original_price": 39.99,
-      "sale_price": 19.99,
-      "discount_pct": 50
-    }
-  ]
+  "general": []
 }
