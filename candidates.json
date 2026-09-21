@@ -1,37 +1,117 @@
 {
-  "date": "2026-09-20",
+  "date": "2026-09-21",
   "items": [
-    {"title": "CAROTE 44-Piece Nonstick Cookware Set with Bakeware & Knife Set", "link": "https://www.amazon.com/CAROTE-Nonstick-Cookware-Induction-Bakeware/dp/B0FTTVKMJN", "original_price": 499.99, "sale_price": 199.99, "category": "home & kitchen"},
-    {"title": "Fairfield Square Collection Microfiber Easy-Care Solid Sheet Set (Twin)", "link": "https://www.macys.com/shop/product/sunham-microfiber-easy-care-solid-sheet-sets?ID=16867691", "original_price": 36.00, "sale_price": 9.99, "category": "home & kitchen"},
-    {"title": "Dr. Scholl's Madison Cloud Platform Slip-On Sneaker", "link": "https://www.dsw.com/product/dr.-scholls-madison-cloud-slip-on-sneaker---womens/593773", "original_price": 80.00, "sale_price": 39.98, "category": "apparel & shoes"},
-    {"title": "Cole Haan Grand Crosscourt Winner Sneaker", "link": "https://www.dsw.com/product/cole-haan-grand-crosscourt-winner-sneaker/595689", "original_price": 160.00, "sale_price": 63.98, "category": "apparel & shoes"},
-    {"title": "Men's UCLA Bruins Graphic Hooded Windbreaker Jacket", "link": "https://www.hollisterco.com/shop/us/p/ucla-bruins-graphic-hooded-windbreaker-jacket-59034499", "original_price": 140.00, "sale_price": 54.99, "category": "apparel & shoes"},
-    {"title": "Toro Flex-Force 60V 605-CFM 120-MPH Cordless Leaf Blower", "link": "https://www.lowes.com/pd/Toro-60V-120-MPH-605-CFM-Brushless-Battery-Leaf-Blower-2-5-Ah-Battery-and-Charger-Included/5014812423", "original_price": 299.00, "sale_price": 119.00, "category": "tools & home improvement"},
-    {"title": "CRAFTSMAN 104-Piece 1/4\" & 3/8\" Drive SAE Mechanics Tool Set (CMMT45104)", "link": "https://slickdeals.net/f/19190362-79-98-104-piece-craftsman-1-4-3-8-drive-sae-mechanics-tool-set-at-amazon", "original_price": 164.00, "sale_price": 79.98, "category": "tools & home improvement"},
-    {"title": "Hot Wheels Barbie: The Movie 1956 Corvette Stingray RC Toy Car", "link": "https://slickdeals.net/f/19149916-hot-wheels-barbie-film-1956-corvette-stingray-rc-toy-car-22-free-s-h-w-walmart-or-on-35", "original_price": 55.00, "sale_price": 22.00, "category": "toys & games"},
-    {"title": "Funko Pop! Puzzle: Marvel Doctor Strange", "link": "https://hip2save.com/deals/funko-pop-puzzles/", "original_price": 14.99, "sale_price": 4.99, "category": "toys & games"},
-
-    {"title": "Lenovo 14-Inch Touchscreen Chromebook (Abyss Blue)", "link": "https://gizmodo.com/lenovo-14-inch-chromebook-laptop-gets-nearly-70-off-in-a-clearance-move-now-priced-like-a-budget-tablet-2000803675", "original_price": 929, "sale_price": 300, "category": "electronics"},
-    {"title": "Sony WH-1000XM5 Wireless Noise Canceling Headphones", "link": "https://www.techradar.com/audio/wireless-headphones/sony-wh-1000xm5-tumble-to-record-low-price-at-amazon-heres-why-our-experts-recommend-these-class-leading-headphones", "original_price": 399.99, "sale_price": 198, "category": "electronics"},
-    {"title": "JBL Live 660NC Wireless Over-Ear Noise Cancelling Headphones", "link": "https://www.sfgate.com/shopping/article/jbl-live-660nc-amazon-deal-18433628.php", "original_price": 199.95, "sale_price": 99.95, "category": "electronics"},
-    {"title": "Beats Studio Pro Wireless Noise Cancelling Headphones", "link": "https://gizmodo.com/beats-studio-pro-is-51-off-on-amazon-now-costing-almost-nothing-next-to-airpods-max-as-apples-cheapest-headphones-2000813687", "original_price": 349.99, "sale_price": 169.95, "category": "electronics"},
-    {"title": "Verbatim Pocket 1TB Portable SSD (USB-C)", "link": "https://9to5toys.com/2026/09/02/this-keychain-sized-1tb-ssd-just-plunged-140-all-time-low-for-labor-day/", "original_price": 300, "sale_price": 139.99, "category": "electronics"},
-    {"title": "LG 77-Inch Class B5 Series OLED AI 4K UHD Smart TV (2025)", "link": "https://www.androidcentral.com/streaming-tv/this-77-inch-lg-oled-tv-just-scored-50-percent-off-at-best-buy-marking-usd1-500-in-savings", "original_price": 2999.99, "sale_price": 1499.99, "category": "electronics"},
-    {"title": "TCL 65-Inch Class QM8K Series QD-Mini LED 4K Google TV (2025)", "link": "https://www.techradar.com/seasonal-sales/the-tcl-qm8k-is-one-of-the-best-mini-led-tvs-weve-ever-tested-and-its-just-crashed-to-a-record-low-price-at-best-buy", "original_price": 2499.99, "sale_price": 999.99, "category": "electronics"},
-
-    {"title": "Patagonia Men's Re-Tool Fleece Jacket", "link": "https://www.mensjournal.com/shopping/patagonia-re-tool-fleece-jacket-sale-march-2026", "original_price": 199, "sale_price": 99, "category": "Patagonia jacket"},
-    {"title": "Patagonia Diamond Quilted Bomber Hoody", "link": "https://www.mensjournal.com/shopping/patagonia-diamond-quilted-bomber-hoody-jacket-sale-september-2026", "original_price": 199, "sale_price": 99, "category": "Patagonia jacket"},
-    {"title": "Patagonia Nano-Air Ultralight Insulated Pullover", "link": "https://www.mensjournal.com/shopping/patagonia-nano-air-ultralight-insulated-pullover-rei-sale-september-2026", "original_price": 199, "sale_price": 99, "category": "Patagonia jacket"},
-    {"title": "Kayaks at Dick's Sporting Goods (select styles)", "link": "https://hip2save.com/deals/kayaks-dicks-sporting-goods/", "original_price": 229.99, "sale_price": 114.99, "category": "kayak"},
-    {"title": "XtremepowerUS Ultimate 10 ft. Aqua PVC Inflatable Stand Up Paddle-Board with SUP Paddle and Essentials", "link": "https://www.homedepot.com/p/XtremepowerUS-Ultimate-10-ft-Aqua-PVC-Inflatable-Stand-Up-Paddle-Board-with-SUP-Paddle-and-Essentials-99260-H1/317830670", "original_price": 454.20, "sale_price": 181.63, "category": "paddleboard"},
-    {"title": "iPhone 15 Pro Max 256GB (Refurbished, Unlocked)", "link": "https://www.backmarket.com/en-us/p/iphone-15-pro-max", "original_price": 1199, "sale_price": 599, "category": "Apple"},
-
-    {"title": "Asofer 8-Piece Patio Furniture Set", "link": "https://www.mensjournal.com/shopping/asofer-8-pc-patio-furniture-set-mp-walmart-sale-september-2026", "original_price": 700, "sale_price": 190, "category": "Walmart"},
-    {"title": "Pflueger Trion Spinning Reel (Size 20, 30, or 35)", "link": "https://www.dickssportinggoods.com/p/pflueger-trion-spinning-reel-25pflufishtrn35spncbo/25pflufishtrn35spncbo", "original_price": 59.99, "sale_price": 29.99, "category": "fishing"},
-    {"title": "Coleman Skydome XL Family Camping Tent", "link": "https://www.tomsguide.com/home/outdoors/25-fall-camping-and-hiking-deals-from-coleman-patagonia-yeti-and-more-save-up-to-50-percent-now", "original_price": 399, "sale_price": 199, "category": "outdoors"},
-    {"title": "REI Co-op Campwell 6 Tent", "link": "https://www.rei.com/product/243613/rei-co-op-campwell-6-tent", "original_price": 329.00, "sale_price": 163.83, "category": "REI"},
-    {"title": "Stance Feeling Pickled Midweight Polyester Snow Socks", "link": "https://www.rei.com/product/C00631/stance-feeling-pickled-midweight-polyester-snow-socks", "original_price": 21.99, "sale_price": 10.87, "category": "REI"},
-    {"title": "Lofka Wooden Outdoor Storage Shed (5.3ft x 4.6ft)", "link": "https://www.thestreet.com/deals/lofka-outdoor-wooden-storage-shed-walmart-sale-mp-september-2026", "original_price": 220, "sale_price": 110, "category": "outdoor shed"},
-    {"title": "Pabima 8-Foot by 8-Foot Outdoor Storage Shed", "link": "https://www.autoblog.com/deals/pabima-8-foot-by-8-foot-outdoor-storage-shed-walmart-sale", "original_price": 520, "sale_price": 260, "category": "outdoor shed"}
+    {
+      "title": "Cotopaxi Teca Calido Hooded Insulated Jacket",
+      "link": "https://www.tomsguide.com/wellness/fitness/rei-jacket-sale-save-up-to-50-off-outerwear-from-columbia-cotopaxi-and-more",
+      "original_price": 150,
+      "sale_price": 74,
+      "category": "general"
+    },
+    {
+      "title": "La Sportiva Hiking Boots (Men's/Women's, select styles)",
+      "link": "https://www.backcountry.com/rc/la-sportiva-on-sale",
+      "original_price": 189,
+      "sale_price": 94.5,
+      "category": "general"
+    },
+    {
+      "title": "adidas Men's Samba OG Shoes (White/Green/Gum)",
+      "link": "https://slickdeals.net/f/19010773-adidas-men-s-samba-og-shoes-white-green-gum-46-97-free-shipping-on-49",
+      "original_price": 99.99,
+      "sale_price": 46.97,
+      "category": "general"
+    },
+    {
+      "title": "Kobalt 24V Max 1/2-in Brushless Cordless Drill (Battery & Charger Included)",
+      "link": "https://www.lowes.com/pd/Kobalt-24-Volt-Max-1-2-in-Brushless-Cordless-Drill-Charger-Included/1000604919",
+      "original_price": 159,
+      "sale_price": 79,
+      "category": "general"
+    },
+    {
+      "title": "Dash Stacks 8-Piece Stacking Cookware Set with Electric Burner",
+      "link": "https://www.southernsavers.com/woot-kitchen-sale-cookware-bakeware-more",
+      "original_price": 119.99,
+      "sale_price": 59.99,
+      "category": "general"
+    },
+    {
+      "title": "Bunch O Balloons Reusable Animal Printed Water Balloons, 8pc",
+      "link": "https://www.target.com/p/bunch-o-balloons-reusable-animal-printed-water-balloons-toys-8pc/-/A-94748584",
+      "original_price": 19.99,
+      "sale_price": 9.99,
+      "category": "general"
+    },
+    {
+      "title": "Bluey Siblings Interactive Plush - 2pk",
+      "link": "https://www.target.com/p/bluey-siblings-feature-plush-2pk/-/A-93585024",
+      "original_price": 49.99,
+      "sale_price": 24.99,
+      "category": "general"
+    },
+    {
+      "title": "LG 77\" Class B5 Series OLED AI 4K UHD Smart webOS TV (2025)",
+      "link": "https://www.bestbuy.com/product/lg-77-class-b5-series-oled-ai-4k-uhd-smart-webos-tv-2025/JJ8VPZTKZW",
+      "original_price": 2999.99,
+      "sale_price": 1499.99,
+      "category": "electronics"
+    },
+    {
+      "title": "Monoprice BT-600ANC Bluetooth Over Ear Headphones with Active Noise Cancelling",
+      "link": "https://www.monoprice.com/pages/overstock_moredeals",
+      "original_price": 119.99,
+      "sale_price": 49.99,
+      "category": "electronics"
+    },
+    {
+      "title": "Patagonia Men's Nano Puff Insulated Jacket",
+      "link": "https://www.rei.com/product/249151/patagonia-nano-puff-insulated-jacket-mens",
+      "original_price": 229.0,
+      "sale_price": 113.83,
+      "category": "Patagonia jacket"
+    },
+    {
+      "title": "Apple Watch Series 9 (GPS + Cellular, Stainless Steel, New/Brown Box)",
+      "link": "https://sellout.woot.com/offers/new-apple-watch-series-9-gps-cellular-smartwatch-brown-box-4",
+      "original_price": 699.0,
+      "sale_price": 249.0,
+      "category": "Apple"
+    },
+    {
+      "title": "DAYBETTER Outdoor String Lights, 100ft, with 50 G40 Edison Vintage Bulbs, Waterproof",
+      "link": "https://www.walmart.com/ip/DAYBETTER-Outdoor-String-Lights-100ft-with-50-G40-Edison-Vintage-Bulbs-Waterproof-for-Patio-Garden-Gazebo-Bistro-Cafe-Backyard/689619949",
+      "original_price": 60,
+      "sale_price": 27,
+      "category": "Walmart"
+    },
+    {
+      "title": "Costway Foldable Picnic Table Bench Set with Extension, White",
+      "link": "https://www.walmart.com/ip/Costway-Foldable-Picnic-Table-Bench-Set-Outdoor-Camping-for-Patio-Backyard-White/409718686",
+      "original_price": 339.0,
+      "sale_price": 159.99,
+      "category": "Walmart"
+    },
+    {
+      "title": "Saucony x REI Co-op Peregrine Packaway Jacket (Men's)",
+      "link": "https://www.rei.com/product/229546/saucony-x-rei-co-op-peregrine-packaway-jacket-mens",
+      "original_price": 125,
+      "sale_price": 61,
+      "category": "REI"
+    },
+    {
+      "title": "Red Shed Hanford 47 in. 2-Seater Wicker Loveseat Sofa with Cushions",
+      "link": "https://www.tractorsupply.com/tsc/product/red-shed-47-in-2-seater-wicker-loveseat-sofa-with-cushions",
+      "original_price": 299.99,
+      "sale_price": 149.99,
+      "category": "outdoors"
+    },
+    {
+      "title": "Asofer 5 ft. W x 3 ft. D Metal Vertical Storage Shed (Brown)",
+      "link": "https://www.wayfair.com/storage-organization/pdp/asofer-5-ft-w-x-3-ft-d-metal-vertical-storage-shed-aofb1023.html",
+      "original_price": 400,
+      "sale_price": 116,
+      "category": "outdoor shed"
+    }
   ]
 }
