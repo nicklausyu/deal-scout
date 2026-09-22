@@ -1,117 +1,30 @@
 {
-  "date": "2026-09-21",
+  "date": "2026-09-22",
   "items": [
-    {
-      "title": "Cotopaxi Teca Calido Hooded Insulated Jacket",
-      "link": "https://www.tomsguide.com/wellness/fitness/rei-jacket-sale-save-up-to-50-off-outerwear-from-columbia-cotopaxi-and-more",
-      "original_price": 150,
-      "sale_price": 74,
-      "category": "general"
-    },
-    {
-      "title": "La Sportiva Hiking Boots (Men's/Women's, select styles)",
-      "link": "https://www.backcountry.com/rc/la-sportiva-on-sale",
-      "original_price": 189,
-      "sale_price": 94.5,
-      "category": "general"
-    },
-    {
-      "title": "adidas Men's Samba OG Shoes (White/Green/Gum)",
-      "link": "https://slickdeals.net/f/19010773-adidas-men-s-samba-og-shoes-white-green-gum-46-97-free-shipping-on-49",
-      "original_price": 99.99,
-      "sale_price": 46.97,
-      "category": "general"
-    },
-    {
-      "title": "Kobalt 24V Max 1/2-in Brushless Cordless Drill (Battery & Charger Included)",
-      "link": "https://www.lowes.com/pd/Kobalt-24-Volt-Max-1-2-in-Brushless-Cordless-Drill-Charger-Included/1000604919",
-      "original_price": 159,
-      "sale_price": 79,
-      "category": "general"
-    },
-    {
-      "title": "Dash Stacks 8-Piece Stacking Cookware Set with Electric Burner",
-      "link": "https://www.southernsavers.com/woot-kitchen-sale-cookware-bakeware-more",
-      "original_price": 119.99,
-      "sale_price": 59.99,
-      "category": "general"
-    },
-    {
-      "title": "Bunch O Balloons Reusable Animal Printed Water Balloons, 8pc",
-      "link": "https://www.target.com/p/bunch-o-balloons-reusable-animal-printed-water-balloons-toys-8pc/-/A-94748584",
-      "original_price": 19.99,
-      "sale_price": 9.99,
-      "category": "general"
-    },
-    {
-      "title": "Bluey Siblings Interactive Plush - 2pk",
-      "link": "https://www.target.com/p/bluey-siblings-feature-plush-2pk/-/A-93585024",
-      "original_price": 49.99,
-      "sale_price": 24.99,
-      "category": "general"
-    },
-    {
-      "title": "LG 77\" Class B5 Series OLED AI 4K UHD Smart webOS TV (2025)",
-      "link": "https://www.bestbuy.com/product/lg-77-class-b5-series-oled-ai-4k-uhd-smart-webos-tv-2025/JJ8VPZTKZW",
-      "original_price": 2999.99,
-      "sale_price": 1499.99,
-      "category": "electronics"
-    },
-    {
-      "title": "Monoprice BT-600ANC Bluetooth Over Ear Headphones with Active Noise Cancelling",
-      "link": "https://www.monoprice.com/pages/overstock_moredeals",
-      "original_price": 119.99,
-      "sale_price": 49.99,
-      "category": "electronics"
-    },
-    {
-      "title": "Patagonia Men's Nano Puff Insulated Jacket",
-      "link": "https://www.rei.com/product/249151/patagonia-nano-puff-insulated-jacket-mens",
-      "original_price": 229.0,
-      "sale_price": 113.83,
-      "category": "Patagonia jacket"
-    },
-    {
-      "title": "Apple Watch Series 9 (GPS + Cellular, Stainless Steel, New/Brown Box)",
-      "link": "https://sellout.woot.com/offers/new-apple-watch-series-9-gps-cellular-smartwatch-brown-box-4",
-      "original_price": 699.0,
-      "sale_price": 249.0,
-      "category": "Apple"
-    },
-    {
-      "title": "DAYBETTER Outdoor String Lights, 100ft, with 50 G40 Edison Vintage Bulbs, Waterproof",
-      "link": "https://www.walmart.com/ip/DAYBETTER-Outdoor-String-Lights-100ft-with-50-G40-Edison-Vintage-Bulbs-Waterproof-for-Patio-Garden-Gazebo-Bistro-Cafe-Backyard/689619949",
-      "original_price": 60,
-      "sale_price": 27,
-      "category": "Walmart"
-    },
-    {
-      "title": "Costway Foldable Picnic Table Bench Set with Extension, White",
-      "link": "https://www.walmart.com/ip/Costway-Foldable-Picnic-Table-Bench-Set-Outdoor-Camping-for-Patio-Backyard-White/409718686",
-      "original_price": 339.0,
-      "sale_price": 159.99,
-      "category": "Walmart"
-    },
-    {
-      "title": "Saucony x REI Co-op Peregrine Packaway Jacket (Men's)",
-      "link": "https://www.rei.com/product/229546/saucony-x-rei-co-op-peregrine-packaway-jacket-mens",
-      "original_price": 125,
-      "sale_price": 61,
-      "category": "REI"
-    },
-    {
-      "title": "Red Shed Hanford 47 in. 2-Seater Wicker Loveseat Sofa with Cushions",
-      "link": "https://www.tractorsupply.com/tsc/product/red-shed-47-in-2-seater-wicker-loveseat-sofa-with-cushions",
-      "original_price": 299.99,
-      "sale_price": 149.99,
-      "category": "outdoors"
-    },
-    {
-      "title": "Asofer 5 ft. W x 3 ft. D Metal Vertical Storage Shed (Brown)",
-      "link": "https://www.wayfair.com/storage-organization/pdp/asofer-5-ft-w-x-3-ft-d-metal-vertical-storage-shed-aofb1023.html",
-      "original_price": 400,
-      "sale_price": 116,
-      "category": "outdoor shed"
-    }
+    {"title": "Ophanie Queen Air Mattress with Built-in Pump", "link": "https://parade.com/shopping/walmart-ophanie-air-mattress-sale", "original_price": 120, "sale_price": 60, "category": "Walmart"},
+    {"title": "Lew's Team Pro Ti Speed Stick Spinning Rod", "link": "https://www.tacklewarehouse.com/Lews_Team_Pro_Ti_Speed_Stick_Spinning_Rods/descpage-LTIS.html", "original_price": 299.99, "sale_price": 149.97, "category": "fishing"},
+    {"title": "Eddie Bauer Men's Radiator Fleece 1/4-Zip Pullover", "link": "https://www.eddiebauer.com/products/mens-radiator-fleece-14-zip-13502138", "original_price": 75.00, "sale_price": 29.97, "category": "outdoors"},
+    {"title": "Columbia PFG Uncharted Neps Shirt", "link": "https://www.tomsguide.com/wellness/fitness/reis-sale-section-just-restocked-with-deals-under-usd50-heres-everything-worth-shopping-ahead-of-fall", "original_price": 55, "sale_price": 26, "category": "REI"},
+    {"title": "Clouddwell 10-Foot by 8-Foot Outdoor Storage Shed", "link": "https://www.dealnews.com/Clouddwell-10-x-8-Foot-Storage-Shed-for-300-39-99-shipping/21824367.html", "original_price": 600, "sale_price": 300, "category": "outdoor shed"},
+
+    {"title": "Instant Pot Duo Plus 9-in-1 Multicooker, Stainless Steel, 6 Quart", "link": "https://www.amazon.com/Instant-Pot-Plus-60-Programmable/dp/B01NBKTPTS", "original_price": 139.99, "sale_price": 69.99, "category": "general"},
+    {"title": "Sampson 84 in. Genuine Leather Square Arms 3-Seat Sofa", "link": "https://www.homedepot.com/p/Sampson-84-in-Genuine-Leather-Square-Arms-3-Seat-Sofa-in-Whisky-Brown-with-Sturdy-Wood-Legs-and-Nailhead-Trim-SS-BROWN-1/339337020", "original_price": 2059, "sale_price": 969, "category": "general"},
+    {"title": "Homsee 84 in. Dining Table (Seats 6) with Solid Oak Legs", "link": "https://www.homedepot.com/p/Homsee-Modern-Black-Engineered-Wood-84-in-4-Leg-Base-Dining-Table-Seats-6-with-Solid-Oak-Legs-Z-HS590043-01/341338497", "original_price": 1799.99, "sale_price": 720, "category": "general"},
+    {"title": "adidas Gazelle Indoor Shoes (Women's), Outlet", "link": "https://www.ebay.com/shop/adidas-gazelle-indoor", "original_price": 130, "sale_price": 61, "category": "general"},
+    {"title": "LEGO DUPLO My First 3-in-1 Creative Cute Pets, Set 10477", "link": "https://www.walmart.com/ip/LEGO-DUPLO-My-First-10477/17067319822", "original_price": 20, "sale_price": 5, "category": "general"},
+    {"title": "RYOBI ONE+ 18V Lithium-Ion Starter Kit with 2.0 Ah Battery, 4.0 Ah Battery, and Charger (PSK106SB)", "link": "https://www.homedepot.com/p/RYOBI-ONE-18V-Lithium-Ion-Starter-Kit-with-2-0-Ah-Battery-4-0-Ah-Battery-and-Charger-PSK106SB/327848851", "original_price": 204, "sale_price": 80, "category": "general"},
+
+    {"title": "Acer Aspire 3 15.6\" Laptop AMD Ryzen 5 7520 16GB RAM 1TB SSD (Refurbished)", "link": "https://www.ebay.com/itm/266889342994", "original_price": 500, "sale_price": 244, "category": "electronics"},
+    {"title": "Sony WH-1000XM5 Wireless Noise Canceling Headphones", "link": "https://www.amazon.com/Sony-WH-1000XM5-Canceling-Headphones-Hands-Free/dp/B09XS7JWHH", "original_price": 399.99, "sale_price": 198, "category": "electronics"},
+    {"title": "Verbatim 1TB Pocket SSD, USB-C, USB 3.2 Gen 2", "link": "https://www.amazon.com/Verbatim-Pocket-External-Portable-Console/dp/B0DHH81K13", "original_price": 299.99, "sale_price": 149.99, "category": "electronics"},
+    {"title": "Insignia 43\" Class F50 Series LED 4K UHD Smart Fire TV (NS-43F501NA26)", "link": "https://www.bestbuy.com/product/insignia-43-class-f50-series-led-4k-uhd-smart-fire-tv/J2FPJK9F8G", "original_price": 199.99, "sale_price": 99.99, "category": "electronics"},
+    {"title": "Samsung 27\" Odyssey G4 FHD IPS 240Hz G-Sync Gaming Monitor (LS27BG402ENXGO)", "link": "https://www.bestbuy.com/product/samsung-27-odyssey-fhd-ips-240hz-g-sync-gaming-monitor-black/J3ZYG23WJ2", "original_price": 300, "sale_price": 149.99, "category": "electronics"},
+
+    {"title": "Patagonia Men's Nano Puff Jacket", "link": "https://www.patagonia.com/product/mens-nano-puff-insulated-jacket/84212.html", "original_price": 229, "sale_price": 113.99, "category": "Patagonia jacket"},
+    {"title": "Patagonia Lightweight Waxed Cotton Jacket", "link": "https://www.patagonia.com/product/lightweight-waxed-cotton-jacket/26835.html", "original_price": 369, "sale_price": 183.99, "category": "Patagonia jacket"},
+    {"title": "Quest Passage 100 Kayak", "link": "https://www.dickssportinggoods.com/p/quest-passage-100-kayak-24queupssg100kykxpsk/24queupssg100kykxpsk", "original_price": 400, "sale_price": 199.98, "category": "kayak"},
+    {"title": "Bestway Hydro-Force 1-Person Ventura Elite Inflatable Kayak Set", "link": "https://sport.woot.com/offers/bestway-hydro-force-1-person-inflatable-kayak-set-6", "original_price": 259.99, "sale_price": 69.99, "category": "kayak"},
+    {"title": "iPhone 15 (Refurbished)", "link": "https://www.backmarket.com/en-us/p/iphone-15", "original_price": 699, "sale_price": 336, "category": "Apple"},
+    {"title": "GoPro HERO11 Black Action Camera", "link": "https://slickdeals.net/f/18320497-gopro-hero11-action-camera-black-target-149-99-ymmv-in-store-only", "original_price": 300, "sale_price": 149.99, "category": "action camera"}
   ]
 }

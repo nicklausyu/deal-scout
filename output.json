@@ -1,54 +1,72 @@
 {
-  "date": "2026-09-21",
+  "date": "2026-09-22",
   "steals": [
     {
-      "title": "Asofer 5 ft. W x 3 ft. D Metal Vertical Storage Shed (Brown)",
-      "link": "https://www.wayfair.com/storage-organization/pdp/asofer-5-ft-w-x-3-ft-d-metal-vertical-storage-shed-aofb1023.html",
-      "original_price": 400.0,
-      "sale_price": 116.0,
-      "discount_pct": 71
+      "title": "LEGO DUPLO My First 3-in-1 Creative Cute Pets, Set 10477",
+      "link": "https://www.walmart.com/ip/LEGO-DUPLO-My-First-10477/17067319822",
+      "original_price": 20.0,
+      "sale_price": 5.0,
+      "discount_pct": 75
+    },
+    {
+      "title": "Bestway Hydro-Force 1-Person Ventura Elite Inflatable Kayak Set",
+      "link": "https://sport.woot.com/offers/bestway-hydro-force-1-person-inflatable-kayak-set-6",
+      "original_price": 259.99,
+      "sale_price": 69.99,
+      "discount_pct": 73
     }
   ],
   "watchlist": {
-    "Apple": [
-      {
-        "title": "Apple Watch Series 9 (GPS + Cellular, Stainless Steel, New/Brown Box)",
-        "link": "https://sellout.woot.com/offers/new-apple-watch-series-9-gps-cellular-smartwatch-brown-box-4",
-        "original_price": 699.0,
-        "sale_price": 249.0,
-        "discount_pct": 64
-      }
-    ],
     "Walmart": [
       {
-        "title": "DAYBETTER Outdoor String Lights, 100ft, with 50 G40 Edison Vintage Bulbs, Waterproof",
-        "link": "https://www.walmart.com/ip/DAYBETTER-Outdoor-String-Lights-100ft-with-50-G40-Edison-Vintage-Bulbs-Waterproof-for-Patio-Garden-Gazebo-Bistro-Cafe-Backyard/689619949",
-        "original_price": 60.0,
-        "sale_price": 27.0,
-        "discount_pct": 55
-      },
-      {
-        "title": "Costway Foldable Picnic Table Bench Set with Extension, White",
-        "link": "https://www.walmart.com/ip/Costway-Foldable-Picnic-Table-Bench-Set-Outdoor-Camping-for-Patio-Backyard-White/409718686",
-        "original_price": 339.0,
-        "sale_price": 159.99,
-        "discount_pct": 53
+        "title": "Ophanie Queen Air Mattress with Built-in Pump",
+        "link": "https://parade.com/shopping/walmart-ophanie-air-mattress-sale",
+        "original_price": 120.0,
+        "sale_price": 60.0,
+        "discount_pct": 50
       }
     ],
-    "REI": [
+    "fishing": [
       {
-        "title": "Saucony x REI Co-op Peregrine Packaway Jacket (Men's)",
-        "link": "https://www.rei.com/product/229546/saucony-x-rei-co-op-peregrine-packaway-jacket-mens",
-        "original_price": 125.0,
-        "sale_price": 61.0,
-        "discount_pct": 51
+        "title": "Lew's Team Pro Ti Speed Stick Spinning Rod",
+        "link": "https://www.tacklewarehouse.com/Lews_Team_Pro_Ti_Speed_Stick_Spinning_Rods/descpage-LTIS.html",
+        "original_price": 299.99,
+        "sale_price": 149.97,
+        "discount_pct": 50
       }
     ],
     "outdoors": [
       {
-        "title": "Red Shed Hanford 47 in. 2-Seater Wicker Loveseat Sofa with Cushions",
-        "link": "https://www.tractorsupply.com/tsc/product/red-shed-47-in-2-seater-wicker-loveseat-sofa-with-cushions",
-        "original_price": 299.99,
+        "title": "Eddie Bauer Men's Radiator Fleece 1/4-Zip Pullover",
+        "link": "https://www.eddiebauer.com/products/mens-radiator-fleece-14-zip-13502138",
+        "original_price": 75.0,
+        "sale_price": 29.97,
+        "discount_pct": 60
+      }
+    ],
+    "REI": [
+      {
+        "title": "Columbia PFG Uncharted Neps Shirt",
+        "link": "https://www.tomsguide.com/wellness/fitness/reis-sale-section-just-restocked-with-deals-under-usd50-heres-everything-worth-shopping-ahead-of-fall",
+        "original_price": 55.0,
+        "sale_price": 26.0,
+        "discount_pct": 53
+      }
+    ],
+    "Apple": [
+      {
+        "title": "iPhone 15 (Refurbished)",
+        "link": "https://www.backmarket.com/en-us/p/iphone-15",
+        "original_price": 699.0,
+        "sale_price": 336.0,
+        "discount_pct": 52
+      }
+    ],
+    "action camera": [
+      {
+        "title": "GoPro HERO11 Black Action Camera",
+        "link": "https://slickdeals.net/f/18320497-gopro-hero11-action-camera-black-target-149-99-ymmv-in-store-only",
+        "original_price": 300.0,
         "sale_price": 149.99,
         "discount_pct": 50
       }
@@ -56,55 +74,55 @@
   },
   "electronics": [
     {
-      "title": "Monoprice BT-600ANC Bluetooth Over Ear Headphones with Active Noise Cancelling",
-      "link": "https://www.monoprice.com/pages/overstock_moredeals",
-      "original_price": 119.99,
-      "sale_price": 49.99,
-      "discount_pct": 58
+      "title": "Acer Aspire 3 15.6\" Laptop AMD Ryzen 5 7520 16GB RAM 1TB SSD (Refurbished)",
+      "link": "https://www.ebay.com/itm/266889342994",
+      "original_price": 500.0,
+      "sale_price": 244.0,
+      "discount_pct": 51
+    },
+    {
+      "title": "Insignia 43\" Class F50 Series LED 4K UHD Smart Fire TV (NS-43F501NA26)",
+      "link": "https://www.bestbuy.com/product/insignia-43-class-f50-series-led-4k-uhd-smart-fire-tv/J2FPJK9F8G",
+      "original_price": 199.99,
+      "sale_price": 99.99,
+      "discount_pct": 50
     }
   ],
   "general": [
     {
-      "title": "La Sportiva Hiking Boots (Men's/Women's, select styles)",
-      "link": "https://www.backcountry.com/rc/la-sportiva-on-sale",
-      "original_price": 189.0,
-      "sale_price": 94.5,
+      "title": "Instant Pot Duo Plus 9-in-1 Multicooker, Stainless Steel, 6 Quart",
+      "link": "https://www.amazon.com/Instant-Pot-Plus-60-Programmable/dp/B01NBKTPTS",
+      "original_price": 139.99,
+      "sale_price": 69.99,
       "discount_pct": 50
     },
     {
-      "title": "adidas Men's Samba OG Shoes (White/Green/Gum)",
-      "link": "https://slickdeals.net/f/19010773-adidas-men-s-samba-og-shoes-white-green-gum-46-97-free-shipping-on-49",
-      "original_price": 99.99,
-      "sale_price": 46.97,
+      "title": "Sampson 84 in. Genuine Leather Square Arms 3-Seat Sofa",
+      "link": "https://www.homedepot.com/p/Sampson-84-in-Genuine-Leather-Square-Arms-3-Seat-Sofa-in-Whisky-Brown-with-Sturdy-Wood-Legs-and-Nailhead-Trim-SS-BROWN-1/339337020",
+      "original_price": 2059.0,
+      "sale_price": 969.0,
       "discount_pct": 53
     },
     {
-      "title": "Kobalt 24V Max 1/2-in Brushless Cordless Drill (Battery & Charger Included)",
-      "link": "https://www.lowes.com/pd/Kobalt-24-Volt-Max-1-2-in-Brushless-Cordless-Drill-Charger-Included/1000604919",
-      "original_price": 159.0,
-      "sale_price": 79.0,
-      "discount_pct": 50
+      "title": "Homsee 84 in. Dining Table (Seats 6) with Solid Oak Legs",
+      "link": "https://www.homedepot.com/p/Homsee-Modern-Black-Engineered-Wood-84-in-4-Leg-Base-Dining-Table-Seats-6-with-Solid-Oak-Legs-Z-HS590043-01/341338497",
+      "original_price": 1799.99,
+      "sale_price": 720.0,
+      "discount_pct": 60
     },
     {
-      "title": "Dash Stacks 8-Piece Stacking Cookware Set with Electric Burner",
-      "link": "https://www.southernsavers.com/woot-kitchen-sale-cookware-bakeware-more",
-      "original_price": 119.99,
-      "sale_price": 59.99,
-      "discount_pct": 50
+      "title": "adidas Gazelle Indoor Shoes (Women's), Outlet",
+      "link": "https://www.ebay.com/shop/adidas-gazelle-indoor",
+      "original_price": 130.0,
+      "sale_price": 61.0,
+      "discount_pct": 53
     },
     {
-      "title": "Bunch O Balloons Reusable Animal Printed Water Balloons, 8pc",
-      "link": "https://www.target.com/p/bunch-o-balloons-reusable-animal-printed-water-balloons-toys-8pc/-/A-94748584",
-      "original_price": 19.99,
-      "sale_price": 9.99,
-      "discount_pct": 50
-    },
-    {
-      "title": "Bluey Siblings Interactive Plush - 2pk",
-      "link": "https://www.target.com/p/bluey-siblings-feature-plush-2pk/-/A-93585024",
-      "original_price": 49.99,
-      "sale_price": 24.99,
-      "discount_pct": 50
+      "title": "RYOBI ONE+ 18V Lithium-Ion Starter Kit with 2.0 Ah Battery, 4.0 Ah Battery, and Charger (PSK106SB)",
+      "link": "https://www.homedepot.com/p/RYOBI-ONE-18V-Lithium-Ion-Starter-Kit-with-2-0-Ah-Battery-4-0-Ah-Battery-and-Charger-PSK106SB/327848851",
+      "original_price": 204.0,
+      "sale_price": 80.0,
+      "discount_pct": 61
     }
   ]
 }
