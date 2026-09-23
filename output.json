@@ -1,128 +1,128 @@
 {
-  "date": "2026-09-22",
+  "date": "2026-09-23",
   "steals": [
     {
-      "title": "LEGO DUPLO My First 3-in-1 Creative Cute Pets, Set 10477",
-      "link": "https://www.walmart.com/ip/LEGO-DUPLO-My-First-10477/17067319822",
-      "original_price": 20.0,
-      "sale_price": 5.0,
-      "discount_pct": 75
+      "title": "RIDGID 18V MAX Output Starter Kit with (2) 4.0 Ah Batteries and Charger",
+      "link": "https://www.homedepot.com/p/RIDGID-18V-MAX-Output-Starter-Kit-with-2-4-0-Ah-Batteries-and-Charger-AC8609340SB/328296486",
+      "original_price": 308.0,
+      "sale_price": 79.0,
+      "discount_pct": 74
     },
     {
-      "title": "Bestway Hydro-Force 1-Person Ventura Elite Inflatable Kayak Set",
-      "link": "https://sport.woot.com/offers/bestway-hydro-force-1-person-inflatable-kayak-set-6",
-      "original_price": 259.99,
-      "sale_price": 69.99,
-      "discount_pct": 73
+      "title": "Apple iPhone SE (2nd Gen) Grade A Refurbished",
+      "link": "https://www.dealnews.com/Refurb-Apple-iPhone-Watch-Grade-A-Deals-at-Woot-for-From-90-free-shipping-w-Prime/22200669.html",
+      "original_price": 399.0,
+      "sale_price": 89.99,
+      "discount_pct": 77
     }
   ],
   "watchlist": {
+    "home & kitchen": [
+      {
+        "title": "Ninja Foodi NeverStick PossiblePan Premium Cookware Set (4-Quart)",
+        "link": "https://www.amazon.com/Ninja-CW102CP-NeverStick-PossiblePan-Integrated/dp/B09SBVL4X9",
+        "original_price": 159.99,
+        "sale_price": 79.99,
+        "discount_pct": 50
+      }
+    ],
+    "apparel & shoes": [
+      {
+        "title": "Brooks Men's Hyperion 3 Running Shoes",
+        "link": "https://www.dealnews.com/Brooks-Mens-Hyperion-3-Running-Shoes-for-70-free-shipping/22195203.html",
+        "original_price": 140.0,
+        "sale_price": 70.0,
+        "discount_pct": 50
+      }
+    ],
+    "toys & games": [
+      {
+        "title": "WWE 2K26 - PlayStation 5",
+        "link": "https://www.dealnews.com/WWE-2-K26-for-Play-Station-5-for-35-free-shipping-w-35/22059025.html",
+        "original_price": 69.99,
+        "sale_price": 34.99,
+        "discount_pct": 50
+      }
+    ],
     "Walmart": [
       {
-        "title": "Ophanie Queen Air Mattress with Built-in Pump",
-        "link": "https://parade.com/shopping/walmart-ophanie-air-mattress-sale",
-        "original_price": 120.0,
-        "sale_price": 60.0,
-        "discount_pct": 50
+        "title": "Philergo 28\" Propane Fire Pit Table, 50,000 BTU with Lid and Lava Rocks",
+        "link": "https://www.walmart.com/ip/28-Gas-Fire-Pit-Table-for-Outside-50000-BTU-Propane-Fire-Pit-with-Lid-and-Lava-Rocks/2324694302",
+        "original_price": 310.0,
+        "sale_price": 150.0,
+        "discount_pct": 52
       }
     ],
     "fishing": [
       {
-        "title": "Lew's Team Pro Ti Speed Stick Spinning Rod",
-        "link": "https://www.tacklewarehouse.com/Lews_Team_Pro_Ti_Speed_Stick_Spinning_Rods/descpage-LTIS.html",
-        "original_price": 299.99,
-        "sale_price": 149.97,
+        "title": "PELAGIC Pursuit Polarized Mineral Glass Fishing Sunglasses",
+        "link": "https://pelagicgear.com/products/pursuit-matte-black-gold",
+        "original_price": 229.0,
+        "sale_price": 114.5,
         "discount_pct": 50
       }
     ],
     "outdoors": [
       {
-        "title": "Eddie Bauer Men's Radiator Fleece 1/4-Zip Pullover",
-        "link": "https://www.eddiebauer.com/products/mens-radiator-fleece-14-zip-13502138",
-        "original_price": 75.0,
-        "sale_price": 29.97,
-        "discount_pct": 60
+        "title": "Coleman Montana 8-Person Camping Tent",
+        "link": "https://www.dickssportinggoods.com/p/coleman-montana-8-person-camping-tent-25colucampmntn8prsdjs/25colucampmntn8prsdjs",
+        "original_price": 240.0,
+        "sale_price": 120.0,
+        "discount_pct": 50
       }
     ],
     "REI": [
       {
-        "title": "Columbia PFG Uncharted Neps Shirt",
-        "link": "https://www.tomsguide.com/wellness/fitness/reis-sale-section-just-restocked-with-deals-under-usd50-heres-everything-worth-shopping-ahead-of-fall",
-        "original_price": 55.0,
-        "sale_price": 26.0,
-        "discount_pct": 53
+        "title": "The North Face Kikash Wind Jacket - Women's",
+        "link": "https://www.rei.com/product/254048/the-north-face-kikash-wind-jacket-womens",
+        "original_price": 150.0,
+        "sale_price": 59.99,
+        "discount_pct": 60
       }
     ],
-    "Apple": [
+    "Patagonia jacket": [
       {
-        "title": "iPhone 15 (Refurbished)",
-        "link": "https://www.backmarket.com/en-us/p/iphone-15",
-        "original_price": 699.0,
-        "sale_price": 336.0,
-        "discount_pct": 52
+        "title": "Patagonia Men's Nano Puff Packable Insulated Jacket",
+        "link": "https://www.patagonia.com/shop/web-specials-1",
+        "original_price": 239.0,
+        "sale_price": 118.99,
+        "discount_pct": 50
       }
     ],
-    "action camera": [
+    "paddleboard": [
       {
-        "title": "GoPro HERO11 Black Action Camera",
-        "link": "https://slickdeals.net/f/18320497-gopro-hero11-action-camera-black-target-149-99-ymmv-in-store-only",
-        "original_price": 300.0,
-        "sale_price": 149.99,
+        "title": "HO Sports Hyperlite 10' Elevation 2.0 Dual-Pontoon iSUP",
+        "link": "https://app.warehouserunner.com/costco/1741400-ho-sports-hyperlite-10-elevation-2-0-dual-pontoon-isup",
+        "original_price": 399.99,
+        "sale_price": 199.97,
+        "discount_pct": 50
+      }
+    ],
+    "Costco": [
+      {
+        "title": "Sony 85\" Class X90CK 4K UHD LED LCD TV - Costco Clearance",
+        "link": "https://slickdeals.net/f/16949926-costco-ymmv-sony-xr85x90ck-86-tv-999-97-clearance",
+        "original_price": 1999.99,
+        "sale_price": 999.97,
         "discount_pct": 50
       }
     ]
   },
   "electronics": [
     {
-      "title": "Acer Aspire 3 15.6\" Laptop AMD Ryzen 5 7520 16GB RAM 1TB SSD (Refurbished)",
-      "link": "https://www.ebay.com/itm/266889342994",
-      "original_price": 500.0,
-      "sale_price": 244.0,
-      "discount_pct": 51
+      "title": "Sony WH-1000XM5 Wireless Noise Canceling Headphones",
+      "link": "https://sammyguru.com/sony-wh-1000xm5-deal-198-amazon/",
+      "original_price": 399.99,
+      "sale_price": 198.0,
+      "discount_pct": 50
     },
     {
-      "title": "Insignia 43\" Class F50 Series LED 4K UHD Smart Fire TV (NS-43F501NA26)",
-      "link": "https://www.bestbuy.com/product/insignia-43-class-f50-series-led-4k-uhd-smart-fire-tv/J2FPJK9F8G",
-      "original_price": 199.99,
-      "sale_price": 99.99,
-      "discount_pct": 50
+      "title": "Samsung 32\" OLED M9 (M90SF) Smart Monitor, 4K QD-OLED, 165Hz",
+      "link": "https://www.dealtikka.com/only-798-regularly-2000-samsung-32-oled-m9-m90sf-smart-monitor-with-4k-qd-oled-165hz-0-03ms-gaming-hub-samsung-vision-ai/",
+      "original_price": 2000.0,
+      "sale_price": 798.0,
+      "discount_pct": 60
     }
   ],
-  "general": [
-    {
-      "title": "Instant Pot Duo Plus 9-in-1 Multicooker, Stainless Steel, 6 Quart",
-      "link": "https://www.amazon.com/Instant-Pot-Plus-60-Programmable/dp/B01NBKTPTS",
-      "original_price": 139.99,
-      "sale_price": 69.99,
-      "discount_pct": 50
-    },
-    {
-      "title": "Sampson 84 in. Genuine Leather Square Arms 3-Seat Sofa",
-      "link": "https://www.homedepot.com/p/Sampson-84-in-Genuine-Leather-Square-Arms-3-Seat-Sofa-in-Whisky-Brown-with-Sturdy-Wood-Legs-and-Nailhead-Trim-SS-BROWN-1/339337020",
-      "original_price": 2059.0,
-      "sale_price": 969.0,
-      "discount_pct": 53
-    },
-    {
-      "title": "Homsee 84 in. Dining Table (Seats 6) with Solid Oak Legs",
-      "link": "https://www.homedepot.com/p/Homsee-Modern-Black-Engineered-Wood-84-in-4-Leg-Base-Dining-Table-Seats-6-with-Solid-Oak-Legs-Z-HS590043-01/341338497",
-      "original_price": 1799.99,
-      "sale_price": 720.0,
-      "discount_pct": 60
-    },
-    {
-      "title": "adidas Gazelle Indoor Shoes (Women's), Outlet",
-      "link": "https://www.ebay.com/shop/adidas-gazelle-indoor",
-      "original_price": 130.0,
-      "sale_price": 61.0,
-      "discount_pct": 53
-    },
-    {
-      "title": "RYOBI ONE+ 18V Lithium-Ion Starter Kit with 2.0 Ah Battery, 4.0 Ah Battery, and Charger (PSK106SB)",
-      "link": "https://www.homedepot.com/p/RYOBI-ONE-18V-Lithium-Ion-Starter-Kit-with-2-0-Ah-Battery-4-0-Ah-Battery-and-Charger-PSK106SB/327848851",
-      "original_price": 204.0,
-      "sale_price": 80.0,
-      "discount_pct": 61
-    }
-  ]
+  "general": []
 }
