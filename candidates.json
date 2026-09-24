@@ -1,29 +1,14 @@
 {
-  "date": "2026-09-23",
+  "date": "2026-09-24",
   "items": [
-    {"title": "Acer Chromebook 315 15.6\" Laptop (64GB) with case bundle", "link": "https://www.androidcentral.com/chromebooks-laptops/labor-day-deals-start-early-at-best-buy-with-50-percent-off-this-top-rated-acer-chromebook-and-protective-case-bundle", "original_price": 300, "sale_price": 150, "category": "electronics"},
-    {"title": "Sony WH-1000XM5 Wireless Noise Canceling Headphones", "link": "https://sammyguru.com/sony-wh-1000xm5-deal-198-amazon/", "original_price": 399.99, "sale_price": 198, "category": "electronics"},
-    {"title": "Verbatim 1TB Pocket SSD (USB-C, up to 1000MB/s)", "link": "https://9to5toys.com/2026/08/19/tiny-1tb-portable-ssd-is-now-50-off-at-a-150-all-time-low/", "original_price": 300, "sale_price": 149.99, "category": "electronics"},
-    {"title": "LG 77-Inch Class B5 Series OLED AI 4K UHD Smart webOS TV (2025)", "link": "https://www.androidcentral.com/streaming-tv/this-77-inch-lg-oled-tv-just-scored-50-percent-off-at-best-buy-marking-usd1-500-in-savings", "original_price": 2999.99, "sale_price": 1499.99, "category": "electronics"},
-    {"title": "Samsung 32\" OLED M9 (M90SF) Smart Monitor, 4K QD-OLED, 165Hz", "link": "https://www.dealtikka.com/only-798-regularly-2000-samsung-32-oled-m9-m90sf-smart-monitor-with-4k-qd-oled-165hz-0-03ms-gaming-hub-samsung-vision-ai/", "original_price": 2000, "sale_price": 798, "category": "electronics"},
-
-    {"title": "Ninja Foodi NeverStick PossiblePan Premium Cookware Set (4-Quart)", "link": "https://www.amazon.com/Ninja-CW102CP-NeverStick-PossiblePan-Integrated/dp/B09SBVL4X9", "original_price": 159.99, "sale_price": 79.99, "category": "home & kitchen"},
-    {"title": "Brooks Men's Hyperion 3 Running Shoes", "link": "https://www.dealnews.com/Brooks-Mens-Hyperion-3-Running-Shoes-for-70-free-shipping/22195203.html", "original_price": 140, "sale_price": 70, "category": "apparel & shoes"},
-    {"title": "RIDGID 18V MAX Output Starter Kit with (2) 4.0 Ah Batteries and Charger", "link": "https://www.homedepot.com/p/RIDGID-18V-MAX-Output-Starter-Kit-with-2-4-0-Ah-Batteries-and-Charger-AC8609340SB/328296486", "original_price": 308, "sale_price": 79, "category": "tools & home improvement"},
-    {"title": "WWE 2K26 - PlayStation 5", "link": "https://www.dealnews.com/WWE-2-K26-for-Play-Station-5-for-35-free-shipping-w-35/22059025.html", "original_price": 69.99, "sale_price": 34.99, "category": "toys & games"},
-
-    {"title": "PABIMIA 14 FT x 12 FT Heavy-Duty Steel Outdoor Storage Shed", "link": "https://www.walmart.com/ip/PABIMIA-14-FT-x-12-FT-Heavy-Duty-Steel-Outdoor-Storage-Shed-Garden-Tool-Shed-with-Lockable-Doors-Black-Roof/19602120999", "original_price": 940, "sale_price": 470, "category": "outdoor shed"},
-    {"title": "Philergo 28\" Propane Fire Pit Table, 50,000 BTU with Lid and Lava Rocks", "link": "https://www.walmart.com/ip/28-Gas-Fire-Pit-Table-for-Outside-50000-BTU-Propane-Fire-Pit-with-Lid-and-Lava-Rocks/2324694302", "original_price": 310, "sale_price": 150, "category": "Walmart"},
-    {"title": "PELAGIC Pursuit Polarized Mineral Glass Fishing Sunglasses", "link": "https://pelagicgear.com/products/pursuit-matte-black-gold", "original_price": 229, "sale_price": 114.50, "category": "fishing"},
-    {"title": "Coleman Montana 8-Person Camping Tent", "link": "https://www.dickssportinggoods.com/p/coleman-montana-8-person-camping-tent-25colucampmntn8prsdjs/25colucampmntn8prsdjs", "original_price": 240, "sale_price": 120, "category": "outdoors"},
-    {"title": "Patagonia Terravia Mini Hip Pack 1L", "link": "https://www.patagonia.com/product/terravia-mini-hip-pack-1-liter/49448.html", "original_price": 35, "sale_price": 17, "category": "outdoors"},
-    {"title": "The North Face Kikash Wind Jacket - Women's", "link": "https://www.rei.com/product/254048/the-north-face-kikash-wind-jacket-womens", "original_price": 150, "sale_price": 59.99, "category": "REI"},
-    {"title": "Patagonia Nano Puff Insulated Jacket - Men's (REI)", "link": "https://www.rei.com/product/249151/patagonia-nano-puff-insulated-jacket-mens", "original_price": 229, "sale_price": 114, "category": "REI"},
-
-    {"title": "Patagonia Men's Nano Puff Packable Insulated Jacket", "link": "https://www.patagonia.com/shop/web-specials-1", "original_price": 239, "sale_price": 118.99, "category": "Patagonia jacket"},
-    {"title": "Dick's Sporting Goods Kayaks (Select Models)", "link": "https://hip2save.com/deals/kayaks-dicks-sporting-goods/", "original_price": 229.99, "sale_price": 114.99, "category": "kayak"},
-    {"title": "HO Sports Hyperlite 10' Elevation 2.0 Dual-Pontoon iSUP", "link": "https://app.warehouserunner.com/costco/1741400-ho-sports-hyperlite-10-elevation-2-0-dual-pontoon-isup", "original_price": 399.99, "sale_price": 199.97, "category": "paddleboard"},
-    {"title": "Apple iPhone SE (2nd Gen) Grade A Refurbished", "link": "https://www.dealnews.com/Refurb-Apple-iPhone-Watch-Grade-A-Deals-at-Woot-for-From-90-free-shipping-w-Prime/22200669.html", "original_price": 399, "sale_price": 89.99, "category": "Apple"},
-    {"title": "Sony 85\" Class X90CK 4K UHD LED LCD TV - Costco Clearance", "link": "https://slickdeals.net/f/16949926-costco-ymmv-sony-xr85x90ck-86-tv-999-97-clearance", "original_price": 1999.99, "sale_price": 999.97, "category": "Costco"}
+    {"title": "KitchenAid Refurbished Artisan Series 5 Quart Tilt-Head Stand Mixer (RRK150)", "link": "https://slickdeals.net/f/19136719-kitchenaid-refurbished-artisan-series-5-quart-tilt-head-stand-mixer-rrk150-50-off-249-99", "original_price": 499.99, "sale_price": 249.99, "category": "general"},
+    {"title": "Klein Tools MODbox 6-Pocket Tool Pouch at Lowe's", "link": "https://slickdeals.net/f/19654344-klein-tools-modbox-6-pocket-tool-pouch-9-99-lowe-s", "original_price": 19.99, "sale_price": 9.99, "category": "general"},
+    {"title": "adidas Men's Purechill Slides", "link": "https://www.dealnews.com/adidas-Mens-Purechill-Slides-for-18-free-shipping/22195200.html", "original_price": 75, "sale_price": 18, "category": "general"},
+    {"title": "Illumination Minions & Monsters 10-inch Comfeez Ed Weighted Plush", "link": "https://www.walmart.com/ip/MINIONS3-COMFEEZ-ED/19413561642", "original_price": 22.97, "sale_price": 10, "category": "general"},
+    {"title": "Patagonia Diamond Quilted Insulated Bomber Hoody (Men's)", "link": "https://www.rei.com/product/249822/patagonia-diamond-quilted-insulated-bomber-hoody-mens", "original_price": 199.00, "sale_price": 98.83, "category": "patagonia jacket"},
+    {"title": "Beats Studio Pro Wireless Noise Cancelling Headphones", "link": "https://www.soundguys.com/beats-studio-pro-deal-amazon-163101/", "original_price": 349.99, "sale_price": 169.99, "category": "electronics"},
+    {"title": "Lenovo ThinkVision T22i-30 21.5-inch FHD Monitor", "link": "https://www.tomshardware.com/monitors/enjoy-huge-discounts-up-to-50-percent-off-lenovo-productivity-monitors-thinkvision-series-from-21-inches-to-34-inches-for-under-usd500", "original_price": 263, "sale_price": 129, "category": "electronics"},
+    {"title": "LG 77\" Class B5 Series OLED AI 4K UHD Smart webOS TV (2025)", "link": "https://www.bestbuy.com/product/lg-77-class-b5-series-oled-ai-4k-uhd-smart-webos-tv-2025/JJ8VPZTKZW", "original_price": 2999.99, "sale_price": 1499.99, "category": "electronics"},
+    {"title": "HOKA Speedgoat 6 Trail-Running Shoes - Women's", "link": "https://www.rei.com/product/229732/hoka-speedgoat-6-trail-running-shoes-womens", "original_price": 155.0, "sale_price": 76.83, "category": "rei"}
   ]
 }

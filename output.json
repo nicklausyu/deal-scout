@@ -1,128 +1,57 @@
 {
-  "date": "2026-09-23",
+  "date": "2026-09-24",
   "steals": [
     {
-      "title": "RIDGID 18V MAX Output Starter Kit with (2) 4.0 Ah Batteries and Charger",
-      "link": "https://www.homedepot.com/p/RIDGID-18V-MAX-Output-Starter-Kit-with-2-4-0-Ah-Batteries-and-Charger-AC8609340SB/328296486",
-      "original_price": 308.0,
-      "sale_price": 79.0,
-      "discount_pct": 74
-    },
-    {
-      "title": "Apple iPhone SE (2nd Gen) Grade A Refurbished",
-      "link": "https://www.dealnews.com/Refurb-Apple-iPhone-Watch-Grade-A-Deals-at-Woot-for-From-90-free-shipping-w-Prime/22200669.html",
-      "original_price": 399.0,
-      "sale_price": 89.99,
-      "discount_pct": 77
+      "title": "adidas Men's Purechill Slides",
+      "link": "https://www.dealnews.com/adidas-Mens-Purechill-Slides-for-18-free-shipping/22195200.html",
+      "original_price": 75.0,
+      "sale_price": 18.0,
+      "discount_pct": 76
     }
   ],
   "watchlist": {
-    "home & kitchen": [
+    "patagonia jacket": [
       {
-        "title": "Ninja Foodi NeverStick PossiblePan Premium Cookware Set (4-Quart)",
-        "link": "https://www.amazon.com/Ninja-CW102CP-NeverStick-PossiblePan-Integrated/dp/B09SBVL4X9",
-        "original_price": 159.99,
-        "sale_price": 79.99,
+        "title": "Patagonia Diamond Quilted Insulated Bomber Hoody (Men's)",
+        "link": "https://www.rei.com/product/249822/patagonia-diamond-quilted-insulated-bomber-hoody-mens",
+        "original_price": 199.0,
+        "sale_price": 98.83,
         "discount_pct": 50
       }
     ],
-    "apparel & shoes": [
+    "rei": [
       {
-        "title": "Brooks Men's Hyperion 3 Running Shoes",
-        "link": "https://www.dealnews.com/Brooks-Mens-Hyperion-3-Running-Shoes-for-70-free-shipping/22195203.html",
-        "original_price": 140.0,
-        "sale_price": 70.0,
-        "discount_pct": 50
-      }
-    ],
-    "toys & games": [
-      {
-        "title": "WWE 2K26 - PlayStation 5",
-        "link": "https://www.dealnews.com/WWE-2-K26-for-Play-Station-5-for-35-free-shipping-w-35/22059025.html",
-        "original_price": 69.99,
-        "sale_price": 34.99,
-        "discount_pct": 50
-      }
-    ],
-    "Walmart": [
-      {
-        "title": "Philergo 28\" Propane Fire Pit Table, 50,000 BTU with Lid and Lava Rocks",
-        "link": "https://www.walmart.com/ip/28-Gas-Fire-Pit-Table-for-Outside-50000-BTU-Propane-Fire-Pit-with-Lid-and-Lava-Rocks/2324694302",
-        "original_price": 310.0,
-        "sale_price": 150.0,
-        "discount_pct": 52
-      }
-    ],
-    "fishing": [
-      {
-        "title": "PELAGIC Pursuit Polarized Mineral Glass Fishing Sunglasses",
-        "link": "https://pelagicgear.com/products/pursuit-matte-black-gold",
-        "original_price": 229.0,
-        "sale_price": 114.5,
-        "discount_pct": 50
-      }
-    ],
-    "outdoors": [
-      {
-        "title": "Coleman Montana 8-Person Camping Tent",
-        "link": "https://www.dickssportinggoods.com/p/coleman-montana-8-person-camping-tent-25colucampmntn8prsdjs/25colucampmntn8prsdjs",
-        "original_price": 240.0,
-        "sale_price": 120.0,
-        "discount_pct": 50
-      }
-    ],
-    "REI": [
-      {
-        "title": "The North Face Kikash Wind Jacket - Women's",
-        "link": "https://www.rei.com/product/254048/the-north-face-kikash-wind-jacket-womens",
-        "original_price": 150.0,
-        "sale_price": 59.99,
-        "discount_pct": 60
-      }
-    ],
-    "Patagonia jacket": [
-      {
-        "title": "Patagonia Men's Nano Puff Packable Insulated Jacket",
-        "link": "https://www.patagonia.com/shop/web-specials-1",
-        "original_price": 239.0,
-        "sale_price": 118.99,
-        "discount_pct": 50
-      }
-    ],
-    "paddleboard": [
-      {
-        "title": "HO Sports Hyperlite 10' Elevation 2.0 Dual-Pontoon iSUP",
-        "link": "https://app.warehouserunner.com/costco/1741400-ho-sports-hyperlite-10-elevation-2-0-dual-pontoon-isup",
-        "original_price": 399.99,
-        "sale_price": 199.97,
-        "discount_pct": 50
-      }
-    ],
-    "Costco": [
-      {
-        "title": "Sony 85\" Class X90CK 4K UHD LED LCD TV - Costco Clearance",
-        "link": "https://slickdeals.net/f/16949926-costco-ymmv-sony-xr85x90ck-86-tv-999-97-clearance",
-        "original_price": 1999.99,
-        "sale_price": 999.97,
+        "title": "HOKA Speedgoat 6 Trail-Running Shoes - Women's",
+        "link": "https://www.rei.com/product/229732/hoka-speedgoat-6-trail-running-shoes-womens",
+        "original_price": 155.0,
+        "sale_price": 76.83,
         "discount_pct": 50
       }
     ]
   },
   "electronics": [
     {
-      "title": "Sony WH-1000XM5 Wireless Noise Canceling Headphones",
-      "link": "https://sammyguru.com/sony-wh-1000xm5-deal-198-amazon/",
-      "original_price": 399.99,
-      "sale_price": 198.0,
+      "title": "Lenovo ThinkVision T22i-30 21.5-inch FHD Monitor",
+      "link": "https://www.tomshardware.com/monitors/enjoy-huge-discounts-up-to-50-percent-off-lenovo-productivity-monitors-thinkvision-series-from-21-inches-to-34-inches-for-under-usd500",
+      "original_price": 263.0,
+      "sale_price": 129.0,
+      "discount_pct": 51
+    }
+  ],
+  "general": [
+    {
+      "title": "Klein Tools MODbox 6-Pocket Tool Pouch at Lowe's",
+      "link": "https://slickdeals.net/f/19654344-klein-tools-modbox-6-pocket-tool-pouch-9-99-lowe-s",
+      "original_price": 19.99,
+      "sale_price": 9.99,
       "discount_pct": 50
     },
     {
-      "title": "Samsung 32\" OLED M9 (M90SF) Smart Monitor, 4K QD-OLED, 165Hz",
-      "link": "https://www.dealtikka.com/only-798-regularly-2000-samsung-32-oled-m9-m90sf-smart-monitor-with-4k-qd-oled-165hz-0-03ms-gaming-hub-samsung-vision-ai/",
-      "original_price": 2000.0,
-      "sale_price": 798.0,
-      "discount_pct": 60
+      "title": "Illumination Minions & Monsters 10-inch Comfeez Ed Weighted Plush",
+      "link": "https://www.walmart.com/ip/MINIONS3-COMFEEZ-ED/19413561642",
+      "original_price": 22.97,
+      "sale_price": 10.0,
+      "discount_pct": 56
     }
-  ],
-  "general": []
+  ]
 }
