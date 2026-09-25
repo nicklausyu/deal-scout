@@ -1,57 +1,156 @@
 {
-  "date": "2026-09-24",
+  "date": "2026-09-25",
   "steals": [
     {
-      "title": "adidas Men's Purechill Slides",
-      "link": "https://www.dealnews.com/adidas-Mens-Purechill-Slides-for-18-free-shipping/22195200.html",
-      "original_price": 75.0,
-      "sale_price": 18.0,
-      "discount_pct": 76
+      "title": "The North Face Wawona Tent Front Porch Vestibule (Sierra clearance)",
+      "link": "https://www.sierra.com/s~backpacking-tent/clearance~1/",
+      "original_price": 100.0,
+      "sale_price": 25.0,
+      "discount_pct": 75
     }
   ],
   "watchlist": {
-    "patagonia jacket": [
+    "paddleboard": [
       {
-        "title": "Patagonia Diamond Quilted Insulated Bomber Hoody (Men's)",
-        "link": "https://www.rei.com/product/249822/patagonia-diamond-quilted-insulated-bomber-hoody-mens",
-        "original_price": 199.0,
-        "sale_price": 98.83,
+        "title": "Stand Up Paddle Board - Walmart Clearance",
+        "link": "https://www.walmart.com/browse/sports-outdoors/stand-up-paddle-boards/clearance/4125_546956_7276129_5286337_2501923",
+        "original_price": 199.99,
+        "sale_price": 99.99,
         "discount_pct": 50
       }
     ],
-    "rei": [
+    "Patagonia jacket": [
       {
-        "title": "HOKA Speedgoat 6 Trail-Running Shoes - Women's",
-        "link": "https://www.rei.com/product/229732/hoka-speedgoat-6-trail-running-shoes-womens",
-        "original_price": 155.0,
-        "sale_price": 76.83,
+        "title": "Patagonia Women's Lost Canyon Insulated Jacket (REI sale)",
+        "link": "https://www.tomsguide.com/wellness/fitness/huge-rei-sale-takes-up-to-50-off-patagonia-jackets-5-deals-id-buy-right-now",
+        "original_price": 197.86,
+        "sale_price": 98.93,
         "discount_pct": 50
+      }
+    ],
+    "outdoor shed": [
+      {
+        "title": "Homall Outdoor Canopy Storage Shed (Oxford/Silver)",
+        "link": "https://www.autoblog.com/deals/homall-waterproof-canopy-storage-shed-walmart-flash-sale-september-2026",
+        "original_price": 130.0,
+        "sale_price": 65.0,
+        "discount_pct": 50
+      },
+      {
+        "title": "Amopatio 8x10 Resin Outdoor Storage Shed",
+        "link": "https://www.thestreet.com/deals/amopatio-storage-shed-amazon-sale",
+        "original_price": 800.0,
+        "sale_price": 400.0,
+        "discount_pct": 50
+      }
+    ],
+    "fishing": [
+      {
+        "title": "Simms Flyweight Pack Vest (Sierra clearance)",
+        "link": "https://www.sierra.com/fishing~d~3018/clearance~1/",
+        "original_price": 199.95,
+        "sale_price": 79.0,
+        "discount_pct": 60
+      },
+      {
+        "title": "Frogg Toggs Anura II Technical Wading Shoes (Sierra clearance)",
+        "link": "https://www.sierra.com/fishing~d~3018/clearance~1/",
+        "original_price": 110.0,
+        "sale_price": 39.0,
+        "discount_pct": 65
+      },
+      {
+        "title": "Hardy HBX Saltwater Fly Rod (Sierra clearance)",
+        "link": "https://www.sierra.com/fishing~d~3018/clearance~1/",
+        "original_price": 1200.0,
+        "sale_price": 499.0,
+        "discount_pct": 58
+      }
+    ],
+    "outdoors": [
+      {
+        "title": "MSR Thunder Ridge 2-Person 3-Season Backpacking Tent (Sierra clearance)",
+        "link": "https://www.sierra.com/s~backpacking-tent/clearance~1/",
+        "original_price": 600.0,
+        "sale_price": 299.0,
+        "discount_pct": 50
+      },
+      {
+        "title": "Sea to Summit Ikos 2-Person Lightweight Tent (Sierra clearance)",
+        "link": "https://www.sierra.com/s~backpacking-tent/clearance~1/",
+        "original_price": 300.0,
+        "sale_price": 149.99,
+        "discount_pct": 50
+      }
+    ],
+    "Walmart": [
+      {
+        "title": "Tineco iFloor 5 Stretch Cordless Wet/Dry Vacuum and Mop (Walmart sale)",
+        "link": "https://www.aol.com/walmart-sales-dyson-vacuums-bissell-141300355.html",
+        "original_price": 500.0,
+        "sale_price": 180.0,
+        "discount_pct": 64
       }
     ]
   },
   "electronics": [
     {
-      "title": "Lenovo ThinkVision T22i-30 21.5-inch FHD Monitor",
-      "link": "https://www.tomshardware.com/monitors/enjoy-huge-discounts-up-to-50-percent-off-lenovo-productivity-monitors-thinkvision-series-from-21-inches-to-34-inches-for-under-usd500",
-      "original_price": 263.0,
-      "sale_price": 129.0,
-      "discount_pct": 51
+      "title": "Lenovo Yoga 7a 2-in-1 16\" 2K OLED Touchscreen Laptop (Ryzen AI 7 445, 24GB, 512GB) - Open Box",
+      "link": "https://slickdeals.net/f/20040552-open-boxes-lenovo-yoga-7a-2-in-1-16-fhd-oled-touch-ryzen-ai-7-445-24gb-lpddr5-512gb-ssd-774-99",
+      "original_price": 1549.99,
+      "sale_price": 774.99,
+      "discount_pct": 50
+    },
+    {
+      "title": "TCL 65\" Class QM5K Series 4K UHD QD-Mini LED Smart TV with Google TV (2025)",
+      "link": "https://slickdeals.net/f/19668876-tcl-65-class-qm5k-series-4k-uhd-qd-mini-led-smart-tv-with-google-tv-2025-449-99",
+      "original_price": 899.99,
+      "sale_price": 449.99,
+      "discount_pct": 50
+    },
+    {
+      "title": "Sennheiser ACCENTUM ANC Wireless Headphones",
+      "link": "https://electronics.woot.com/plus/awesome-audio",
+      "original_price": 199.95,
+      "sale_price": 79.95,
+      "discount_pct": 60
     }
   ],
   "general": [
     {
-      "title": "Klein Tools MODbox 6-Pocket Tool Pouch at Lowe's",
-      "link": "https://slickdeals.net/f/19654344-klein-tools-modbox-6-pocket-tool-pouch-9-99-lowe-s",
-      "original_price": 19.99,
-      "sale_price": 9.99,
+      "title": "adidas Terrex Free Hiker 2.0 GORE-TEX Hiking Shoes (Black)",
+      "link": "https://www.adidas.com/us/terrex-free-hiker-2.0-gore-tex-hiking-shoes/IH3524.html",
+      "original_price": 220.0,
+      "sale_price": 110.0,
       "discount_pct": 50
     },
     {
-      "title": "Illumination Minions & Monsters 10-inch Comfeez Ed Weighted Plush",
-      "link": "https://www.walmart.com/ip/MINIONS3-COMFEEZ-ED/19413561642",
-      "original_price": 22.97,
-      "sale_price": 10.0,
-      "discount_pct": 56
+      "title": "Backcountry Kanarra 2.5L Rain Jacket - Men's (Steep & Cheap)",
+      "link": "https://www.steepandcheap.com/backcountry-kanarra-2.5l-rain-jacket-mens",
+      "original_price": 99.0,
+      "sale_price": 49.5,
+      "discount_pct": 50
+    },
+    {
+      "title": "Ninja BL770 Mega Kitchen System (Blender/Food Processor)",
+      "link": "https://www.amazon.com/dp/B00939I7EK",
+      "original_price": 199.99,
+      "sale_price": 99.99,
+      "discount_pct": 50
+    },
+    {
+      "title": "Milwaukee M18 18V Cordless 8-Tool Combo Kit with 3 Batteries, Charger and 2 Bags",
+      "link": "https://www.homedepot.com/p/Milwaukee-M18-18V-Lithium-Ion-Cordless-Combo-Kit-8-Tool-with-3-Batteries-Charger-and-2-Tool-Bags-and-Drill-Bit-Sets-2696-28-48-32-4082-48-89-4631/329203262",
+      "original_price": 1298.0,
+      "sale_price": 649.0,
+      "discount_pct": 50
+    },
+    {
+      "title": "Barbie 2025 Holiday Ken Doll Collection",
+      "link": "https://www.macys.com/shop/product/barbie-2025-holiday-ken-doll-collection?ID=24337391",
+      "original_price": 32.99,
+      "sale_price": 16.43,
+      "discount_pct": 50
     }
   ]
 }
